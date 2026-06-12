@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="fi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Riiali sukupuu editori</title>
+  <link rel="stylesheet" href="editor.css">
+</head>
+<body>
+  <header>
+    <h1>Riiali sukupuu editori</h1>
+    <p>Katso, suodata, muokkaa, lisää ja vie henkilot.json takaisin repoon.</p>
+  </header>
+
+  <main>
+    <section class="toolbar">
+      <div class="row">
+        <input id="search" type="search" placeholder="Hae nimellä, ID:llä, puolisolla, paikalla tai lähteellä">
+        <select id="generationFilter"><option value="">Kaikki sukupolvet</option></select>
+        <select id="issueFilter">
+          <option value="">Kaikki henkilöt</option>
+          <option value="issues">Vain tarkistettavat</option>
+          <option value="missingParent">Rikkinäinen vanhempi_id</option>
+          <option value="noSource">Puuttuva lähde</option>
+        </select>
+      </div>
+      <div class="row">
+        <button id="addPerson">Lisää henkilö</button>
+        <button id="duplicatePerson" class="secondary" disabled>Monista valittu</button>
+        <button id="deletePerson" class="danger" disabled>Poista valittu</button>
+        <button id="exportJson" class="secondary">Vie JSON</button>
+        <button id="exportCsv" class="secondary">Vie CSV</button>
+        <button id="resetLocal" class="ghost">Nollaa selaimen muutokset</button>
+        <label class="small">Tuo JSON <input id="importJson" type="file" accept="application/json,.json"></label>
+      </div>
+      <div id="stats" class="stats"></div>
+    </section>
+
+    <section id="validation" class="panel validation"></section>
+
+    <section class="grid">
+      <aside class="panel list" id="personList"></aside>
+      <section class="panel editor">
+        <h2 id="editorTitle">Valitse henkilö</h2>
+        <form id="personForm" class="form-grid hidden">
+          <label>ID<input name="id" required placeholder="esim. VII-43"></label>
+          <label>Sukupolvi<input name="sukupolvi" required placeholder="VII"></label>
+          <label class="full">Nimi<input name="nimi" required></label>
+          <label>Sukunimi<input name="sukunimi" placeholder="vain ei-Riialeilla, jos erillinen"></label>
+          <label>Syntymä<input name="syntyma" placeholder="YYYY, YYYY-MM tai YYYY-MM-DD"></label>
+          <label>Syntymäpaikka<input name="syntymapaikka"></label>
+          <label>Kuolema<input name="kuolema" placeholder="YYYY, YYYY-MM tai YYYY-MM-DD"></label>
+          <label>Vihitty<input name="vihitty" placeholder="YYYY, YYYY-MM tai YYYY-MM-DD"></label>
+          <label class="full">Puoliso<textarea name="puoliso"></textarea></label>
+          <label class="full">Paikat<textarea name="paikat"></textarea></label>
+          <label>Vanhempi ID<input name="vanhempi_id" placeholder="esim. VI-29"></label>
+          <label>Lähde<input name="lahde" placeholder="lohko_r04_c3.jpg"></label>
+          <label class="full">Huomiot<textarea name="huomiot"></textarea></label>
+          <div class="field full row">
+            <button type="submit">Tallenna muutokset</button>
+            <button id="clearSelection" type="button" class="ghost">Sulje</button>
+          </div>
+        </form>
+        <p id="emptyHelp" class="small">Valitse vasemmalta henkilö tai lisää uusi. Muutokset tallentuvat selaimeen, mutta varsinainen tiedosto syntyy vasta Vie JSON -napista. Pieni mutta tärkeä ero, ettei tule datalle temppurataa.</p>
+      </section>
+    </section>
+  </main>
+
+  <script src="editor.js"></script>
+</body>
+</html>
