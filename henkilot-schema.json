@@ -1,0 +1,29 @@
+{
+  "_ohje": "Yksi tietue per laatikko. id = sukupolvi + laatikon numero, esim. V-1. Tuntematon kenttä jätetään pois. lahde = lohkotiedosto, josta litteroitu.",
+  "henkilot": [
+    {
+      "id": "V-1",
+      "sukupolvi": "V",
+      "nimi": "Eeva Mariantr.",
+      "sukunimi": null,
+      "syntyma": "1845-04-06",
+      "kuolema": "1873-08-28",
+      "vihitty": "1861-06-02",
+      "puoliso": "Henrik (Heikki) Antinp. Laukkanen, s. 1838-01-29",
+      "paikat": "M. Mantilankumpu, Kangaskylä; muuttivat 1885 Sääminkiin",
+      "huomiot": "Vih. miehen II avioliitto 07.06.1874, v. Anna Kaisa Rinkinen",
+      "vanhempi_id": null,
+      "lapset_ids": [],
+      "lahde": "lohko_r03_c2.jpg"
+    },
+    {
+      "id": "VI-3",
+      "sukupolvi": "VI",
+      "nimi": "Vilhelmiina Laukkanen",
+      "syntyma": "1873-03-07",
+      "kuolema": "1873-11-26",
+      "vanhempi_id": "V-1",
+      "lahde": "lohko_r03_c3.jpg"
+    }
+  ]
+}

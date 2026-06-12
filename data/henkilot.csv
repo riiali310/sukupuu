@@ -1,0 +1,257 @@
+id,sukupolvi,nimi,syntyma,syntymapaikka,kuolema,vihitty,puoliso,vanhempi_id,lahde,paikat,huomiot
+I-1,I,Martti Riiali (Mårten Rijal),1715,,1790-05-26,,"Elin s. Joronen, s. 1723, k. 1788-02-01",,lohko_r08_c1.jpg,,Talollinen
+II-1,II,Simo Martinp. (Riiali),1754,,1803-05-09,,"Anna s. Huotilainen, s. 1755, k. 1810-06-22",I-1,lohko_r08_c1.jpg,Asuivat Joukion kylän talossa N:o 18,
+II-2,II,Tahvo (Stephan),1765,,,,,I-1,lohko_r03_c1.jpg,,
+II-3,II,Pauli (Paul),1768,,,,,I-1,lohko_r03_c1.jpg,,
+III-1,III,Elin,1777-03-12,,,,,II-1,lohko_r08_c1.jpg,,Kuoli lapsena
+III-2,III,Simo Simonp.,1780,,1850-06-29,,"Helena s. Nokelainen, s. 1785, k. 1856-09-27",II-1,lohko_r08_c1.jpg,,
+III-3,III,Anna Simontr.,1783-01-03,,1851-10-01,1818-02-15,"Tuomas Matinp. Terävä, s. 1785-04-21",II-1,lohko_r08_c1.jpg,,Kuoli Viipurissa
+III-4,III,Antti (Anders),1785-06-29,,,,,II-1,lohko_r08_c1.jpg,,
+III-5,III,Mikko Simonp.,1787,,1827-03-03,,"Anna s. Litmanen, s. 1793, oli elossa 1855",II-1,lohko_r08_c1.jpg,,
+III-6,III,Elin,1788-11-24,,,,,II-1,lohko_r08_c1.jpg,,
+IV-1,IV,Simo,1809,,1826-12-22,,,III-2,lohko_r08_c2(2).jpg,,
+IV-2,IV,Elin,1813-04-29,,1815-02-22,,,III-2,lohko_r08_c2(2).jpg,,
+IV-3,IV,Helena,1814-12-09,,1815-02-22,,,III-2,lohko_r08_c2(2).jpg,,
+IV-4,IV,Maria,1816-11-04,,1887-04-22,,,III-2,lohko_r08_c2(2).jpg,,"Jatkuu alempana; kuvassa myös muodossa Maria Simontr., syntymävuosi 1815 tai 1816"
+IV-5,IV,Katarina,1818-09-06,,1826-12-01,,,III-2,lohko_r08_c2(2).jpg,,
+IV-6,IV,Liisa (Elisabeth),1821-05-06,,,,,III-2,lohko_r08_c2(2).jpg,Muutti 1840 Kurkijoelle,Muutti 1840 Kurkijoelle
+IV-7,IV,Anna,1826-05-02,,1829-03-04,,,III-2,lohko_r08_c2(2).jpg,,
+IV-8,IV,Juhana Simonp.,1829-02-05,,1878-01-12,1855-06-14,"Maria Kristianintr. Harmanen, s. 1830-06-06, k. 1920-06-16",III-2,lohko_r08_c2(2).jpg,,"Vih. 14.06.1855; puoliso Maria Kristianintr. Harmanen, s. 1830-06-06, k. 1920-06-16"
+IV-9,IV,Matti,1831-09-23,,1887-04-06,1857-10-11,"II av. Anna Maria s. Nokelainen, s. 1839-04-12, k. 1878-06-12; III av. Agneta (Auno?) s. Terävä, s. 1834-01-21, k. 1890-05-22",III-2,lohko_r08_c2(2).jpg,,Oli naimaton 1855; jatkuu ylempänä
+IV-10,IV,Pauli (Paul) Terävä,1825-12-11,,1826-07-27,,,III-3,lohko_r08_c2(2).jpg,,
+IV-11,IV,Juho (Johan),1814-01-13,,1815-02-15,,,III-5,lohko_r03_c2.jpg,,
+IV-12,IV,Simo,1816-07-22,,1818-04-08,,,III-5,lohko_r03_c2.jpg,,
+IV-13,IV,Anna,1819-03-18,,,,,III-5,lohko_r03_c2.jpg,,
+IV-14,IV,Mikko,1821-03-20,,,,,III-5,lohko_r03_c2.jpg,,Mainitaan olleen Pietarissa
+IV-15,IV,Eeva,1824-05-14,,1826-12-04,,,III-5,lohko_r03_c2.jpg,,
+IV-16,IV,Kaarina (Catharina),1826-07-24,,1829-06-24,,,III-5,lohko_r03_c2.jpg,,
+V-1,V,Eeva Mariantr.,1845-04-06,,1873-08-28,1867-06-02,"Henrik (Heikki) Antinp. Laukkanen, s. 1838-01-29",IV-4,lohko_r10_c2.jpg,"Mantilankumpu, Kangaskylä N:o 7; muuttivat 1885 Sääminkiin",Miehen II avioliitto 07.06.1874 Anna Kaisa Rinkisen kanssa
+V-2,V,Lena (Leena),1856-04-19,,1858-01-25,,,IV-8,lohko_r09_c2(2).jpg,,
+V-3,V,Juhana Juhananp.,1863-10-05,,1923-09-11,1887-06-26,"Karoliina Martintr. Heinonen, s. 1866-08-05, k. 1937-07-29",IV-8,lohko_r09_c2(2).jpg,,
+V-4,V,Simo Simonp.,1866-06-14,,1941-07-22,1894-05-27,"Ida Matintr. Harmanen, s. 1873-12-12, k. 1940-07-28",,lohko_r08_c2(2).jpg,,
+V-5,V,Ida,1870-06-23,,1954-08-10,1894-05-27,"Aleksanteri Martinp. Heinonen, s. 1870-10-22, k. 1931-04-25",,lohko_r08_c2(2).jpg,,Kartassa maininta: lastenlapsia ei ole
+V-6,V,Anna Lena (Leena),1858-08-13,,1927-10-20,1878-12-01,"Joukio 9 lampuoti Johan (Juhana) Jakobinp. Rita, s. 1850 Rautjärvi, k. 1907-08-22",IV-8,lohko_r06_c2(2).jpg,,Mies jäi junan alle; paikkamerkintä osin epäselvä
+V-7,V,Henrik (Heikki) Matinp.,1864-01-11,,1903-09-05,1893,"Anna Briitta s. Valkeapää, s. 1860-11-05; vih. II av. 1904 Heikki Poutasen kanssa",IV-8,lohko_r06_c2(2).jpg,Meni vaimon kotiin Savikumpu 7:ään 1894,Kuoli sala-ampujan toimesta. Heikki Riialilla ei lapsia.
+V-8,V,Matti Matinp.,1866-03-17,,,1888-11-03,"I av. Brita Ahokas, s. 1868-07-22 Kurkijoki, k. 1891-06-23; II av. 02.10.1892 Ester Ahokas, s. 1862-09-22 Kurkijoki, k. 1922-01-14; III av. 06.08.1922 Helena Nisonen, s. Astikainen, s. 1876-03-02",IV-8,lohko_r05_c2(2).jpg,Muuttivat Kurkijoelle 06.10.1889; vaimo muutti Laukaaseen 31.12.1949,Matti k. 03.10.1933. III aviosta ei lapsia.
+V-9,V,Miina (Mina) Matintr.,1870-04-01,,1939-01-21,,,IV-9,lohko_r04_c2.jpg,,Kuoli naimattomana
+V-10,V,Aleksandra,1871-09-24,,1931-05-27,1896,"Paavo Vellonen, s. 1870-08-06, k. 1945-12-19",,lohko_r02_c2.jpg,,
+V-11,V,Mikko,1874-06-02,,1948-01-13,1924-03-16,"Aino s. Poutanen, s. 1891-11-26, k. 1972-05-24, muutti Sääminkiin 23.09.1949",,lohko_r01_c2.jpg,,
+V-12,V,Katrina,1874-06-02,,,,,,lohko_r01_c2.jpg,"Muutti naimatt. 31.10.1892 Käkisalmeen, 17.05.1896 Jääskestä Lappeelle, 04.12.1898 Viipuriin",Ei lapsia
+V-13,V,Ida,1878-05-18,,1878-08-30,,,,lohko_r01_c2.jpg,,
+V-14,V,Henrika,1878-05-18,,1878-09-08,,,,lohko_r01_c2.jpg,,
+VI-1,VI,Maria Lovisa Laukkanen,1867-06-30,,1940-02-28,1892,"Antti Martinp. Peippo, s. 1856-12-07, k. 1943-08-16",V-1,lohko_r10_c2.jpg,,
+VI-2,VI,Anna Leena Laukkanen,1870-11-28,,,,,V-1,lohko_r10_c2.jpg,Muutti Sääminkiin 1885,
+VI-3,VI,Vilhelmiina Laukkanen,1873-07-03,,1873-11-26,,,V-1,lohko_r09_c2(2).jpg,,
+VI-4,VI,Juhana,1889-03-06,,1889-07-07,,,V-3,lohko_r09_c2(2).jpg,,
+VI-5,VI,Aina (Aino),1891-12-17,,1973-05-14,,,V-3,lohko_r09_c2(2).jpg,"Muutti naimattomana Punkaharjulle 21.06.19??, takaisin P:laan 25.10.1967",Kuoli naimattomana; ei lapsia
+VI-6,VI,Johannes,1895-02-05,,1965-09-13,1922-06-11,"Hanna Lovisa Innanen, s. 1904-08-06, k. 1980-03-27",V-3,lohko_r09_c2(2).jpg,,
+VI-7,VI,Tyyni Hilma,1898-04-17,,,1922-06-11,"Ilmari Albert Forsbacka, s. 1898-02-21, k. 1970-06-23",V-4,lohko_r08_c2(2).jpg,,
+VI-8,VI,Tauno,1901-01-26,,1966-03-04,1932-07-03,"Impi Lyyli s. Sikiö, s. 1905-06-03",V-4,lohko_r08_c2(2).jpg,,Heillä ei lapsia
+VI-9,VI,Eero,1904-08-18,,1980-03-20,,,V-4,lohko_r08_c2(2).jpg,,Kuoli naimattomana; ei lapsia
+VI-10,VI,Johannes Heinonen,1895-07-25,,,,,V-5,lohko_r08_c2(2).jpg,,Naimaton
+VI-11,VI,Matti Heinonen,1897-01-01,,1971-06-29,,,V-5,lohko_r08_c2(2).jpg,,Kuoli naimattomana
+VI-12,VI,Helmi Lyydia Heinonen,1899-07-05,,1967-07-24,,,V-5,lohko_r08_c2(2).jpg,,Kuoli naimattomana
+VI-13,VI,Eino Heinonen,1902-07-26,,1924-11-17,,,V-5,lohko_r08_c2(2).jpg,,Kuoli naimattomana
+VI-14,VI,Aina Adolfina Heinonen,1904-07-08,,1928-09-16,,,V-5,lohko_r08_c2(2).jpg,,Kuoli naimattomana
+VI-15,VI,Toini Maria Heinonen,1906-06-02,,1906-08-17,,,V-5,lohko_r08_c2(2).jpg,,
+VI-18,VI,Ida Maria Rita,1883-11-16,,,,,V-6,lohko_r07_c2.jpg,Muutti naimattomana Antreaan 09.11.1911,Syntymävuosi epäselvä kuvassa
+VI-19,VI,Matti Rita,1884-09-25,,1948-06-05,,,V-6,lohko_r07_c2.jpg,,"Kuoli naimattomana, ei lapsia"
+VI-20,VI,Emma Eliina Rita,1887-09-14,,1930-03-28,1910-11-20,"Johan (Juhana) Kopra, s. 1878-08-05 Kirvu, k. 1952-06-08",V-6,lohko_r07_c2.jpg,Muutti P:laan 25.04.1912,
+VI-21,VI,Helmi Katriina Rita,1889-12-20,,1971-09-10,1913-08-24,"Edvard Harmanen, s. 1889-01-02, k. 1961-09-30",V-6,lohko_r06_c3(2).jpg,,
+VI-22,VI,Juhana Rita,1892-09-30,,1917-04-08,,,V-6,lohko_r06_c3(2).jpg,,"Kuoli naimattomana, ei lapsia"
+VI-23,VI,Aleksandra,1889-09-13,,,1912-07-14,"Juhana Astikainen, s. 1880-04-01 Kurkijoki, k. 1941-07-09",V-8,lohko_r06_c2(2).jpg,Muuttivat 10.06.1940 Keuruulle; vaimo muutti 11.09.1943 Kurkijoelle ja 14.12.1949 Äänekoskelle,Matin I:stä avioliitosta
+VI-24,VI,Heikki,1892-10-20,Kurkijoki,1924-12-30,1917-11-18,"Helmi s. Sonni, s. 1893-02-10; vaimo vih. II av. Pekka Lemmetyisen kanssa",V-8,lohko_r05_c2(2).jpg,,Matin II:stä avioliitosta; lapset I:stä aviosta
+VI-25,VI,Juhana,1895-02-15,Kurkijoki,,1920-05-02,"Hilma Katri Hopia, s. 1891-08-17 Jaakkima",V-8,lohko_r05_c2(2).jpg,Talollisia Mikrilä N:o 1:ssä; muuttivat Lappeen srk:n 14.06.1949,
+VI-26,VI,Matti,1897-02-18,Kurkijoki,1919-08-06,,,V-8,lohko_r05_c2(2).jpg,,Kuoli naimattomana
+VI-27,VI,Katrina Loviisa,1901-03-11,Kurkijoki,,1926-08-01,"Matti Kosonen, s. 1887-08-22, k. 1947-01-13",V-8,lohko_r05_c2(2).jpg,Vaimo muutti 21.02.1950 Laukaan srk,Tästä aviosta ei ole lapsia
+VI-28,VI,Ida Maria,1904-04-27,Kurkijoki,,1927-06-05,"Vilho Lappalainen, s. 1904-11-13, k. 1944-03-18",V-8,lohko_r05_c2(2).jpg,Muutti 22.01.1927 Viipurin maasrk; vaimo muutti 14.12.1948 Jyväskylän maasrk,
+VI-29,VI,Adolf Miinanp.,1895-05-20,,1955-07-23,1920-09-26,"Selma Matintr. s. Lattu, s. 1899-02-26 Rautjärvi, k. 1980-03-15",V-9,lohko_r04_c2.jpg,Muuttivat P:lasta Rautjärvelle 30.09.1921,Adolf kuoli Ruokolahdella
+VI-30,VI,Ida Miinantr.,1898-04-22,,1980-02-29,1935-06-02,"Eero Johannes Repo, s. 1903 (30.04. tai 30.07.), k. 1978-05-06",V-9,lohko_r03_c2.jpg,,Avioliitosta ei lapsia; lapset Idan (VII-44...47)
+VI-31,VI,Emma Miinantr.,1901-01-23,,1983-10-09,,,V-9,lohko_r03_c2.jpg,Muutti naimatt. 05.04.1946 Simpeleelle,Kuoli naimattomana Simpeleellä
+VI-32,VI,Hanna Maria Vellonen,1897-01-08,,1901-09-17,,,V-10,lohko_r03_c2.jpg,,Kuoli Sortavalassa
+VI-33,VI,Ida Vellonen,1898-08-08,,1948-11-21,,,V-10,lohko_r03_c2.jpg,,"Kuoli naimattomana, ei lapsia"
+VI-34,VI,Aina Hilja Vellonen,1900-08-06,,1978-05-20,1928-03-18,"Juhana Valkeapää, s. 1902-11-12, k. 1977-06-11",V-10,lohko_r03_c2.jpg,,
+VI-35,VI,Lauri Johannes Vellonen,1902-08-26,,1906-09-11,,,V-10,lohko_r02_c2.jpg,,
+VI-36,VI,Anna Vellonen,1903-09-24,,1964-02-10,,"August Manninen, k. 1926-07-19",V-10,lohko_r02_c2.jpg,Muutti P:lasta leskenä 18.01.1950 Simpeleelle,Vihkimispäivä ja miehen syntymäaika tyhjiä kartassa; kuolinvuosi 1964 vai 1967 – tarkista zoomiversiosta
+VI-37,VI,Johannes Vellonen,1906-02-08,,1941-07-29,1931-05-24,"Saimi Anni Edit s. Saukkonen, s. 1909-08-27 Sortavala, siirt. srk-jaossa Simpeleelle 1922, k. 1984-12-18",V-10,lohko_r02_c2.jpg,Muutti Simpeleelle 19.02.1931,Kaatui sodassa
+VI-38,VI,Matti Vellonen,1908-12-21,,,1936-09-13,"Aino s. Peuhkuri, s. 1909-12-01, muutti Simpeleelle 25.04.1935",V-10,lohko_r01_c2.jpg,Muutti Simpeleelle 19.02.1931,
+VI-39,VI,Aleksanteri Vellonen,1911-11-11,,1935-12-29,,,V-10,lohko_r01_c2.jpg,,"Kuoli naimattomana, ei lapsia"
+VI-40,VI,Yrjö Oskari,1924-12-01,,,1960-01-01,"Sisko Katri Andersin, s. 1917-05-29",V-11,lohko_r01_c2.jpg,Muutti S:linnaan 01.09.1960,
+VI-41,VI,Veikko Olavi,1926-10-22,,,,,V-11,lohko_r01_c2.jpg,Muutti Savonlinnaan naimattomana 23.09.1945,
+VII-1,VII,Kustaa Adolf Antinp. Peippo,1895-11-05,,,1919-10-20,"Anna Maria Antintr. Sormunen, s. 1898-05-22 Impilahti, k. 1938-09-16",VI-1,lohko_r10_c3.jpg,Tuli 20.02.1931 Simpeleeltä Impilahdelle; muutti 02.05.1950 Leppävirran srk,"Muuttivat 23.03.1936 Saarimäen, palasivat takaisin 28.12.1937"
+VII-2,VII,Anna Sofia Peippo,1901-07-25,,1982-03-04,1923-07-15,"Aleksanteri Kyheröinen, s. 1899-08-30, k. 1966-01-13",VI-1,lohko_r10_c3.jpg,Muuttivat Karinaisiin 11.02.1947,
+VII-3,VII,Toivo,1924-04-06,,1943-12-16,,,VI-6,lohko_r09_c3.jpg,,Kaatui sodassa
+VII-4,VII,Laina Ilona,1925-10-11,,,1946-08-25,"Toivo Armas Pietarinen, s. 1919-03-12 Nurmes",VI-6,lohko_r09_c3.jpg,,
+VII-5,VII,Irja Karoliina,1928-11-20,,,1964-08-30,"Olavi Sirviö, s. 1924-12-18 Padasjoki",VI-6,lohko_r09_c3.jpg,,
+VII-6,VII,Eino Olavi,1930-12-28,,,1957-08-18,"Laila Anita s. Väinö, s. 1934-02-05 Joensuu",VI-6,lohko_r09_c3.jpg,,
+VII-7,VII,Meeri Ellen,1933-10-13,,,1954-04-19,"Pertti Matias Hirvonen, s. 1931-10-25 Lumivaara",VI-7,lohko_r09_c3.jpg,,Eronneet
+VII-8,VII,Yrjö Kalevi,1936-02-17,,,1969-10-30,"Pirkko Maria s. Haaristo, s. 1939-12-11",VI-7,lohko_r08_c3.jpg,,
+VII-9,VII,Vieno Sinikka,1938-02-08,,,1961-06-21,"Eino Armas Santtila, s. 1939-09-11 Jurva",VI-7,lohko_r08_c3.jpg,,
+VII-10,VII,Onni Akseli Forsbacka,1931-02-26,,,1961-08-28,"Eine Elina Takkinen, s. 1933-03-04 Juva",VI-7,lohko_r08_c3.jpg,Muutti naimattomana Sääminkiin,
+VII-11,VII,Eeva Maria Rita,1905-03-28,,1980-10-16,1926-07-11,"Onni Poutanen, s. 1904-07-14, k. 1985-03-19",VI-18,lohko_r07_c2.jpg,Muuttivat Rantasalmelle 08.12.1947,
+VII-12,VII,Anton Johannes Rita,1910-08-08,,,,,VI-18,lohko_r07_c2.jpg,Muutti 13.10.1911 Antreaan; muutti 31.12.1949 naimattomana Hausjärven srk,
+VII-13,VII,Aarne Anterus Kopra,1912-03-28,,,,,VI-20,lohko_r07_c2.jpg,Siirt. siviilirekisteriin 18.12.1961,
+VII-14,VII,Väinö Artturi Kopra,1916-06-28,,1934-12-11,,,VI-20,lohko_r07_c2.jpg,,Kuoli naimattomana
+VII-15,VII,Aino (Aino) Esteri Kopra,1920-05-12,,1987-11-02,1951-12-12,"Tuomas Taponen, s. 1912-09-27 Kirvu, k. 1974-10-22",VI-20,lohko_r07_c2.jpg,,
+VII-16,VII,Kaari Helena Kopra,1922-02-23,,1922-04-27,,,VI-20,lohko_r07_c2.jpg,,
+VII-17,VII,Oiva Ilmari Harmanen,1914-05-27,,1982-11-13,1943-07-04,"Hilja s. Jääskeläinen, s. 1914-02-03",VI-21,lohko_r07_c2.jpg,,
+VII-18,VII,Anna Onerva Harmanen,1916-12-10,,,1941-06-23,"Väinö Eino Anttonen, s. 1911-03-31, k. 1970-05-29",VI-21,lohko_r07_c2.jpg,Muutti naimattomana 01.10.1934 Viipurin Tnk.srk,Eronneet
+VII-19,VII,Toini Marjatta Harmanen,1920-07-26,,1927-12-01,,,VI-21,lohko_r07_c2.jpg,,
+VII-20,VII,Anna Saima Aleksandrantr. Astikainen,1909-02-18,Kurkijoki,,1925-02-01,"Nikolai Keuramo, ent. Kamenski, s. 1898-05-02",VI-23,lohko_r06_c3(2).jpg,Muuttivat 19.12.1940 Jyväskylään,
+VII-21,VII,Hilja Maria Astikainen,1913-03-10,Kurkijoki,1928-03-14,,,VI-23,lohko_r06_c3(2).jpg,,Kuoli naimattomana
+VII-22,VII,Valmari Johannes Astikainen,1923-11-20,Kurkijoki,1924-09-21,,,VI-23,lohko_r06_c3(2).jpg,,
+VII-23,VII,Tyyne Siviä Astikainen,1926-11-24,Kurkijoki,,,,VI-23,lohko_r06_c3(2).jpg,Muutti 27.07.1945 Äänekoskelle,
+VII-24,VII,Meeri Mirjami Astikainen,1929-02-03,Kurkijoki,,,,VI-23,lohko_r06_c3(2).jpg,Muutti 14.12.1949 Äänekoskelle,
+VII-25,VII,Aili Ester,1918-09-03,Kurkijoki,,,,VI-24,lohko_r05_c3.jpg,Muutti 18.07.1940 Helsingin Sörnäisten suom. srk:aan naimattomana,
+VII-26,VII,Arvo,1921-07-04,,1929-02-22,,,VI-24,lohko_r05_c3.jpg,,
+VII-27,VII,Vilho Matti,1924-03-24,Kurkijoki,1924-07-08,,,VI-24,lohko_r05_c3.jpg,,
+VII-28,VII,Viljo Johannes,1922-09-25,Kurkijoki,1922-09-30,,,VI-25,lohko_r05_c3.jpg,,
+VII-29,VII,Toivo Johannes,1923-10-06,Kurkijoki,,1948-10-24,Kerttu Karjalainen L:rannasta,VI-25,lohko_r05_c3.jpg,Muutti L:rantaan 30.03.1949,
+VII-30,VII,Agda Elina,1926-02-05,Kurkijoki,,,,VI-27,lohko_r05_c3.jpg,Muutti 28.01.1949 Kaarinan srk:taan naimattomana,
+VII-31,VII,Sirkka Maria,1928-03-24,Kurkijoki,1942-10-29,,,VI-27,lohko_r05_c3.jpg,,
+VII-32,VII,Sinikka Lappalainen,1928-06-11,Kurkijoki,,1948-05-16,Kauko Olavi Göös Muuramesta,VI-28,lohko_r05_c3.jpg,Sinikka muutti 14.12.1948 Jyväskylän maasrk:n,
+VII-33,VII,Erkki Ensio Lappalainen,1929-06-06,Kurkijoki,,1946-11-02,Kirsti Helena Pihl,VI-28,lohko_r05_c3.jpg,"Jyväskylästä, jonne Erkki muutti 30.12.1946",
+VII-35,VII,Väinö,1923-06-26,Rautjärvi,,1952-08-03,"Hilkka Tellervo s. Myllyrinen, s. 1932-02-26 Joutseno",VI-29,lohko_r04_c3.jpg,,Avioero 07.02.1985
+VII-36,VII,Vilho Olavi,1925-10-01,Rautjärvi,,,,VI-29,lohko_r04_c3.jpg,Muutti 15.12.1971 naimattomana Joutsenoon,Ei lapsia
+VII-37,VII,Matti,1927-11-19,Rautjärvi,1957-01-20,,,VI-29,lohko_r04_c3.jpg,,Kuoli Ruokolahdella. Sicillä ei lapsia.
+VII-38,VII,Yrjö Kalevi,1930-06-02,Rautjärvi,1982-01-02,1952-08-03,"Kanerva Kyllikki s. Kitunen, s. 1932-01-13 Puumala",VI-29,lohko_r04_c3.jpg,Muuttivat 17.09.1973 Imatralle,
+VII-39,VII,Anja Annikki,1932-04-23,Ruokolahti,,,,VI-29,lohko_r04_c3.jpg,Muutti 26.02.1966 naimattomana Joutsenoon,
+VII-40,VII,Eeva Anelma,1934-04-29,Rautjärvi,,1960-06-12,"Tarmo Olavi Ruottinen, s. 1935-09-15 Sulkava",VI-29,lohko_r04_c3.jpg,Perhe muutti 16.01.1976 Imatralle ja 09.10.1978 Puumalaan,
+VII-41,VII,Martti Vilhelm,1936-05-12,Rautjärvi,,1960-10-02,"Lea Tellervo s. Kitunen, s. 1939-12-07 Puumala",VI-29,lohko_r04_c3.jpg,Perhe muutti 30.10.1965 Joutsenoon,
+VII-42,VII,Aili Tuulikki,1938-08-26,Rautjärvi,,1958-07-06,"Veikko Alfred Miettinen, s. 1931-02-10 Ruokolahti",VI-29,lohko_r04_c3.jpg,,
+VII-43,VII,Hilkka Liisa,1940-09-15,Rautjärvi,,1965-01-03,"Aimo Antti Akkanen, s. 1939-07-28 Ruokolahti",VI-29,lohko_r04_c3.jpg,Muutti L:rantaan 24.11.1964,Vanhempi alempana kartassa – täydennä vanhempi_id riviltä r04
+VII-44,VII,Oiva Antero Idanp.,1917-07-14,,1987-05-15,,,VI-30,lohko_r03_c3.jpg,,
+VII-45,VII,Eino Idanp.,1919-07-01,,1923-02-03,,,VI-30,lohko_r03_c3.jpg,,
+VII-46,VII,Eino Idanp.,1923-09-20,,1924-01-11,,,VI-30,lohko_r03_c3.jpg,,
+VII-47,VII,Sylvi Sanelma Idantr.,1926-01-01,,,,,VI-30,lohko_r03_c3.jpg,Muutti naimatt. 25.01.1947 Ruokolahdelle,
+VII-48,VII,Esko Ensio Emmanp.,1923-04-09,,,1947-04-07,"Toini Tellervo s. Kapanen, s. 1926-06-18 Kerimäki",VI-31,lohko_r03_c3.jpg,Muuttaneet 13.07.1956 Hämeenlinnaan,
+VII-49,VII,Sirkka Liisa Valkeapää,1929-07-02,,,1954-05-02,"Reino Johannes Sairanen, s. 1927-02-10 Äyräpää",VI-34,lohko_r03_c3.jpg,"Perhe muutti 29.12.1960 H:gistä Espooseen, 1967 Kirkkonummen srk",
+VII-50,VII,Hilkka Sisko Valkeapää,1932-11-28,,,1958-07-12,"Arvo Aulis Kuvaja, s. 1930-01-05 Viipuri",VI-34,lohko_r03_c3.jpg,Muutti 12.10.1955,
+VII-51,VII,Eero Sakari Valkeapää,1936-01-12,,,,Enni Inkeri Partanen,VI-34,lohko_r03_c3.jpg,,Vihkimispäivä ja vaimon syntymäaika tyhjiä kartassa
+VII-52,VII,Sinikka Marjatta Valkeapää,1940-02-17,,1985-05-19,1969-05-25,"Yrjö Antero Tuovinen, s. 1938-07-09 Joroinen",VI-34,lohko_r02_c3.jpg,Muuttivat Pieksämäeltä Keravalle 21.09.1970,
+VII-53,VII,Toivo August (Augusti) Manninen,1925-05-12,Pohj. Pirkkala,,,,VI-36,lohko_r02_c3.jpg,,Asuu Ruotsissa
+VII-54,VII,Anja Eevi Kaarin Vellonen,1932-07-28,Simpele,,1954-11-14,"Väinö Olavi Varis, s. 1923-06-20, k. 1972-02-07",VI-37,lohko_r02_c3.jpg,,
+VII-55,VII,Uolevi Johannes Vellonen,1934-03-16,Simpele,,1957-11-16,"Anja Laura Onerva s. Lankinen, s. 1939-02-28 Rautjärvi",VI-37,lohko_r02_c3.jpg,,
+VII-56,VII,Aila Saimi Marjatta Vellonen,1936-01-16,Simpele,,1960-12-26,"Martti Juhani Kokko, s. 1932-12-23 H:ki Töölö",VI-37,lohko_r02_c3.jpg,Muutti 09.07.1958 Uukuniemelle,
+VII-57,VII,Terttu Annikki Vellonen,1938-09-14,Viipuri,,1965-12-23,"Veikko Henrik Hassinen, s. 1929-07-07 Ilomantsi",VI-37,lohko_r02_c3.jpg,"Muutti Simpeleelle 15.08.1963, Säyneisiin 10.12.1964",
+VII-58,VII,Leena Marketta Vellonen,1941-09-30,Simpele,,1961-12-03,"Martti Kustaa Elovaara, s. 1937-03-24 Nivala, muutti Pielavedelle 25.03.1963; vaimo muutti P:vedelle 05.02.1963 H:gistä",VI-38,lohko_r01_c3.jpg,,
+VII-59,VII,Eira Anneli Vellonen,1945-07-18,Simpele,,1969-12-27,"Seppo Jorma Juhani Järvinen, s. 1944-08-08 Kemi",VI-38,lohko_r01_c3.jpg,Muutti Ruotsiin 02.01.1969; muuttivat Kurikkaan 02.07.1975,
+VII-60,VII,Paavo Juhani Vellonen,1950-07-11,Simpele,,1978-02-04,"Raija Liisa Helena s. Tynkkynen, s. 1953-11-29 Sääminki",VI-38,lohko_r01_c3.jpg,Muutti S:linnaan 13.08.1976,
+VIII-1,VIII,Aili Siviä Peippo,1920-09-01,,,,,VII-1,lohko_r10_c3.jpg,Muutti 17.09.1945 naimattomana Säämingin srk,
+VIII-2,VIII,Väinö Johannes Peippo,1922-06-22,,,1946-08-24,"Anna Esteri Laitinen, Leppävirta",VII-1,lohko_r10_c3.jpg,Muutti 16.11.1948 Leppävirran srk,
+VIII-3,VIII,Eino Olavi Heikki Peippo,1923-11-11,,,,,VII-1,lohko_r10_c3.jpg,Muutti 28.12.1950 naimattomana Rantasalmelle,
+VIII-4,VIII,Teuvo Kalevi Peippo,1928-02-19,,,,,VII-1,lohko_r10_c3.jpg,Muutti 14.11.1958 naimattomana Alaviron srk,
+VIII-5,VIII,Keijo Kalevi Peippo,1932-02-08,,,,,VII-1,lohko_r10_c3.jpg,Muutti 05.09.1955 naimattomana Seinäjoelle,
+VIII-6,VIII,Toini Kaarina Peippo,1934-01-12,,,,,VII-1,lohko_r10_c3.jpg,Muutti 02.10.1950 Leppävirran srk,
+VIII-7,VIII,Hilja Esteri Peippo,1938-09-05,Impilahti,,,,VII-1,lohko_r10_c3.jpg,Muutti 10.02.1949 Varkauteen,
+VIII-8,VIII,Enni Siviä Kyheröinen,1925-02-18,Simpele,,1945-04-01,"Eino Olavi Terävä, s. 1917-07-05, k. 1966-08-16",VII-2,lohko_r10_c3.jpg,"Muutti Karinaisiin 02.09.1948, edelleen Kiikkaan 03.09.1953",
+VIII-9,VIII,Aune Mirjam Kyheröinen,1933-06-14,Simpele,,1953-08-29,"Osmo Väinö Sakari Raikko, s. 1928-10-23 Marttila",VII-2,lohko_r10_c3.jpg,Muutti 11.02.1947 Karinaisiin,
+VIII-10,VIII,Markku Pekka Juhani Pietarinen,1947-02-17,Sääminki,,1980-12-22,"Anu s. Rantanen, s. 1951-03-10 H:ki",VII-4,lohko_r09_c3.jpg,,
+VIII-11,VIII,Erkki Armas Pietarinen,1949-04-15,Sääminki,,1971-06-26,"Liisa Katriina s. Kohonen, s. 1946-11-09 Savonlinna",VII-4,lohko_r09_c3.jpg,,
+VIII-12,VIII,Pirkko Liisa Johanna Pietarinen,1950-07-05,Sääminki,,1980-02-27,"Lothar Georg Johannes Masermann, s. 1925-08-08 Saksassa",VII-4,lohko_r09_c3.jpg,,
+VIII-13,VIII,Martti Veli Olavi Pietarinen,1953-10-12,Sääminki,,1986-08-23,"Seija s. Matinen, s. 1952-04-20 S:linna",VII-4,lohko_r09_c3.jpg,,
+VIII-14,VIII,Mirkku Riitta Helena Pietarinen,1955-07-20,S:linna,,,,VII-4,lohko_r09_c3.jpg,,
+VIII-15,VIII,Sari Sinikka Sirviö,1965-06-16,Savonranta,,,,VII-5,lohko_r09_c3.jpg,,
+VIII-16,VIII,Jarmo Olavi,1958-06-17,,,1980-05-03,"Kirsti Annika s. Nikupaa, s. 1959-11-21 S:linna",VII-6,lohko_r09_c3.jpg,,
+VIII-17,VIII,Arja Anita,1959-08-23,Luumäki,,,,VII-6,lohko_r09_c3.jpg,,
+VIII-18,VIII,Arto Veli Juhani,1966-03-09,Luumäki,,,,VII-6,lohko_r09_c3.jpg,,
+VIII-19,VIII,Raija Kaarina Hirvonen,1954-09-27,,,,,VII-7,lohko_r09_c3.jpg,,
+VIII-20,VIII,Pirjo Anneli Hirvonen,1956-04-26,,,1975-03-14,"Juhani From, s. 1953-11-02 Raisio",VII-7,lohko_r09_c3.jpg,,
+VIII-21,VIII,Juha Matias Hirvonen,1964-10-19,Raisio,,,,VII-7,lohko_r09_c3.jpg,,
+VIII-22,VIII,Jari Kalevi,1970-12-19,Turku,,,,VII-8,lohko_r08_c3.jpg,,
+VIII-23,VIII,Marianne Johanna,1979-04-21,Turku,,,,VII-8,lohko_r08_c3.jpg,,
+VIII-24,VIII,Matti Armas Santtila,1962-04-21,Ruovesi,,,,VII-9,lohko_r08_c3.jpg,,
+VIII-25,VIII,Riitta Sinikka Santtila,1963-11-10,Laihia,,,,VII-9,lohko_r08_c3.jpg,,
+VIII-26,VIII,Mikko Juhani Santtila,1969-10-12,Ruovesi,,,,VII-9,lohko_r08_c3.jpg,,
+VIII-27,VIII,Timo Forsbacka,1964-12-29,,,,,VII-10,lohko_r08_c3.jpg,,
+VIII-28,VIII,Gunnar Ensio Poutanen,1929-06-27,,,1950-06-11,"I av. Elina s. Peukku, s. 1928-08-05 Hiitola; II av. 26.03.1977 Maija Kyllikki s. Huupponen, s. 1953-08-09 Rantasalmi",VII-11,lohko_r07_c3(2).jpg,,Eronneet 20.03.1972
+VIII-29,VIII,Paavo Johannes Poutanen,1937-10-20,,,1958-11-02,"Anja Liisa s. Kosonen, s. 1937-11-03",VII-11,lohko_r07_c3(2).jpg,,
+VIII-30,VIII,Maire Ester Poutanen,1939-03-17,,1940-06-22,,,VII-11,lohko_r07_c3(2).jpg,,
+VIII-31,VIII,Marja-Liisa Poutanen,1945-09-30,,,1964-03-29,"Tuomo Ilmari Melaskoski, s. 1943-02-12",VII-11,lohko_r07_c3(2).jpg,,Avioero 12.10.1972
+VIII-32,VIII,Eila Anneli Harmanen,1944-02-08,,,1965-06-06,"Esko Juhani Heikkilä, s. 1942-11-23 Simpele",VII-17,lohko_r07_c3(2).jpg,,
+VIII-33,VIII,Eeva Kaarina Harmanen,1945-12-25,,,1971-07-04,"Timo Sakari Fischer, s. 1945-09-02 H:ki",VII-17,lohko_r07_c3(2).jpg,Muutti H:ki Roihuvuoren srk 07.07.1971,
+VIII-34,VIII,Elvi Maria Harmanen,1947-07-18,,,1964-10-11,"Laakko Tapani Heikkilä, s. 1944-07-30",VII-17,lohko_r07_c3(2).jpg,Muutti Imatralle 06.09.1965,
+VIII-35,VIII,Lahja Inkeri Anttonen,1942-08-28,H:ki,,1968-08-25,"Juhani Sakari Reingoldt, s. 1939-10-03 Kotka",VII-18,lohko_r07_c3(2).jpg,,
+VIII-42,VIII,Jina Tiina,1958-10-11,Joutseno,,,,VII-35,lohko_r04_c3.jpg,,
+VIII-43,VIII,Irina Satu-Sisko,1968-03-24,Joutseno,,,,VII-35,lohko_r04_c3.jpg,,
+VIII-44,VIII,Eija Anneli,1953-07-17,Ruokolahti,,1972-10-08,"I av. Veikko Juhani Lankinen, s. 1950-06-24 Imatra; avioero 21.01.1976. II av. 14.05.1976 Reijo Kalevi Flyktman, s. 1951-06-09 Laukaa.",VII-38,lohko_r04_c3.jpg,Muutti Imatralle 21.11.1972; muuttivat Imatralle 19.09.1978,Avioerossa vaimolle tyttönimi
+VIII-45,VIII,Veli Matti,1960-05-25,Ruokolahti,,,,VII-38,lohko_r04_c3.jpg,Muutti 17.09.1973 naimattomana Imatralle,
+VIII-46,VIII,Teija Maritta,1964-01-06,Ruokolahti,,,,VII-38,lohko_r04_c3.jpg,Muutti 17.09.1973 naimattomana Imatralle,
+VIII-47,VIII,Sari Tuulia Ruottinen,1964-12-21,Ruokolahti,,,,VII-40,lohko_r04_c3.jpg,,
+VIII-48,VIII,Pasi Veli Kalevi Ruottinen,1970-08-31,Ruokolahti,,,,VII-40,lohko_r04_c3.jpg,,
+VIII-49,VIII,Ilkka Martti Juhani,1962-02-11,Ruokolahti,,,,VII-41,lohko_r04_c3.jpg,,
+VIII-50,VIII,Jukka Kaleva,1964-04-15,Ruokolahti,,,,VII-41,lohko_r04_c3.jpg,,
+VIII-51,VIII,Pekka Ilari,1964-04-15,Ruokolahti,,,,VII-41,lohko_r04_c3.jpg,,
+VIII-52,VIII,Anni Kaisa Helena Miettinen,1959-01-07,Ruokolahti,,,,VII-42,lohko_r04_c3.jpg,,
+VIII-53,VIII,Visa Veli Sakari Miettinen,1961-01-22,Ruokolahti,,,,VII-42,lohko_r04_c3.jpg,,
+VIII-54,VIII,Petri Veikko Tapani Miettinen,1963-09-01,Ruokolahti,,,,VII-42,lohko_r04_c3.jpg,,Laatikko jatkuu lohkossa r04_c3 – tarkista ja täydennä vanhempi
+VIII-55,VIII,Tommi Markus Akkanen,1966-10-17,L:ranta,,,,VII-43,lohko_r03_c3.jpg,,
+VIII-56,VIII,Susanna Annukka Akkanen,1972-03-11,L:ranta,,,,VII-43,lohko_r03_c3.jpg,,
+VIII-57,VIII,Kirsi Marja Anneli,1947-10-01,Simpele,,1968-09-21,"Hannu Antero Lehtiö, s. 1945-08-22 Hämeenlinna",VII-48,lohko_r03_c3.jpg,,
+VIII-58,VIII,Eija Sisko Marketta,1949-06-13,Simpele,,1975-07-17,"Lars Buch Olsen, s. 1950-07-06 Kööpenhamina, Tanska",VII-48,lohko_r03_c3.jpg,,
+VIII-59,VIII,Tarja Maria,1959-06-29,Hämeenlinna,,,,VII-48,lohko_r03_c3.jpg,,
+VIII-60,VIII,Reima Juhani Sairanen,1955-06-06,,,,,VII-49,lohko_r03_c3.jpg,,
+VIII-61,VIII,Risto Sakari Sairanen,1956-08-18,H:ki,,,,VII-49,lohko_r03_c3.jpg,,
+VIII-62,VIII,Arto Kalevi Sairanen,1958-06-17,H:ki,,,,VII-49,lohko_r03_c3.jpg,,
+VIII-63,VIII,Sointu Helena Susanne Sairanen,1962-10-25,Espoo,,,,VII-49,lohko_r03_c3.jpg,,
+VIII-64,VIII,Ari Juhani Kuvaja,1959-01-31,Savonlinna,,,,VII-50,lohko_r03_c3.jpg,,Muutti naimatt. Kotkaan 30.05.1984
+VIII-65,VIII,Merja Anneli Tuovinen,1969-12-02,Pieksämäki,,,,VII-52,lohko_r03_c3.jpg,,
+VIII-65b,VIII,Jarmo Antero Tuovinen,1976-01-05,Kerava,,,,VII-52,lohko_r02_c3.jpg,,Laatikon numero epäselvä (kartassa 65 kahdesti?) – tarkista
+VIII-66,VIII,Jouko Olavi Varis,1957-12-17,Rovaniemi,,,,VII-54,lohko_r02_c3.jpg,,
+VIII-67,VIII,Seija Katriina Varis,1961-05-07,Rovaniemi,,,,VII-54,lohko_r02_c3.jpg,,
+VIII-68,VIII,Heimo Juhani Varis,1962-08-24,Rovaniemi,,,,VII-54,lohko_r02_c3.jpg,,
+VIII-69,VIII,Raisa Aulikki Vellonen,1959-08-05,Simpele,,,,VII-55,lohko_r02_c3.jpg,,
+VIII-70,VIII,Olli Pekka Vellonen,1961-08-07,Simpele,,,,VII-55,lohko_r02_c3.jpg,,
+VIII-71,VIII,Ranja Hannele Vellonen,1968-10-12,Simpele,,,,VII-55,lohko_r02_c3.jpg,,
+VIII-72,VIII,Riina Johanna Vellonen,1971-12-24,Simpele,,,,VII-55,lohko_r02_c3.jpg,,
+VIII-73,VIII,Jussi Tapani Kokko,1962-10-07,Sippola,,,,VII-56,lohko_r02_c3.jpg,,Siirtyi srk-jaossa Inkeroisiin
+VIII-74,VIII,Jukka Petteri Hassinen,1966-11-06,Säyneinen,,,,VII-57,lohko_r02_c3.jpg,,
+VIII-75,VIII,Liisu Johanna Hassinen,1968-07-15,Rääkkylä,,,,VII-57,lohko_r02_c3.jpg,,Etunimi mahd. Liisa – tarkista
+VIII-76,VIII,Anna Maria Hassinen,1978-05-25,Rääkkylä,,,,VII-57,lohko_r02_c3.jpg,,
+VIII-77,VIII,Pia Susanna Elovaara,1962-10-07,H:ki,,,,VII-58,lohko_r01_c3.jpg,,
+VIII-78,VIII,Mari Annukka Elovaara,1965-02-21,Pielavesi,,,,VII-58,lohko_r01_c3.jpg,,
+VIII-79,VIII,Mikko Kustaa Elovaara,1969-04-02,Kalajoki,,,,VII-58,lohko_r01_c3.jpg,,
+VIII-80,VIII,Marko Matti Ensio Järvinen,1970-09-25,Göteborg,,,,VII-59,lohko_r01_c3.jpg,,Muutti Kurikkaan 02.07.1975
+VIII-81,VIII,Thomas Tomi Mikael Järvinen,1972-08-29,Göteborg,,,,VII-59,lohko_r01_c3.jpg,,Muutti 02.07.1975 Kurikkaan
+VIII-82,VIII,Teemu Juhani Vellonen,1979-06-16,S:linna,,,,VII-60,lohko_r01_c3.jpg,,
+VIII-83,VIII,Riikka Liisa Helena Vellonen,1981-08-21,S:linna,,,,VII-60,lohko_r01_c3.jpg,,
+IX-1,IX,Sami Petteri Hirvonen,1987-06-16,Ruotsi,,,,VIII-19,lohko_r09_c3.jpg,,
+IX-2,IX,Juha Petteri From,1976-04-08,Raisio,,,,VIII-20,lohko_r09_c3.jpg,,
+IX-3,IX,Jussi Matias From,1977-08-17,Raisio,,,,VIII-20,lohko_r09_c3.jpg,,
+IX-4,IX,Timo Väinö Tapio Raikko,1955-03-29,Karinainen,,1976-07-17,"Paula Kaarina s. Uotila, s. 1956-02-09 Loimaa",VIII-9,lohko_r10_c3.jpg,,
+IX-5,IX,Merja Terttu Anneli Raikko,1959-10-21,Karinainen,,,,VIII-9,lohko_r10_c3.jpg,Muutti 02.10.1984 Paimioon,
+IX-6,IX,Pekka Matias Pietarinen,1983-02-04,H:ki,,,,VIII-10,lohko_r09_c3.jpg,,
+IX-7,IX,Olli Juhani Pietarinen,1985-10-11,H:ki,,,,VIII-10,lohko_r09_c3.jpg,,
+IX-8,IX,Vesa Pekka Antero Pietarinen,1972-02-08,Savonlinna,,,,VIII-11,lohko_r09_c3.jpg,,
+IX-9,IX,Leena Johanna Pietarinen,1975-05-06,Savonlinna,,,,VIII-11,lohko_r09_c3.jpg,,
+IX-10,IX,Mikko Olavi,1980-03-03,S:linna,,,,VIII-16,lohko_r09_c3.jpg,,
+IX-11,IX,Tony Eerik,1987-09-06,S:linna,,,,VIII-16,lohko_r09_c3.jpg,,
+IX-12,IX,Raija Tuula Anneli Poutanen,1951-06-23,Rantasalmi,,1979-07-14,"Risto Tapani Pennanen, s. 1935-03-26 Kerimäki",VIII-28,lohko_r07_c3(2).jpg,,
+IX-13,IX,Markku Antero Poutanen,1954-03-04,Rantasalmi,,1977-05-21,"Eija-Riitta Marjukka Mikkonen, s. 1954-11-24 Rantasalmi",VIII-28,lohko_r07_c3(2).jpg,,
+IX-14,IX,Armi Eija Kaarina Poutanen,1960-10-03,Juva,,1981-10-30,"Martti Kalevi Oksa, s. 1957-04-24",VIII-29,lohko_r07_c3(2).jpg,,
+IX-15,IX,Jouko Ari Tapio Melaskoski,1965-01-28,H:ki,,,,VIII-31,lohko_r07_c3(2).jpg,,
+IX-16,IX,Jouni Kari Juhani Melaskoski,1966-01-24,H:ki,,,,VIII-31,lohko_r07_c3(2).jpg,,
+IX-17,IX,Tarja Tuulikki Heikkilä,1967-06-18,,,,,VIII-32,lohko_r07_c3(2).jpg,,
+IX-18,IX,Anne Maarit Heikkilä,1970-06-04,,,,,VIII-32,lohko_r07_c3(2).jpg,,
+IX-19,IX,Juha Pekka Heikkilä,1975-06-08,,,,,VIII-32,lohko_r07_c3(2).jpg,,
+IX-20,IX,Siru Johanna Fischer,1973-01-14,H:ki,,,,VIII-33,lohko_r07_c3(2).jpg,,
+IX-21,IX,Jaana Marita Heikkilä,1964-11-08,,,,,VIII-34,lohko_r07_c3(2).jpg,,
+IX-22,IX,Tiina Helena Heikkilä,1965-10-29,Imatra,,,,VIII-34,lohko_r07_c3(2).jpg,,
+IX-23,IX,Minna Kristiina Heikkilä,1969-02-28,Imatra,,,,VIII-34,lohko_r07_c3(2).jpg,,
+IX-24,IX,Tero Juhani Reingoldt,1969-03-10,H:ki,,,,VIII-35,lohko_r07_c3(2).jpg,,
+IX-25,IX,Teemu Petteri Reingoldt,1974-06-25,Kotka,,,,VIII-35,lohko_r07_c3(2).jpg,,
+IX-33,IX,Toni Kalevi Flyktman,1976-03-15,Ruokolahti,,,,VIII-44,lohko_r04_c3.jpg,,
+IX-34,IX,Janne Kristian Flyktman,1984-01-09,Imatra,,,,VIII-44,lohko_r04_c3.jpg,,
+IX-35,IX,Kati Annukka Lehtiö,1972-10-25,Hämeenlinna,,,,VIII-57,lohko_r03_c3.jpg,,
+X-1,X,Reijo Tapani Kangas,1966-12-01,Turku,,,,IX-1,lohko_r10_c4(2).jpg,Muutti 17.07.1985 Liedon srk:taan,
+X-2,X,Jari Tapio Kangas,1969-03-06,Turku,,,,IX-1,lohko_r10_c4(2).jpg,Muutti Liedon srk:taan 17.07.1985,
+X-3,X,Eija Kaarina Raikko,1976-11-01,Karinainen,,,,IX-4,lohko_r10_c4(2).jpg,,
+X-4,X,Anne Maria Raikko,1981-06-02,Karinainen,,,,IX-4,lohko_r10_c4(2).jpg,,
+X-5,X,Jussi Jaakko Juhani Raikko,1984-02-08,Karinainen,,,,IX-4,lohko_r10_c4(2).jpg,,
+X-6,X,Janne Väinö Tapio Raikko,1984-02-08,Karinainen,,,,IX-4,lohko_r10_c4(2).jpg,,
+X-7,X,Henri Joona Samuli Pennanen,1980-02-14,Savonlinna,,,,IX-12,lohko_r07_c4(2).jpg,,
+X-8,X,Joonas Heikki Sakari Pennanen,1983-04-05,Kerimäki,,,,IX-12,lohko_r07_c4(2).jpg,,
+X-9,X,Jouni Samuli Poutanen,1976-09-03,Savonlinna,,,,IX-13,lohko_r07_c4(2).jpg,,
+X-10,X,Johanna Maria Poutanen,1981-02-26,Sulkava,,,,IX-13,lohko_r07_c4(2).jpg,,
+X-11,X,Martti Olavi Oksa,1983-07-29,,,,,IX-14,lohko_r07_c4(2).jpg,,
+X-12,X,Marja-Liisa Aulikki Oksa,1985-07-30,,,,,IX-14,lohko_r07_c4(2).jpg,,

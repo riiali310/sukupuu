@@ -1,0 +1,2987 @@
+{
+  "_meta": {
+    "lahde": "Sukututkimus osasta Riialin sukua, joka on asunut Parikkalan kunnan Joukion kylässä talossa N:o 23; kartoittaja Heikki Pirinen 1985-1987",
+    "litteroitu": "2026-06-12, lohkot r01-r11 (r08-r11 lisätty viimeisessä päivityksessä)",
+    "konventiot": "id = sukupolvi-laatikkonumero. Sukunimi mainittu kartassa vain muista kuin Riiali-suvun jäsenistä. Päivämäärät ISO-muodossa; pelkkä vuosi kun kartassa ei muuta. vanhempi_id = Riialin sukuhaaran vanhempi.",
+    "kesken": [
+      "VIII-65/65b numerointi tarkistettava",
+      "r04_c3 alareuna jatkuu todennäköisesti seuraavassa lohkossa: VII-35:n mahdolliset lisälapset tarkistettava",
+      "r05–r07: muutama käsialaltaan epäselvä kohta merkitty huomiot-kenttään",
+      "r05–r07: oikeasta reunasta leikkautuvat jatkohaarat tarkistettava seuraavista lohkoista",
+      "r08-r11: muutama käsialakohta jäi epävarmaksi ja on merkitty huomiot- tai paikat-kenttään; erityisesti Punkaharjun muuttopäivä ja Nikupaa/Nikupaavo-nimen tarkka kirjoitusasu kannattaa tarkistaa alkuperäisestä."
+    ],
+    "selitelma": "Sukunimi on mainittu vain niistä, jotka ovat muita kuin Riiali. Syntymäpaikka on mainittu vain, jos se on muu kuin Parikkala. Sukupolvet on numeroitu I-X ja sukupolven jäsenet 1:stä edelleen."
+  },
+  "henkilot": [
+    {
+      "id": "I-1",
+      "sukupolvi": "I",
+      "nimi": "Martti Riiali (Mårten Rijal)",
+      "syntyma": "1715",
+      "kuolema": "1790-05-26",
+      "puoliso": "Elin s. Joronen, s. 1723, k. 1788-02-01",
+      "lahde": "lohko_r08_c1.jpg",
+      "huomiot": "Talollinen",
+      "lapset_ids": [
+        "II-1",
+        "II-2",
+        "II-3"
+      ]
+    },
+    {
+      "id": "II-1",
+      "sukupolvi": "II",
+      "nimi": "Simo Martinp. (Riiali)",
+      "syntyma": "1754",
+      "kuolema": "1803-05-09",
+      "puoliso": "Anna s. Huotilainen, s. 1755, k. 1810-06-22",
+      "paikat": "Asuivat Joukion kylän talossa N:o 18",
+      "vanhempi_id": "I-1",
+      "lahde": "lohko_r08_c1.jpg",
+      "lapset_ids": [
+        "III-1",
+        "III-2",
+        "III-3",
+        "III-4",
+        "III-5",
+        "III-6"
+      ]
+    },
+    {
+      "id": "II-2",
+      "sukupolvi": "II",
+      "nimi": "Tahvo (Stephan)",
+      "syntyma": "1765",
+      "lahde": "lohko_r03_c1.jpg",
+      "vanhempi_id": "I-1"
+    },
+    {
+      "id": "II-3",
+      "sukupolvi": "II",
+      "nimi": "Pauli (Paul)",
+      "syntyma": "1768",
+      "lahde": "lohko_r03_c1.jpg",
+      "vanhempi_id": "I-1"
+    },
+    {
+      "id": "III-1",
+      "sukupolvi": "III",
+      "nimi": "Elin",
+      "syntyma": "1777-03-12",
+      "huomiot": "Kuoli lapsena",
+      "vanhempi_id": "II-1",
+      "lahde": "lohko_r08_c1.jpg"
+    },
+    {
+      "id": "III-2",
+      "sukupolvi": "III",
+      "nimi": "Simo Simonp.",
+      "syntyma": "1780",
+      "kuolema": "1850-06-29",
+      "puoliso": "Helena s. Nokelainen, s. 1785, k. 1856-09-27",
+      "vanhempi_id": "II-1",
+      "lahde": "lohko_r08_c1.jpg",
+      "lapset_ids": [
+        "IV-1",
+        "IV-2",
+        "IV-3",
+        "IV-4",
+        "IV-5",
+        "IV-6",
+        "IV-7",
+        "IV-8",
+        "IV-9"
+      ]
+    },
+    {
+      "id": "III-3",
+      "sukupolvi": "III",
+      "nimi": "Anna Simontr.",
+      "syntyma": "1783-01-03",
+      "vihitty": "1818-02-15",
+      "puoliso": "Tuomas Matinp. Terävä, s. 1785-04-21",
+      "huomiot": "Kuoli Viipurissa",
+      "lahde": "lohko_r08_c1.jpg",
+      "kuolema": "1851-10-01",
+      "vanhempi_id": "II-1",
+      "lapset_ids": [
+        "IV-10"
+      ]
+    },
+    {
+      "id": "III-4",
+      "sukupolvi": "III",
+      "nimi": "Antti (Anders)",
+      "syntyma": "1785-06-29",
+      "lahde": "lohko_r08_c1.jpg",
+      "vanhempi_id": "II-1"
+    },
+    {
+      "id": "III-5",
+      "sukupolvi": "III",
+      "nimi": "Mikko Simonp.",
+      "syntyma": "1787",
+      "kuolema": "1827-03-03",
+      "puoliso": "Anna s. Litmanen, s. 1793, oli elossa 1855",
+      "lahde": "lohko_r08_c1.jpg",
+      "vanhempi_id": "II-1",
+      "lapset_ids": [
+        "IV-11",
+        "IV-12",
+        "IV-13",
+        "IV-14",
+        "IV-15",
+        "IV-16"
+      ]
+    },
+    {
+      "id": "III-6",
+      "sukupolvi": "III",
+      "nimi": "Elin",
+      "lahde": "lohko_r08_c1.jpg",
+      "syntyma": "1788-11-24",
+      "vanhempi_id": "II-1"
+    },
+    {
+      "id": "IV-1",
+      "sukupolvi": "IV",
+      "nimi": "Simo",
+      "syntyma": "1809",
+      "kuolema": "1826-12-22",
+      "vanhempi_id": "III-2",
+      "lahde": "lohko_r08_c2(2).jpg"
+    },
+    {
+      "id": "IV-2",
+      "sukupolvi": "IV",
+      "nimi": "Elin",
+      "syntyma": "1813-04-29",
+      "kuolema": "1815-02-22",
+      "vanhempi_id": "III-2",
+      "lahde": "lohko_r08_c2(2).jpg"
+    },
+    {
+      "id": "IV-3",
+      "sukupolvi": "IV",
+      "nimi": "Helena",
+      "syntyma": "1814-12-09",
+      "kuolema": "1815-02-22",
+      "vanhempi_id": "III-2",
+      "lahde": "lohko_r08_c2(2).jpg"
+    },
+    {
+      "id": "IV-4",
+      "sukupolvi": "IV",
+      "nimi": "Maria",
+      "syntyma": "1816-11-04",
+      "huomiot": "Jatkuu alempana; kuvassa myös muodossa Maria Simontr., syntymävuosi 1815 tai 1816",
+      "vanhempi_id": "III-2",
+      "lahde": "lohko_r08_c2(2).jpg",
+      "kuolema": "1887-04-22",
+      "lapset_ids": [
+        "V-1"
+      ]
+    },
+    {
+      "id": "IV-5",
+      "sukupolvi": "IV",
+      "nimi": "Katarina",
+      "syntyma": "1818-09-06",
+      "kuolema": "1826-12-01",
+      "vanhempi_id": "III-2",
+      "lahde": "lohko_r08_c2(2).jpg"
+    },
+    {
+      "id": "IV-6",
+      "sukupolvi": "IV",
+      "nimi": "Liisa (Elisabeth)",
+      "syntyma": "1821-05-06",
+      "paikat": "Muutti 1840 Kurkijoelle",
+      "vanhempi_id": "III-2",
+      "lahde": "lohko_r08_c2(2).jpg",
+      "huomiot": "Muutti 1840 Kurkijoelle"
+    },
+    {
+      "id": "IV-7",
+      "sukupolvi": "IV",
+      "nimi": "Anna",
+      "syntyma": "1826-05-02",
+      "kuolema": "1829-03-04",
+      "vanhempi_id": "III-2",
+      "lahde": "lohko_r08_c2(2).jpg"
+    },
+    {
+      "id": "IV-8",
+      "sukupolvi": "IV",
+      "nimi": "Juhana Simonp.",
+      "syntyma": "1829-02-05",
+      "kuolema": "1878-01-12",
+      "vihitty": "1855-06-14",
+      "puoliso": "Maria Kristianintr. Harmanen, s. 1830-06-06, k. 1920-06-16",
+      "huomiot": "Vih. 14.06.1855; puoliso Maria Kristianintr. Harmanen, s. 1830-06-06, k. 1920-06-16",
+      "vanhempi_id": "III-2",
+      "lahde": "lohko_r08_c2(2).jpg",
+      "lapset_ids": [
+        "V-2",
+        "V-3",
+        "V-6",
+        "V-7",
+        "V-8"
+      ]
+    },
+    {
+      "id": "IV-9",
+      "sukupolvi": "IV",
+      "nimi": "Matti",
+      "syntyma": "1831-09-23",
+      "kuolema": "1887-04-06",
+      "vihitty": "1857-10-11",
+      "puoliso": "II av. Anna Maria s. Nokelainen, s. 1839-04-12, k. 1878-06-12; III av. Agneta (Auno?) s. Terävä, s. 1834-01-21, k. 1890-05-22",
+      "huomiot": "Oli naimaton 1855; jatkuu ylempänä",
+      "vanhempi_id": "III-2",
+      "lahde": "lohko_r08_c2(2).jpg",
+      "lapset_ids": [
+        "V-9"
+      ]
+    },
+    {
+      "id": "IV-10",
+      "sukupolvi": "IV",
+      "nimi": "Pauli (Paul) Terävä",
+      "syntyma": "1825-12-11",
+      "kuolema": "1826-07-27",
+      "vanhempi_id": "III-3",
+      "lahde": "lohko_r08_c2(2).jpg"
+    },
+    {
+      "id": "IV-11",
+      "sukupolvi": "IV",
+      "nimi": "Juho (Johan)",
+      "syntyma": "1814-01-13",
+      "kuolema": "1815-02-15",
+      "vanhempi_id": "III-5",
+      "lahde": "lohko_r03_c2.jpg"
+    },
+    {
+      "id": "IV-12",
+      "sukupolvi": "IV",
+      "nimi": "Simo",
+      "syntyma": "1816-07-22",
+      "kuolema": "1818-04-08",
+      "vanhempi_id": "III-5",
+      "lahde": "lohko_r03_c2.jpg"
+    },
+    {
+      "id": "IV-13",
+      "sukupolvi": "IV",
+      "nimi": "Anna",
+      "syntyma": "1819-03-18",
+      "vanhempi_id": "III-5",
+      "lahde": "lohko_r03_c2.jpg"
+    },
+    {
+      "id": "IV-14",
+      "sukupolvi": "IV",
+      "nimi": "Mikko",
+      "syntyma": "1821-03-20",
+      "huomiot": "Mainitaan olleen Pietarissa",
+      "vanhempi_id": "III-5",
+      "lahde": "lohko_r03_c2.jpg"
+    },
+    {
+      "id": "IV-15",
+      "sukupolvi": "IV",
+      "nimi": "Eeva",
+      "syntyma": "1824-05-14",
+      "kuolema": "1826-12-04",
+      "vanhempi_id": "III-5",
+      "lahde": "lohko_r03_c2.jpg"
+    },
+    {
+      "id": "IV-16",
+      "sukupolvi": "IV",
+      "nimi": "Kaarina (Catharina)",
+      "syntyma": "1826-07-24",
+      "kuolema": "1829-06-24",
+      "vanhempi_id": "III-5",
+      "lahde": "lohko_r03_c2.jpg"
+    },
+    {
+      "id": "V-1",
+      "sukupolvi": "V",
+      "nimi": "Eeva Mariantr.",
+      "lahde": "lohko_r10_c2.jpg",
+      "syntyma": "1845-04-06",
+      "kuolema": "1873-08-28",
+      "vihitty": "1867-06-02",
+      "puoliso": "Henrik (Heikki) Antinp. Laukkanen, s. 1838-01-29",
+      "paikat": "Mantilankumpu, Kangaskylä N:o 7; muuttivat 1885 Sääminkiin",
+      "huomiot": "Miehen II avioliitto 07.06.1874 Anna Kaisa Rinkisen kanssa",
+      "vanhempi_id": "IV-4",
+      "lapset_ids": [
+        "VI-1",
+        "VI-2",
+        "VI-3"
+      ]
+    },
+    {
+      "id": "V-2",
+      "sukupolvi": "V",
+      "nimi": "Lena (Leena)",
+      "lahde": "lohko_r09_c2(2).jpg",
+      "syntyma": "1856-04-19",
+      "kuolema": "1858-01-25",
+      "vanhempi_id": "IV-8"
+    },
+    {
+      "id": "V-3",
+      "sukupolvi": "V",
+      "nimi": "Juhana Juhananp.",
+      "lahde": "lohko_r09_c2(2).jpg",
+      "syntyma": "1863-10-05",
+      "kuolema": "1923-09-11",
+      "vihitty": "1887-06-26",
+      "puoliso": "Karoliina Martintr. Heinonen, s. 1866-08-05, k. 1937-07-29",
+      "vanhempi_id": "IV-8",
+      "lapset_ids": [
+        "VI-4",
+        "VI-5",
+        "VI-6"
+      ]
+    },
+    {
+      "id": "V-4",
+      "sukupolvi": "V",
+      "nimi": "Simo Simonp.",
+      "lahde": "lohko_r08_c2(2).jpg",
+      "syntyma": "1866-06-14",
+      "kuolema": "1941-07-22",
+      "vihitty": "1894-05-27",
+      "puoliso": "Ida Matintr. Harmanen, s. 1873-12-12, k. 1940-07-28",
+      "lapset_ids": [
+        "VI-7",
+        "VI-8",
+        "VI-9"
+      ]
+    },
+    {
+      "id": "V-5",
+      "sukupolvi": "V",
+      "nimi": "Ida",
+      "lahde": "lohko_r08_c2(2).jpg",
+      "syntyma": "1870-06-23",
+      "kuolema": "1954-08-10",
+      "vihitty": "1894-05-27",
+      "puoliso": "Aleksanteri Martinp. Heinonen, s. 1870-10-22, k. 1931-04-25",
+      "huomiot": "Kartassa maininta: lastenlapsia ei ole",
+      "lapset_ids": [
+        "VI-10",
+        "VI-11",
+        "VI-12",
+        "VI-13",
+        "VI-14",
+        "VI-15"
+      ]
+    },
+    {
+      "id": "V-6",
+      "sukupolvi": "V",
+      "nimi": "Anna Lena (Leena)",
+      "syntyma": "1858-08-13",
+      "kuolema": "1927-10-20",
+      "vihitty": "1878-12-01",
+      "puoliso": "Joukio 9 lampuoti Johan (Juhana) Jakobinp. Rita, s. 1850 Rautjärvi, k. 1907-08-22",
+      "huomiot": "Mies jäi junan alle; paikkamerkintä osin epäselvä",
+      "vanhempi_id": "IV-8",
+      "lahde": "lohko_r06_c2(2).jpg",
+      "lapset_ids": [
+        "VI-18",
+        "VI-19",
+        "VI-20",
+        "VI-21",
+        "VI-22"
+      ]
+    },
+    {
+      "id": "V-7",
+      "sukupolvi": "V",
+      "nimi": "Henrik (Heikki) Matinp.",
+      "syntyma": "1864-01-11",
+      "kuolema": "1903-09-05",
+      "vihitty": "1893",
+      "puoliso": "Anna Briitta s. Valkeapää, s. 1860-11-05; vih. II av. 1904 Heikki Poutasen kanssa",
+      "paikat": "Meni vaimon kotiin Savikumpu 7:ään 1894",
+      "huomiot": "Kuoli sala-ampujan toimesta. Heikki Riialilla ei lapsia.",
+      "vanhempi_id": "IV-8",
+      "lahde": "lohko_r06_c2(2).jpg"
+    },
+    {
+      "id": "V-8",
+      "sukupolvi": "V",
+      "nimi": "Matti Matinp.",
+      "syntyma": "1866-03-17",
+      "vihitty": "1888-11-03",
+      "puoliso": "I av. Brita Ahokas, s. 1868-07-22 Kurkijoki, k. 1891-06-23; II av. 02.10.1892 Ester Ahokas, s. 1862-09-22 Kurkijoki, k. 1922-01-14; III av. 06.08.1922 Helena Nisonen, s. Astikainen, s. 1876-03-02",
+      "paikat": "Muuttivat Kurkijoelle 06.10.1889; vaimo muutti Laukaaseen 31.12.1949",
+      "huomiot": "Matti k. 03.10.1933. III aviosta ei lapsia.",
+      "vanhempi_id": "IV-8",
+      "lahde": "lohko_r05_c2(2).jpg",
+      "lapset_ids": [
+        "VI-23",
+        "VI-24",
+        "VI-25",
+        "VI-26",
+        "VI-27",
+        "VI-28"
+      ]
+    },
+    {
+      "id": "V-9",
+      "sukupolvi": "V",
+      "nimi": "Miina (Mina) Matintr.",
+      "syntyma": "1870-04-01",
+      "huomiot": "Kuoli naimattomana",
+      "lahde": "lohko_r04_c2.jpg",
+      "kuolema": "1939-01-21",
+      "vanhempi_id": "IV-9",
+      "lapset_ids": [
+        "VI-29",
+        "VI-30",
+        "VI-31"
+      ]
+    },
+    {
+      "id": "V-10",
+      "sukupolvi": "V",
+      "nimi": "Aleksandra",
+      "syntyma": "1871-09-24",
+      "kuolema": "1931-05-27",
+      "vihitty": "1896",
+      "puoliso": "Paavo Vellonen, s. 1870-08-06, k. 1945-12-19",
+      "lahde": "lohko_r02_c2.jpg",
+      "lapset_ids": [
+        "VI-32",
+        "VI-33",
+        "VI-34",
+        "VI-35",
+        "VI-36",
+        "VI-37",
+        "VI-38",
+        "VI-39"
+      ]
+    },
+    {
+      "id": "V-11",
+      "sukupolvi": "V",
+      "nimi": "Mikko",
+      "syntyma": "1874-06-02",
+      "kuolema": "1948-01-13",
+      "vihitty": "1924-03-16",
+      "puoliso": "Aino s. Poutanen, s. 1891-11-26, k. 1972-05-24, muutti Sääminkiin 23.09.1949",
+      "lahde": "lohko_r01_c2.jpg",
+      "lapset_ids": [
+        "VI-40",
+        "VI-41"
+      ]
+    },
+    {
+      "id": "V-12",
+      "sukupolvi": "V",
+      "nimi": "Katrina",
+      "syntyma": "1874-06-02",
+      "paikat": "Muutti naimatt. 31.10.1892 Käkisalmeen, 17.05.1896 Jääskestä Lappeelle, 04.12.1898 Viipuriin",
+      "huomiot": "Ei lapsia",
+      "lahde": "lohko_r01_c2.jpg"
+    },
+    {
+      "id": "V-13",
+      "sukupolvi": "V",
+      "nimi": "Ida",
+      "syntyma": "1878-05-18",
+      "kuolema": "1878-08-30",
+      "lahde": "lohko_r01_c2.jpg"
+    },
+    {
+      "id": "V-14",
+      "sukupolvi": "V",
+      "nimi": "Henrika",
+      "syntyma": "1878-05-18",
+      "kuolema": "1878-09-08",
+      "lahde": "lohko_r01_c2.jpg"
+    },
+    {
+      "id": "VI-1",
+      "sukupolvi": "VI",
+      "nimi": "Maria Lovisa Laukkanen",
+      "lahde": "lohko_r10_c2.jpg",
+      "syntyma": "1867-06-30",
+      "kuolema": "1940-02-28",
+      "vihitty": "1892",
+      "puoliso": "Antti Martinp. Peippo, s. 1856-12-07, k. 1943-08-16",
+      "vanhempi_id": "V-1",
+      "lapset_ids": [
+        "VII-1",
+        "VII-2"
+      ]
+    },
+    {
+      "id": "VI-2",
+      "sukupolvi": "VI",
+      "nimi": "Anna Leena Laukkanen",
+      "lahde": "lohko_r10_c2.jpg",
+      "syntyma": "1870-11-28",
+      "paikat": "Muutti Sääminkiin 1885",
+      "vanhempi_id": "V-1"
+    },
+    {
+      "id": "VI-3",
+      "sukupolvi": "VI",
+      "nimi": "Vilhelmiina Laukkanen",
+      "lahde": "lohko_r09_c2(2).jpg",
+      "syntyma": "1873-07-03",
+      "kuolema": "1873-11-26",
+      "vanhempi_id": "V-1"
+    },
+    {
+      "id": "VI-4",
+      "sukupolvi": "VI",
+      "nimi": "Juhana",
+      "lahde": "lohko_r09_c2(2).jpg",
+      "syntyma": "1889-03-06",
+      "kuolema": "1889-07-07",
+      "vanhempi_id": "V-3"
+    },
+    {
+      "id": "VI-5",
+      "sukupolvi": "VI",
+      "nimi": "Aina (Aino)",
+      "lahde": "lohko_r09_c2(2).jpg",
+      "syntyma": "1891-12-17",
+      "kuolema": "1973-05-14",
+      "paikat": "Muutti naimattomana Punkaharjulle 21.06.19??, takaisin P:laan 25.10.1967",
+      "huomiot": "Kuoli naimattomana; ei lapsia",
+      "vanhempi_id": "V-3"
+    },
+    {
+      "id": "VI-6",
+      "sukupolvi": "VI",
+      "nimi": "Johannes",
+      "lahde": "lohko_r09_c2(2).jpg",
+      "syntyma": "1895-02-05",
+      "kuolema": "1965-09-13",
+      "vihitty": "1922-06-11",
+      "puoliso": "Hanna Lovisa Innanen, s. 1904-08-06, k. 1980-03-27",
+      "vanhempi_id": "V-3",
+      "lapset_ids": [
+        "VII-3",
+        "VII-4",
+        "VII-5",
+        "VII-6"
+      ]
+    },
+    {
+      "id": "VI-7",
+      "sukupolvi": "VI",
+      "nimi": "Tyyni Hilma",
+      "lahde": "lohko_r08_c2(2).jpg",
+      "syntyma": "1898-04-17",
+      "vihitty": "1922-06-11",
+      "puoliso": "Ilmari Albert Forsbacka, s. 1898-02-21, k. 1970-06-23",
+      "vanhempi_id": "V-4",
+      "lapset_ids": [
+        "VII-7",
+        "VII-8",
+        "VII-9",
+        "VII-10"
+      ]
+    },
+    {
+      "id": "VI-8",
+      "sukupolvi": "VI",
+      "nimi": "Tauno",
+      "lahde": "lohko_r08_c2(2).jpg",
+      "syntyma": "1901-01-26",
+      "kuolema": "1966-03-04",
+      "vihitty": "1932-07-03",
+      "puoliso": "Impi Lyyli s. Sikiö, s. 1905-06-03",
+      "huomiot": "Heillä ei lapsia",
+      "vanhempi_id": "V-4"
+    },
+    {
+      "id": "VI-9",
+      "sukupolvi": "VI",
+      "nimi": "Eero",
+      "lahde": "lohko_r08_c2(2).jpg",
+      "syntyma": "1904-08-18",
+      "kuolema": "1980-03-20",
+      "huomiot": "Kuoli naimattomana; ei lapsia",
+      "vanhempi_id": "V-4"
+    },
+    {
+      "id": "VI-10",
+      "sukupolvi": "VI",
+      "nimi": "Johannes Heinonen",
+      "lahde": "lohko_r08_c2(2).jpg",
+      "syntyma": "1895-07-25",
+      "vanhempi_id": "V-5",
+      "huomiot": "Naimaton"
+    },
+    {
+      "id": "VI-11",
+      "sukupolvi": "VI",
+      "nimi": "Matti Heinonen",
+      "lahde": "lohko_r08_c2(2).jpg",
+      "syntyma": "1897-01-01",
+      "vanhempi_id": "V-5",
+      "kuolema": "1971-06-29",
+      "huomiot": "Kuoli naimattomana"
+    },
+    {
+      "id": "VI-12",
+      "sukupolvi": "VI",
+      "nimi": "Helmi Lyydia Heinonen",
+      "lahde": "lohko_r08_c2(2).jpg",
+      "syntyma": "1899-07-05",
+      "vanhempi_id": "V-5",
+      "kuolema": "1967-07-24",
+      "huomiot": "Kuoli naimattomana"
+    },
+    {
+      "id": "VI-13",
+      "sukupolvi": "VI",
+      "nimi": "Eino Heinonen",
+      "lahde": "lohko_r08_c2(2).jpg",
+      "syntyma": "1902-07-26",
+      "vanhempi_id": "V-5",
+      "kuolema": "1924-11-17",
+      "huomiot": "Kuoli naimattomana"
+    },
+    {
+      "id": "VI-14",
+      "sukupolvi": "VI",
+      "nimi": "Aina Adolfina Heinonen",
+      "lahde": "lohko_r08_c2(2).jpg",
+      "syntyma": "1904-07-08",
+      "vanhempi_id": "V-5",
+      "kuolema": "1928-09-16",
+      "huomiot": "Kuoli naimattomana"
+    },
+    {
+      "id": "VI-15",
+      "sukupolvi": "VI",
+      "nimi": "Toini Maria Heinonen",
+      "lahde": "lohko_r08_c2(2).jpg",
+      "syntyma": "1906-06-02",
+      "vanhempi_id": "V-5",
+      "kuolema": "1906-08-17"
+    },
+    {
+      "id": "VI-18",
+      "sukupolvi": "VI",
+      "nimi": "Ida Maria Rita",
+      "syntyma": "1883-11-16",
+      "paikat": "Muutti naimattomana Antreaan 09.11.1911",
+      "huomiot": "Syntymävuosi epäselvä kuvassa",
+      "vanhempi_id": "V-6",
+      "lahde": "lohko_r07_c2.jpg",
+      "lapset_ids": [
+        "VII-11",
+        "VII-12"
+      ]
+    },
+    {
+      "id": "VI-19",
+      "sukupolvi": "VI",
+      "nimi": "Matti Rita",
+      "syntyma": "1884-09-25",
+      "kuolema": "1948-06-05",
+      "huomiot": "Kuoli naimattomana, ei lapsia",
+      "vanhempi_id": "V-6",
+      "lahde": "lohko_r07_c2.jpg"
+    },
+    {
+      "id": "VI-20",
+      "sukupolvi": "VI",
+      "nimi": "Emma Eliina Rita",
+      "syntyma": "1887-09-14",
+      "kuolema": "1930-03-28",
+      "vihitty": "1910-11-20",
+      "puoliso": "Johan (Juhana) Kopra, s. 1878-08-05 Kirvu, k. 1952-06-08",
+      "paikat": "Muutti P:laan 25.04.1912",
+      "vanhempi_id": "V-6",
+      "lahde": "lohko_r07_c2.jpg",
+      "lapset_ids": [
+        "VII-13",
+        "VII-14",
+        "VII-15",
+        "VII-16"
+      ]
+    },
+    {
+      "id": "VI-21",
+      "sukupolvi": "VI",
+      "nimi": "Helmi Katriina Rita",
+      "syntyma": "1889-12-20",
+      "kuolema": "1971-09-10",
+      "vihitty": "1913-08-24",
+      "puoliso": "Edvard Harmanen, s. 1889-01-02, k. 1961-09-30",
+      "vanhempi_id": "V-6",
+      "lahde": "lohko_r06_c3(2).jpg",
+      "lapset_ids": [
+        "VII-17",
+        "VII-18",
+        "VII-19"
+      ]
+    },
+    {
+      "id": "VI-22",
+      "sukupolvi": "VI",
+      "nimi": "Juhana Rita",
+      "syntyma": "1892-09-30",
+      "kuolema": "1917-04-08",
+      "huomiot": "Kuoli naimattomana, ei lapsia",
+      "vanhempi_id": "V-6",
+      "lahde": "lohko_r06_c3(2).jpg"
+    },
+    {
+      "id": "VI-23",
+      "sukupolvi": "VI",
+      "nimi": "Aleksandra",
+      "syntyma": "1889-09-13",
+      "vihitty": "1912-07-14",
+      "puoliso": "Juhana Astikainen, s. 1880-04-01 Kurkijoki, k. 1941-07-09",
+      "paikat": "Muuttivat 10.06.1940 Keuruulle; vaimo muutti 11.09.1943 Kurkijoelle ja 14.12.1949 Äänekoskelle",
+      "huomiot": "Matin I:stä avioliitosta",
+      "vanhempi_id": "V-8",
+      "lahde": "lohko_r06_c2(2).jpg",
+      "lapset_ids": [
+        "VII-20",
+        "VII-21",
+        "VII-22",
+        "VII-23",
+        "VII-24"
+      ]
+    },
+    {
+      "id": "VI-24",
+      "sukupolvi": "VI",
+      "nimi": "Heikki",
+      "syntyma": "1892-10-20",
+      "syntymapaikka": "Kurkijoki",
+      "kuolema": "1924-12-30",
+      "vihitty": "1917-11-18",
+      "puoliso": "Helmi s. Sonni, s. 1893-02-10; vaimo vih. II av. Pekka Lemmetyisen kanssa",
+      "huomiot": "Matin II:stä avioliitosta; lapset I:stä aviosta",
+      "vanhempi_id": "V-8",
+      "lahde": "lohko_r05_c2(2).jpg",
+      "lapset_ids": [
+        "VII-25",
+        "VII-26",
+        "VII-27"
+      ]
+    },
+    {
+      "id": "VI-25",
+      "sukupolvi": "VI",
+      "nimi": "Juhana",
+      "syntyma": "1895-02-15",
+      "syntymapaikka": "Kurkijoki",
+      "vihitty": "1920-05-02",
+      "puoliso": "Hilma Katri Hopia, s. 1891-08-17 Jaakkima",
+      "paikat": "Talollisia Mikrilä N:o 1:ssä; muuttivat Lappeen srk:n 14.06.1949",
+      "vanhempi_id": "V-8",
+      "lahde": "lohko_r05_c2(2).jpg",
+      "lapset_ids": [
+        "VII-28",
+        "VII-29"
+      ]
+    },
+    {
+      "id": "VI-26",
+      "sukupolvi": "VI",
+      "nimi": "Matti",
+      "syntyma": "1897-02-18",
+      "syntymapaikka": "Kurkijoki",
+      "kuolema": "1919-08-06",
+      "huomiot": "Kuoli naimattomana",
+      "vanhempi_id": "V-8",
+      "lahde": "lohko_r05_c2(2).jpg"
+    },
+    {
+      "id": "VI-27",
+      "sukupolvi": "VI",
+      "nimi": "Katrina Loviisa",
+      "syntyma": "1901-03-11",
+      "syntymapaikka": "Kurkijoki",
+      "vihitty": "1926-08-01",
+      "puoliso": "Matti Kosonen, s. 1887-08-22, k. 1947-01-13",
+      "paikat": "Vaimo muutti 21.02.1950 Laukaan srk",
+      "huomiot": "Tästä aviosta ei ole lapsia",
+      "vanhempi_id": "V-8",
+      "lahde": "lohko_r05_c2(2).jpg",
+      "lapset_ids": [
+        "VII-30",
+        "VII-31"
+      ]
+    },
+    {
+      "id": "VI-28",
+      "sukupolvi": "VI",
+      "nimi": "Ida Maria",
+      "syntyma": "1904-04-27",
+      "syntymapaikka": "Kurkijoki",
+      "vihitty": "1927-06-05",
+      "puoliso": "Vilho Lappalainen, s. 1904-11-13, k. 1944-03-18",
+      "paikat": "Muutti 22.01.1927 Viipurin maasrk; vaimo muutti 14.12.1948 Jyväskylän maasrk",
+      "vanhempi_id": "V-8",
+      "lahde": "lohko_r05_c2(2).jpg",
+      "lapset_ids": [
+        "VII-32",
+        "VII-33"
+      ]
+    },
+    {
+      "id": "VI-29",
+      "sukupolvi": "VI",
+      "nimi": "Adolf Miinanp.",
+      "syntyma": "1895-05-20",
+      "kuolema": "1955-07-23",
+      "vihitty": "1920-09-26",
+      "puoliso": "Selma Matintr. s. Lattu, s. 1899-02-26 Rautjärvi, k. 1980-03-15",
+      "paikat": "Muuttivat P:lasta Rautjärvelle 30.09.1921",
+      "huomiot": "Adolf kuoli Ruokolahdella",
+      "vanhempi_id": "V-9",
+      "lahde": "lohko_r04_c2.jpg",
+      "lapset_ids": [
+        "VII-35",
+        "VII-36",
+        "VII-37",
+        "VII-38",
+        "VII-39",
+        "VII-40",
+        "VII-41",
+        "VII-42",
+        "VII-43"
+      ]
+    },
+    {
+      "id": "VI-30",
+      "sukupolvi": "VI",
+      "nimi": "Ida Miinantr.",
+      "syntyma": "1898-04-22",
+      "kuolema": "1980-02-29",
+      "vihitty": "1935-06-02",
+      "puoliso": "Eero Johannes Repo, s. 1903 (30.04. tai 30.07.), k. 1978-05-06",
+      "huomiot": "Avioliitosta ei lapsia; lapset Idan (VII-44...47)",
+      "vanhempi_id": "V-9",
+      "lahde": "lohko_r03_c2.jpg",
+      "lapset_ids": [
+        "VII-44",
+        "VII-45",
+        "VII-46",
+        "VII-47"
+      ]
+    },
+    {
+      "id": "VI-31",
+      "sukupolvi": "VI",
+      "nimi": "Emma Miinantr.",
+      "syntyma": "1901-01-23",
+      "kuolema": "1983-10-09",
+      "paikat": "Muutti naimatt. 05.04.1946 Simpeleelle",
+      "huomiot": "Kuoli naimattomana Simpeleellä",
+      "vanhempi_id": "V-9",
+      "lahde": "lohko_r03_c2.jpg",
+      "lapset_ids": [
+        "VII-48"
+      ]
+    },
+    {
+      "id": "VI-32",
+      "sukupolvi": "VI",
+      "nimi": "Hanna Maria Vellonen",
+      "syntyma": "1897-01-08",
+      "kuolema": "1901-09-17",
+      "huomiot": "Kuoli Sortavalassa",
+      "vanhempi_id": "V-10",
+      "lahde": "lohko_r03_c2.jpg"
+    },
+    {
+      "id": "VI-33",
+      "sukupolvi": "VI",
+      "nimi": "Ida Vellonen",
+      "syntyma": "1898-08-08",
+      "kuolema": "1948-11-21",
+      "huomiot": "Kuoli naimattomana, ei lapsia",
+      "vanhempi_id": "V-10",
+      "lahde": "lohko_r03_c2.jpg"
+    },
+    {
+      "id": "VI-34",
+      "sukupolvi": "VI",
+      "nimi": "Aina Hilja Vellonen",
+      "syntyma": "1900-08-06",
+      "kuolema": "1978-05-20",
+      "vihitty": "1928-03-18",
+      "puoliso": "Juhana Valkeapää, s. 1902-11-12, k. 1977-06-11",
+      "vanhempi_id": "V-10",
+      "lahde": "lohko_r03_c2.jpg",
+      "lapset_ids": [
+        "VII-49",
+        "VII-50",
+        "VII-51",
+        "VII-52"
+      ]
+    },
+    {
+      "id": "VI-35",
+      "sukupolvi": "VI",
+      "nimi": "Lauri Johannes Vellonen",
+      "syntyma": "1902-08-26",
+      "kuolema": "1906-09-11",
+      "vanhempi_id": "V-10",
+      "lahde": "lohko_r02_c2.jpg"
+    },
+    {
+      "id": "VI-36",
+      "sukupolvi": "VI",
+      "nimi": "Anna Vellonen",
+      "syntyma": "1903-09-24",
+      "kuolema": "1964-02-10",
+      "puoliso": "August Manninen, k. 1926-07-19",
+      "paikat": "Muutti P:lasta leskenä 18.01.1950 Simpeleelle",
+      "huomiot": "Vihkimispäivä ja miehen syntymäaika tyhjiä kartassa; kuolinvuosi 1964 vai 1967 – tarkista zoomiversiosta",
+      "vanhempi_id": "V-10",
+      "lahde": "lohko_r02_c2.jpg",
+      "lapset_ids": [
+        "VII-53"
+      ]
+    },
+    {
+      "id": "VI-37",
+      "sukupolvi": "VI",
+      "nimi": "Johannes Vellonen",
+      "syntyma": "1906-02-08",
+      "kuolema": "1941-07-29",
+      "vihitty": "1931-05-24",
+      "puoliso": "Saimi Anni Edit s. Saukkonen, s. 1909-08-27 Sortavala, siirt. srk-jaossa Simpeleelle 1922, k. 1984-12-18",
+      "paikat": "Muutti Simpeleelle 19.02.1931",
+      "huomiot": "Kaatui sodassa",
+      "vanhempi_id": "V-10",
+      "lahde": "lohko_r02_c2.jpg",
+      "lapset_ids": [
+        "VII-54",
+        "VII-55",
+        "VII-56",
+        "VII-57"
+      ]
+    },
+    {
+      "id": "VI-38",
+      "sukupolvi": "VI",
+      "nimi": "Matti Vellonen",
+      "syntyma": "1908-12-21",
+      "vihitty": "1936-09-13",
+      "puoliso": "Aino s. Peuhkuri, s. 1909-12-01, muutti Simpeleelle 25.04.1935",
+      "paikat": "Muutti Simpeleelle 19.02.1931",
+      "vanhempi_id": "V-10",
+      "lahde": "lohko_r01_c2.jpg",
+      "lapset_ids": [
+        "VII-58",
+        "VII-59",
+        "VII-60"
+      ]
+    },
+    {
+      "id": "VI-39",
+      "sukupolvi": "VI",
+      "nimi": "Aleksanteri Vellonen",
+      "syntyma": "1911-11-11",
+      "kuolema": "1935-12-29",
+      "huomiot": "Kuoli naimattomana, ei lapsia",
+      "vanhempi_id": "V-10",
+      "lahde": "lohko_r01_c2.jpg"
+    },
+    {
+      "id": "VI-40",
+      "sukupolvi": "VI",
+      "nimi": "Yrjö Oskari",
+      "syntyma": "1924-12-01",
+      "vihitty": "1960-01-01",
+      "puoliso": "Sisko Katri Andersin, s. 1917-05-29",
+      "paikat": "Muutti S:linnaan 01.09.1960",
+      "vanhempi_id": "V-11",
+      "lahde": "lohko_r01_c2.jpg"
+    },
+    {
+      "id": "VI-41",
+      "sukupolvi": "VI",
+      "nimi": "Veikko Olavi",
+      "syntyma": "1926-10-22",
+      "paikat": "Muutti Savonlinnaan naimattomana 23.09.1945",
+      "vanhempi_id": "V-11",
+      "lahde": "lohko_r01_c2.jpg"
+    },
+    {
+      "id": "VII-1",
+      "sukupolvi": "VII",
+      "nimi": "Kustaa Adolf Antinp. Peippo",
+      "lahde": "lohko_r10_c3.jpg",
+      "syntyma": "1895-11-05",
+      "vihitty": "1919-10-20",
+      "puoliso": "Anna Maria Antintr. Sormunen, s. 1898-05-22 Impilahti, k. 1938-09-16",
+      "paikat": "Tuli 20.02.1931 Simpeleeltä Impilahdelle; muutti 02.05.1950 Leppävirran srk",
+      "huomiot": "Muuttivat 23.03.1936 Saarimäen, palasivat takaisin 28.12.1937",
+      "vanhempi_id": "VI-1",
+      "lapset_ids": [
+        "VIII-1",
+        "VIII-2",
+        "VIII-3",
+        "VIII-4",
+        "VIII-5",
+        "VIII-6",
+        "VIII-7"
+      ]
+    },
+    {
+      "id": "VII-2",
+      "sukupolvi": "VII",
+      "nimi": "Anna Sofia Peippo",
+      "lahde": "lohko_r10_c3.jpg",
+      "syntyma": "1901-07-25",
+      "kuolema": "1982-03-04",
+      "vihitty": "1923-07-15",
+      "puoliso": "Aleksanteri Kyheröinen, s. 1899-08-30, k. 1966-01-13",
+      "paikat": "Muuttivat Karinaisiin 11.02.1947",
+      "vanhempi_id": "VI-1",
+      "lapset_ids": [
+        "VIII-8",
+        "VIII-9"
+      ]
+    },
+    {
+      "id": "VII-3",
+      "sukupolvi": "VII",
+      "nimi": "Toivo",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1924-04-06",
+      "kuolema": "1943-12-16",
+      "huomiot": "Kaatui sodassa",
+      "vanhempi_id": "VI-6"
+    },
+    {
+      "id": "VII-4",
+      "sukupolvi": "VII",
+      "nimi": "Laina Ilona",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1925-10-11",
+      "vihitty": "1946-08-25",
+      "puoliso": "Toivo Armas Pietarinen, s. 1919-03-12 Nurmes",
+      "vanhempi_id": "VI-6",
+      "lapset_ids": [
+        "VIII-10",
+        "VIII-11",
+        "VIII-12",
+        "VIII-13",
+        "VIII-14"
+      ]
+    },
+    {
+      "id": "VII-5",
+      "sukupolvi": "VII",
+      "nimi": "Irja Karoliina",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1928-11-20",
+      "vihitty": "1964-08-30",
+      "puoliso": "Olavi Sirviö, s. 1924-12-18 Padasjoki",
+      "vanhempi_id": "VI-6",
+      "lapset_ids": [
+        "VIII-15"
+      ]
+    },
+    {
+      "id": "VII-6",
+      "sukupolvi": "VII",
+      "nimi": "Eino Olavi",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1930-12-28",
+      "vihitty": "1957-08-18",
+      "puoliso": "Laila Anita s. Väinö, s. 1934-02-05 Joensuu",
+      "vanhempi_id": "VI-6",
+      "lapset_ids": [
+        "VIII-16",
+        "VIII-17",
+        "VIII-18"
+      ]
+    },
+    {
+      "id": "VII-7",
+      "sukupolvi": "VII",
+      "nimi": "Meeri Ellen",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1933-10-13",
+      "vihitty": "1954-04-19",
+      "puoliso": "Pertti Matias Hirvonen, s. 1931-10-25 Lumivaara",
+      "huomiot": "Eronneet",
+      "vanhempi_id": "VI-7",
+      "lapset_ids": [
+        "VIII-19",
+        "VIII-20",
+        "VIII-21"
+      ]
+    },
+    {
+      "id": "VII-8",
+      "sukupolvi": "VII",
+      "nimi": "Yrjö Kalevi",
+      "lahde": "lohko_r08_c3.jpg",
+      "syntyma": "1936-02-17",
+      "vihitty": "1969-10-30",
+      "puoliso": "Pirkko Maria s. Haaristo, s. 1939-12-11",
+      "vanhempi_id": "VI-7",
+      "lapset_ids": [
+        "VIII-22",
+        "VIII-23"
+      ]
+    },
+    {
+      "id": "VII-9",
+      "sukupolvi": "VII",
+      "nimi": "Vieno Sinikka",
+      "lahde": "lohko_r08_c3.jpg",
+      "syntyma": "1938-02-08",
+      "vihitty": "1961-06-21",
+      "puoliso": "Eino Armas Santtila, s. 1939-09-11 Jurva",
+      "vanhempi_id": "VI-7",
+      "lapset_ids": [
+        "VIII-24",
+        "VIII-25",
+        "VIII-26"
+      ]
+    },
+    {
+      "id": "VII-10",
+      "sukupolvi": "VII",
+      "nimi": "Onni Akseli Forsbacka",
+      "lahde": "lohko_r08_c3.jpg",
+      "syntyma": "1931-02-26",
+      "vihitty": "1961-08-28",
+      "puoliso": "Eine Elina Takkinen, s. 1933-03-04 Juva",
+      "paikat": "Muutti naimattomana Sääminkiin",
+      "vanhempi_id": "VI-7",
+      "lapset_ids": [
+        "VIII-27"
+      ]
+    },
+    {
+      "id": "VII-11",
+      "sukupolvi": "VII",
+      "nimi": "Eeva Maria Rita",
+      "syntyma": "1905-03-28",
+      "kuolema": "1980-10-16",
+      "vihitty": "1926-07-11",
+      "puoliso": "Onni Poutanen, s. 1904-07-14, k. 1985-03-19",
+      "paikat": "Muuttivat Rantasalmelle 08.12.1947",
+      "vanhempi_id": "VI-18",
+      "lahde": "lohko_r07_c2.jpg",
+      "lapset_ids": [
+        "VIII-28",
+        "VIII-29",
+        "VIII-30",
+        "VIII-31"
+      ]
+    },
+    {
+      "id": "VII-12",
+      "sukupolvi": "VII",
+      "nimi": "Anton Johannes Rita",
+      "syntyma": "1910-08-08",
+      "paikat": "Muutti 13.10.1911 Antreaan; muutti 31.12.1949 naimattomana Hausjärven srk",
+      "vanhempi_id": "VI-18",
+      "lahde": "lohko_r07_c2.jpg"
+    },
+    {
+      "id": "VII-13",
+      "sukupolvi": "VII",
+      "nimi": "Aarne Anterus Kopra",
+      "syntyma": "1912-03-28",
+      "paikat": "Siirt. siviilirekisteriin 18.12.1961",
+      "vanhempi_id": "VI-20",
+      "lahde": "lohko_r07_c2.jpg"
+    },
+    {
+      "id": "VII-14",
+      "sukupolvi": "VII",
+      "nimi": "Väinö Artturi Kopra",
+      "syntyma": "1916-06-28",
+      "kuolema": "1934-12-11",
+      "huomiot": "Kuoli naimattomana",
+      "vanhempi_id": "VI-20",
+      "lahde": "lohko_r07_c2.jpg"
+    },
+    {
+      "id": "VII-15",
+      "sukupolvi": "VII",
+      "nimi": "Aino (Aino) Esteri Kopra",
+      "syntyma": "1920-05-12",
+      "kuolema": "1987-11-02",
+      "vihitty": "1951-12-12",
+      "puoliso": "Tuomas Taponen, s. 1912-09-27 Kirvu, k. 1974-10-22",
+      "vanhempi_id": "VI-20",
+      "lahde": "lohko_r07_c2.jpg"
+    },
+    {
+      "id": "VII-16",
+      "sukupolvi": "VII",
+      "nimi": "Kaari Helena Kopra",
+      "syntyma": "1922-02-23",
+      "kuolema": "1922-04-27",
+      "vanhempi_id": "VI-20",
+      "lahde": "lohko_r07_c2.jpg"
+    },
+    {
+      "id": "VII-17",
+      "sukupolvi": "VII",
+      "nimi": "Oiva Ilmari Harmanen",
+      "syntyma": "1914-05-27",
+      "kuolema": "1982-11-13",
+      "vihitty": "1943-07-04",
+      "puoliso": "Hilja s. Jääskeläinen, s. 1914-02-03",
+      "vanhempi_id": "VI-21",
+      "lahde": "lohko_r07_c2.jpg",
+      "lapset_ids": [
+        "VIII-32",
+        "VIII-33",
+        "VIII-34"
+      ]
+    },
+    {
+      "id": "VII-18",
+      "sukupolvi": "VII",
+      "nimi": "Anna Onerva Harmanen",
+      "syntyma": "1916-12-10",
+      "vihitty": "1941-06-23",
+      "puoliso": "Väinö Eino Anttonen, s. 1911-03-31, k. 1970-05-29",
+      "paikat": "Muutti naimattomana 01.10.1934 Viipurin Tnk.srk",
+      "huomiot": "Eronneet",
+      "vanhempi_id": "VI-21",
+      "lahde": "lohko_r07_c2.jpg",
+      "lapset_ids": [
+        "VIII-35"
+      ]
+    },
+    {
+      "id": "VII-19",
+      "sukupolvi": "VII",
+      "nimi": "Toini Marjatta Harmanen",
+      "syntyma": "1920-07-26",
+      "kuolema": "1927-12-01",
+      "vanhempi_id": "VI-21",
+      "lahde": "lohko_r07_c2.jpg"
+    },
+    {
+      "id": "VII-20",
+      "sukupolvi": "VII",
+      "nimi": "Anna Saima Aleksandrantr. Astikainen",
+      "syntyma": "1909-02-18",
+      "syntymapaikka": "Kurkijoki",
+      "vihitty": "1925-02-01",
+      "puoliso": "Nikolai Keuramo, ent. Kamenski, s. 1898-05-02",
+      "paikat": "Muuttivat 19.12.1940 Jyväskylään",
+      "vanhempi_id": "VI-23",
+      "lahde": "lohko_r06_c3(2).jpg"
+    },
+    {
+      "id": "VII-21",
+      "sukupolvi": "VII",
+      "nimi": "Hilja Maria Astikainen",
+      "syntyma": "1913-03-10",
+      "syntymapaikka": "Kurkijoki",
+      "kuolema": "1928-03-14",
+      "huomiot": "Kuoli naimattomana",
+      "vanhempi_id": "VI-23",
+      "lahde": "lohko_r06_c3(2).jpg"
+    },
+    {
+      "id": "VII-22",
+      "sukupolvi": "VII",
+      "nimi": "Valmari Johannes Astikainen",
+      "syntyma": "1923-11-20",
+      "syntymapaikka": "Kurkijoki",
+      "kuolema": "1924-09-21",
+      "vanhempi_id": "VI-23",
+      "lahde": "lohko_r06_c3(2).jpg"
+    },
+    {
+      "id": "VII-23",
+      "sukupolvi": "VII",
+      "nimi": "Tyyne Siviä Astikainen",
+      "syntyma": "1926-11-24",
+      "syntymapaikka": "Kurkijoki",
+      "paikat": "Muutti 27.07.1945 Äänekoskelle",
+      "vanhempi_id": "VI-23",
+      "lahde": "lohko_r06_c3(2).jpg"
+    },
+    {
+      "id": "VII-24",
+      "sukupolvi": "VII",
+      "nimi": "Meeri Mirjami Astikainen",
+      "syntyma": "1929-02-03",
+      "syntymapaikka": "Kurkijoki",
+      "paikat": "Muutti 14.12.1949 Äänekoskelle",
+      "vanhempi_id": "VI-23",
+      "lahde": "lohko_r06_c3(2).jpg"
+    },
+    {
+      "id": "VII-25",
+      "sukupolvi": "VII",
+      "nimi": "Aili Ester",
+      "syntyma": "1918-09-03",
+      "syntymapaikka": "Kurkijoki",
+      "paikat": "Muutti 18.07.1940 Helsingin Sörnäisten suom. srk:aan naimattomana",
+      "vanhempi_id": "VI-24",
+      "lahde": "lohko_r05_c3.jpg"
+    },
+    {
+      "id": "VII-26",
+      "sukupolvi": "VII",
+      "nimi": "Arvo",
+      "syntyma": "1921-07-04",
+      "kuolema": "1929-02-22",
+      "vanhempi_id": "VI-24",
+      "lahde": "lohko_r05_c3.jpg"
+    },
+    {
+      "id": "VII-27",
+      "sukupolvi": "VII",
+      "nimi": "Vilho Matti",
+      "syntyma": "1924-03-24",
+      "syntymapaikka": "Kurkijoki",
+      "kuolema": "1924-07-08",
+      "vanhempi_id": "VI-24",
+      "lahde": "lohko_r05_c3.jpg"
+    },
+    {
+      "id": "VII-28",
+      "sukupolvi": "VII",
+      "nimi": "Viljo Johannes",
+      "syntyma": "1922-09-25",
+      "syntymapaikka": "Kurkijoki",
+      "kuolema": "1922-09-30",
+      "vanhempi_id": "VI-25",
+      "lahde": "lohko_r05_c3.jpg"
+    },
+    {
+      "id": "VII-29",
+      "sukupolvi": "VII",
+      "nimi": "Toivo Johannes",
+      "syntyma": "1923-10-06",
+      "syntymapaikka": "Kurkijoki",
+      "vihitty": "1948-10-24",
+      "puoliso": "Kerttu Karjalainen L:rannasta",
+      "paikat": "Muutti L:rantaan 30.03.1949",
+      "vanhempi_id": "VI-25",
+      "lahde": "lohko_r05_c3.jpg"
+    },
+    {
+      "id": "VII-30",
+      "sukupolvi": "VII",
+      "nimi": "Agda Elina",
+      "syntyma": "1926-02-05",
+      "syntymapaikka": "Kurkijoki",
+      "paikat": "Muutti 28.01.1949 Kaarinan srk:taan naimattomana",
+      "vanhempi_id": "VI-27",
+      "lahde": "lohko_r05_c3.jpg"
+    },
+    {
+      "id": "VII-31",
+      "sukupolvi": "VII",
+      "nimi": "Sirkka Maria",
+      "syntyma": "1928-03-24",
+      "syntymapaikka": "Kurkijoki",
+      "kuolema": "1942-10-29",
+      "vanhempi_id": "VI-27",
+      "lahde": "lohko_r05_c3.jpg"
+    },
+    {
+      "id": "VII-32",
+      "sukupolvi": "VII",
+      "nimi": "Sinikka Lappalainen",
+      "syntyma": "1928-06-11",
+      "syntymapaikka": "Kurkijoki",
+      "vihitty": "1948-05-16",
+      "puoliso": "Kauko Olavi Göös Muuramesta",
+      "paikat": "Sinikka muutti 14.12.1948 Jyväskylän maasrk:n",
+      "vanhempi_id": "VI-28",
+      "lahde": "lohko_r05_c3.jpg"
+    },
+    {
+      "id": "VII-33",
+      "sukupolvi": "VII",
+      "nimi": "Erkki Ensio Lappalainen",
+      "syntyma": "1929-06-06",
+      "syntymapaikka": "Kurkijoki",
+      "vihitty": "1946-11-02",
+      "puoliso": "Kirsti Helena Pihl",
+      "paikat": "Jyväskylästä, jonne Erkki muutti 30.12.1946",
+      "vanhempi_id": "VI-28",
+      "lahde": "lohko_r05_c3.jpg"
+    },
+    {
+      "id": "VII-35",
+      "sukupolvi": "VII",
+      "nimi": "Väinö",
+      "syntyma": "1923-06-26",
+      "syntymapaikka": "Rautjärvi",
+      "vihitty": "1952-08-03",
+      "puoliso": "Hilkka Tellervo s. Myllyrinen, s. 1932-02-26 Joutseno",
+      "huomiot": "Avioero 07.02.1985",
+      "vanhempi_id": "VI-29",
+      "lahde": "lohko_r04_c3.jpg",
+      "lapset_ids": [
+        "VIII-42",
+        "VIII-43"
+      ]
+    },
+    {
+      "id": "VII-36",
+      "sukupolvi": "VII",
+      "nimi": "Vilho Olavi",
+      "syntyma": "1925-10-01",
+      "syntymapaikka": "Rautjärvi",
+      "paikat": "Muutti 15.12.1971 naimattomana Joutsenoon",
+      "huomiot": "Ei lapsia",
+      "vanhempi_id": "VI-29",
+      "lahde": "lohko_r04_c3.jpg"
+    },
+    {
+      "id": "VII-37",
+      "sukupolvi": "VII",
+      "nimi": "Matti",
+      "syntyma": "1927-11-19",
+      "syntymapaikka": "Rautjärvi",
+      "kuolema": "1957-01-20",
+      "huomiot": "Kuoli Ruokolahdella. Sicillä ei lapsia.",
+      "vanhempi_id": "VI-29",
+      "lahde": "lohko_r04_c3.jpg"
+    },
+    {
+      "id": "VII-38",
+      "sukupolvi": "VII",
+      "nimi": "Yrjö Kalevi",
+      "syntyma": "1930-06-02",
+      "syntymapaikka": "Rautjärvi",
+      "kuolema": "1982-01-02",
+      "vihitty": "1952-08-03",
+      "puoliso": "Kanerva Kyllikki s. Kitunen, s. 1932-01-13 Puumala",
+      "paikat": "Muuttivat 17.09.1973 Imatralle",
+      "vanhempi_id": "VI-29",
+      "lahde": "lohko_r04_c3.jpg",
+      "lapset_ids": [
+        "VIII-44",
+        "VIII-45",
+        "VIII-46"
+      ]
+    },
+    {
+      "id": "VII-39",
+      "sukupolvi": "VII",
+      "nimi": "Anja Annikki",
+      "syntyma": "1932-04-23",
+      "syntymapaikka": "Ruokolahti",
+      "paikat": "Muutti 26.02.1966 naimattomana Joutsenoon",
+      "vanhempi_id": "VI-29",
+      "lahde": "lohko_r04_c3.jpg"
+    },
+    {
+      "id": "VII-40",
+      "sukupolvi": "VII",
+      "nimi": "Eeva Anelma",
+      "syntyma": "1934-04-29",
+      "syntymapaikka": "Rautjärvi",
+      "vihitty": "1960-06-12",
+      "puoliso": "Tarmo Olavi Ruottinen, s. 1935-09-15 Sulkava",
+      "paikat": "Perhe muutti 16.01.1976 Imatralle ja 09.10.1978 Puumalaan",
+      "vanhempi_id": "VI-29",
+      "lahde": "lohko_r04_c3.jpg",
+      "lapset_ids": [
+        "VIII-47",
+        "VIII-48"
+      ]
+    },
+    {
+      "id": "VII-41",
+      "sukupolvi": "VII",
+      "nimi": "Martti Vilhelm",
+      "syntyma": "1936-05-12",
+      "syntymapaikka": "Rautjärvi",
+      "vihitty": "1960-10-02",
+      "puoliso": "Lea Tellervo s. Kitunen, s. 1939-12-07 Puumala",
+      "paikat": "Perhe muutti 30.10.1965 Joutsenoon",
+      "vanhempi_id": "VI-29",
+      "lahde": "lohko_r04_c3.jpg",
+      "lapset_ids": [
+        "VIII-49",
+        "VIII-50",
+        "VIII-51"
+      ]
+    },
+    {
+      "id": "VII-42",
+      "sukupolvi": "VII",
+      "nimi": "Aili Tuulikki",
+      "syntyma": "1938-08-26",
+      "syntymapaikka": "Rautjärvi",
+      "vihitty": "1958-07-06",
+      "puoliso": "Veikko Alfred Miettinen, s. 1931-02-10 Ruokolahti",
+      "vanhempi_id": "VI-29",
+      "lahde": "lohko_r04_c3.jpg",
+      "lapset_ids": [
+        "VIII-52",
+        "VIII-53",
+        "VIII-54"
+      ]
+    },
+    {
+      "id": "VII-43",
+      "sukupolvi": "VII",
+      "nimi": "Hilkka Liisa",
+      "syntyma": "1940-09-15",
+      "syntymapaikka": "Rautjärvi",
+      "vihitty": "1965-01-03",
+      "puoliso": "Aimo Antti Akkanen, s. 1939-07-28 Ruokolahti",
+      "paikat": "Muutti L:rantaan 24.11.1964",
+      "huomiot": "Vanhempi alempana kartassa – täydennä vanhempi_id riviltä r04",
+      "lahde": "lohko_r04_c3.jpg",
+      "vanhempi_id": "VI-29",
+      "lapset_ids": [
+        "VIII-55",
+        "VIII-56"
+      ]
+    },
+    {
+      "id": "VII-44",
+      "sukupolvi": "VII",
+      "nimi": "Oiva Antero Idanp.",
+      "syntyma": "1917-07-14",
+      "kuolema": "1987-05-15",
+      "vanhempi_id": "VI-30",
+      "lahde": "lohko_r03_c3.jpg"
+    },
+    {
+      "id": "VII-45",
+      "sukupolvi": "VII",
+      "nimi": "Eino Idanp.",
+      "syntyma": "1919-07-01",
+      "kuolema": "1923-02-03",
+      "vanhempi_id": "VI-30",
+      "lahde": "lohko_r03_c3.jpg"
+    },
+    {
+      "id": "VII-46",
+      "sukupolvi": "VII",
+      "nimi": "Eino Idanp.",
+      "syntyma": "1923-09-20",
+      "kuolema": "1924-01-11",
+      "vanhempi_id": "VI-30",
+      "lahde": "lohko_r03_c3.jpg"
+    },
+    {
+      "id": "VII-47",
+      "sukupolvi": "VII",
+      "nimi": "Sylvi Sanelma Idantr.",
+      "syntyma": "1926-01-01",
+      "paikat": "Muutti naimatt. 25.01.1947 Ruokolahdelle",
+      "vanhempi_id": "VI-30",
+      "lahde": "lohko_r03_c3.jpg"
+    },
+    {
+      "id": "VII-48",
+      "sukupolvi": "VII",
+      "nimi": "Esko Ensio Emmanp.",
+      "syntyma": "1923-04-09",
+      "vihitty": "1947-04-07",
+      "puoliso": "Toini Tellervo s. Kapanen, s. 1926-06-18 Kerimäki",
+      "paikat": "Muuttaneet 13.07.1956 Hämeenlinnaan",
+      "vanhempi_id": "VI-31",
+      "lahde": "lohko_r03_c3.jpg",
+      "lapset_ids": [
+        "VIII-57",
+        "VIII-58",
+        "VIII-59"
+      ]
+    },
+    {
+      "id": "VII-49",
+      "sukupolvi": "VII",
+      "nimi": "Sirkka Liisa Valkeapää",
+      "syntyma": "1929-07-02",
+      "vihitty": "1954-05-02",
+      "puoliso": "Reino Johannes Sairanen, s. 1927-02-10 Äyräpää",
+      "paikat": "Perhe muutti 29.12.1960 H:gistä Espooseen, 1967 Kirkkonummen srk",
+      "vanhempi_id": "VI-34",
+      "lahde": "lohko_r03_c3.jpg",
+      "lapset_ids": [
+        "VIII-60",
+        "VIII-61",
+        "VIII-62",
+        "VIII-63"
+      ]
+    },
+    {
+      "id": "VII-50",
+      "sukupolvi": "VII",
+      "nimi": "Hilkka Sisko Valkeapää",
+      "syntyma": "1932-11-28",
+      "vihitty": "1958-07-12",
+      "puoliso": "Arvo Aulis Kuvaja, s. 1930-01-05 Viipuri",
+      "paikat": "Muutti 12.10.1955",
+      "vanhempi_id": "VI-34",
+      "lahde": "lohko_r03_c3.jpg",
+      "lapset_ids": [
+        "VIII-64"
+      ]
+    },
+    {
+      "id": "VII-51",
+      "sukupolvi": "VII",
+      "nimi": "Eero Sakari Valkeapää",
+      "syntyma": "1936-01-12",
+      "puoliso": "Enni Inkeri Partanen",
+      "huomiot": "Vihkimispäivä ja vaimon syntymäaika tyhjiä kartassa",
+      "vanhempi_id": "VI-34",
+      "lahde": "lohko_r03_c3.jpg"
+    },
+    {
+      "id": "VII-52",
+      "sukupolvi": "VII",
+      "nimi": "Sinikka Marjatta Valkeapää",
+      "syntyma": "1940-02-17",
+      "kuolema": "1985-05-19",
+      "vihitty": "1969-05-25",
+      "puoliso": "Yrjö Antero Tuovinen, s. 1938-07-09 Joroinen",
+      "paikat": "Muuttivat Pieksämäeltä Keravalle 21.09.1970",
+      "vanhempi_id": "VI-34",
+      "lahde": "lohko_r02_c3.jpg",
+      "lapset_ids": [
+        "VIII-65",
+        "VIII-65b"
+      ]
+    },
+    {
+      "id": "VII-53",
+      "sukupolvi": "VII",
+      "nimi": "Toivo August (Augusti) Manninen",
+      "syntyma": "1925-05-12",
+      "syntymapaikka": "Pohj. Pirkkala",
+      "huomiot": "Asuu Ruotsissa",
+      "vanhempi_id": "VI-36",
+      "lahde": "lohko_r02_c3.jpg"
+    },
+    {
+      "id": "VII-54",
+      "sukupolvi": "VII",
+      "nimi": "Anja Eevi Kaarin Vellonen",
+      "syntyma": "1932-07-28",
+      "syntymapaikka": "Simpele",
+      "vihitty": "1954-11-14",
+      "puoliso": "Väinö Olavi Varis, s. 1923-06-20, k. 1972-02-07",
+      "vanhempi_id": "VI-37",
+      "lahde": "lohko_r02_c3.jpg",
+      "lapset_ids": [
+        "VIII-66",
+        "VIII-67",
+        "VIII-68"
+      ]
+    },
+    {
+      "id": "VII-55",
+      "sukupolvi": "VII",
+      "nimi": "Uolevi Johannes Vellonen",
+      "syntyma": "1934-03-16",
+      "syntymapaikka": "Simpele",
+      "vihitty": "1957-11-16",
+      "puoliso": "Anja Laura Onerva s. Lankinen, s. 1939-02-28 Rautjärvi",
+      "vanhempi_id": "VI-37",
+      "lahde": "lohko_r02_c3.jpg",
+      "lapset_ids": [
+        "VIII-69",
+        "VIII-70",
+        "VIII-71",
+        "VIII-72"
+      ]
+    },
+    {
+      "id": "VII-56",
+      "sukupolvi": "VII",
+      "nimi": "Aila Saimi Marjatta Vellonen",
+      "syntyma": "1936-01-16",
+      "syntymapaikka": "Simpele",
+      "vihitty": "1960-12-26",
+      "puoliso": "Martti Juhani Kokko, s. 1932-12-23 H:ki Töölö",
+      "paikat": "Muutti 09.07.1958 Uukuniemelle",
+      "vanhempi_id": "VI-37",
+      "lahde": "lohko_r02_c3.jpg",
+      "lapset_ids": [
+        "VIII-73"
+      ]
+    },
+    {
+      "id": "VII-57",
+      "sukupolvi": "VII",
+      "nimi": "Terttu Annikki Vellonen",
+      "syntyma": "1938-09-14",
+      "syntymapaikka": "Viipuri",
+      "vihitty": "1965-12-23",
+      "puoliso": "Veikko Henrik Hassinen, s. 1929-07-07 Ilomantsi",
+      "paikat": "Muutti Simpeleelle 15.08.1963, Säyneisiin 10.12.1964",
+      "vanhempi_id": "VI-37",
+      "lahde": "lohko_r02_c3.jpg",
+      "lapset_ids": [
+        "VIII-74",
+        "VIII-75",
+        "VIII-76"
+      ]
+    },
+    {
+      "id": "VII-58",
+      "sukupolvi": "VII",
+      "nimi": "Leena Marketta Vellonen",
+      "syntyma": "1941-09-30",
+      "syntymapaikka": "Simpele",
+      "vihitty": "1961-12-03",
+      "puoliso": "Martti Kustaa Elovaara, s. 1937-03-24 Nivala, muutti Pielavedelle 25.03.1963; vaimo muutti P:vedelle 05.02.1963 H:gistä",
+      "vanhempi_id": "VI-38",
+      "lahde": "lohko_r01_c3.jpg",
+      "lapset_ids": [
+        "VIII-77",
+        "VIII-78",
+        "VIII-79"
+      ]
+    },
+    {
+      "id": "VII-59",
+      "sukupolvi": "VII",
+      "nimi": "Eira Anneli Vellonen",
+      "syntyma": "1945-07-18",
+      "syntymapaikka": "Simpele",
+      "vihitty": "1969-12-27",
+      "puoliso": "Seppo Jorma Juhani Järvinen, s. 1944-08-08 Kemi",
+      "paikat": "Muutti Ruotsiin 02.01.1969; muuttivat Kurikkaan 02.07.1975",
+      "vanhempi_id": "VI-38",
+      "lahde": "lohko_r01_c3.jpg",
+      "lapset_ids": [
+        "VIII-80",
+        "VIII-81"
+      ]
+    },
+    {
+      "id": "VII-60",
+      "sukupolvi": "VII",
+      "nimi": "Paavo Juhani Vellonen",
+      "syntyma": "1950-07-11",
+      "syntymapaikka": "Simpele",
+      "vihitty": "1978-02-04",
+      "puoliso": "Raija Liisa Helena s. Tynkkynen, s. 1953-11-29 Sääminki",
+      "paikat": "Muutti S:linnaan 13.08.1976",
+      "vanhempi_id": "VI-38",
+      "lahde": "lohko_r01_c3.jpg",
+      "lapset_ids": [
+        "VIII-82",
+        "VIII-83"
+      ]
+    },
+    {
+      "id": "VIII-1",
+      "sukupolvi": "VIII",
+      "nimi": "Aili Siviä Peippo",
+      "lahde": "lohko_r10_c3.jpg",
+      "syntyma": "1920-09-01",
+      "vanhempi_id": "VII-1",
+      "paikat": "Muutti 17.09.1945 naimattomana Säämingin srk"
+    },
+    {
+      "id": "VIII-2",
+      "sukupolvi": "VIII",
+      "nimi": "Väinö Johannes Peippo",
+      "lahde": "lohko_r10_c3.jpg",
+      "syntyma": "1922-06-22",
+      "vanhempi_id": "VII-1",
+      "vihitty": "1946-08-24",
+      "puoliso": "Anna Esteri Laitinen, Leppävirta",
+      "paikat": "Muutti 16.11.1948 Leppävirran srk"
+    },
+    {
+      "id": "VIII-3",
+      "sukupolvi": "VIII",
+      "nimi": "Eino Olavi Heikki Peippo",
+      "lahde": "lohko_r10_c3.jpg",
+      "syntyma": "1923-11-11",
+      "vanhempi_id": "VII-1",
+      "paikat": "Muutti 28.12.1950 naimattomana Rantasalmelle"
+    },
+    {
+      "id": "VIII-4",
+      "sukupolvi": "VIII",
+      "nimi": "Teuvo Kalevi Peippo",
+      "lahde": "lohko_r10_c3.jpg",
+      "syntyma": "1928-02-19",
+      "vanhempi_id": "VII-1",
+      "paikat": "Muutti 14.11.1958 naimattomana Alaviron srk"
+    },
+    {
+      "id": "VIII-5",
+      "sukupolvi": "VIII",
+      "nimi": "Keijo Kalevi Peippo",
+      "lahde": "lohko_r10_c3.jpg",
+      "syntyma": "1932-02-08",
+      "vanhempi_id": "VII-1",
+      "paikat": "Muutti 05.09.1955 naimattomana Seinäjoelle"
+    },
+    {
+      "id": "VIII-6",
+      "sukupolvi": "VIII",
+      "nimi": "Toini Kaarina Peippo",
+      "lahde": "lohko_r10_c3.jpg",
+      "syntyma": "1934-01-12",
+      "vanhempi_id": "VII-1",
+      "paikat": "Muutti 02.10.1950 Leppävirran srk"
+    },
+    {
+      "id": "VIII-7",
+      "sukupolvi": "VIII",
+      "nimi": "Hilja Esteri Peippo",
+      "lahde": "lohko_r10_c3.jpg",
+      "syntyma": "1938-09-05",
+      "vanhempi_id": "VII-1",
+      "syntymapaikka": "Impilahti",
+      "paikat": "Muutti 10.02.1949 Varkauteen"
+    },
+    {
+      "id": "VIII-8",
+      "sukupolvi": "VIII",
+      "nimi": "Enni Siviä Kyheröinen",
+      "lahde": "lohko_r10_c3.jpg",
+      "syntyma": "1925-02-18",
+      "vanhempi_id": "VII-2",
+      "syntymapaikka": "Simpele",
+      "vihitty": "1945-04-01",
+      "puoliso": "Eino Olavi Terävä, s. 1917-07-05, k. 1966-08-16",
+      "paikat": "Muutti Karinaisiin 02.09.1948, edelleen Kiikkaan 03.09.1953"
+    },
+    {
+      "id": "VIII-9",
+      "sukupolvi": "VIII",
+      "nimi": "Aune Mirjam Kyheröinen",
+      "lahde": "lohko_r10_c3.jpg",
+      "syntyma": "1933-06-14",
+      "vanhempi_id": "VII-2",
+      "syntymapaikka": "Simpele",
+      "vihitty": "1953-08-29",
+      "puoliso": "Osmo Väinö Sakari Raikko, s. 1928-10-23 Marttila",
+      "paikat": "Muutti 11.02.1947 Karinaisiin",
+      "lapset_ids": [
+        "IX-4",
+        "IX-5"
+      ]
+    },
+    {
+      "id": "VIII-10",
+      "sukupolvi": "VIII",
+      "nimi": "Markku Pekka Juhani Pietarinen",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1947-02-17",
+      "vanhempi_id": "VII-4",
+      "syntymapaikka": "Sääminki",
+      "vihitty": "1980-12-22",
+      "puoliso": "Anu s. Rantanen, s. 1951-03-10 H:ki",
+      "lapset_ids": [
+        "IX-6",
+        "IX-7"
+      ]
+    },
+    {
+      "id": "VIII-11",
+      "sukupolvi": "VIII",
+      "nimi": "Erkki Armas Pietarinen",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1949-04-15",
+      "vanhempi_id": "VII-4",
+      "syntymapaikka": "Sääminki",
+      "vihitty": "1971-06-26",
+      "puoliso": "Liisa Katriina s. Kohonen, s. 1946-11-09 Savonlinna",
+      "lapset_ids": [
+        "IX-8",
+        "IX-9"
+      ]
+    },
+    {
+      "id": "VIII-12",
+      "sukupolvi": "VIII",
+      "nimi": "Pirkko Liisa Johanna Pietarinen",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1950-07-05",
+      "vanhempi_id": "VII-4",
+      "syntymapaikka": "Sääminki",
+      "vihitty": "1980-02-27",
+      "puoliso": "Lothar Georg Johannes Masermann, s. 1925-08-08 Saksassa"
+    },
+    {
+      "id": "VIII-13",
+      "sukupolvi": "VIII",
+      "nimi": "Martti Veli Olavi Pietarinen",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1953-10-12",
+      "vanhempi_id": "VII-4",
+      "syntymapaikka": "Sääminki",
+      "vihitty": "1986-08-23",
+      "puoliso": "Seija s. Matinen, s. 1952-04-20 S:linna"
+    },
+    {
+      "id": "VIII-14",
+      "sukupolvi": "VIII",
+      "nimi": "Mirkku Riitta Helena Pietarinen",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1955-07-20",
+      "vanhempi_id": "VII-4",
+      "syntymapaikka": "S:linna"
+    },
+    {
+      "id": "VIII-15",
+      "sukupolvi": "VIII",
+      "nimi": "Sari Sinikka Sirviö",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1965-06-16",
+      "vanhempi_id": "VII-5",
+      "syntymapaikka": "Savonranta"
+    },
+    {
+      "id": "VIII-16",
+      "sukupolvi": "VIII",
+      "nimi": "Jarmo Olavi",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1958-06-17",
+      "vanhempi_id": "VII-6",
+      "vihitty": "1980-05-03",
+      "puoliso": "Kirsti Annika s. Nikupaa, s. 1959-11-21 S:linna",
+      "lapset_ids": [
+        "IX-10",
+        "IX-11"
+      ]
+    },
+    {
+      "id": "VIII-17",
+      "sukupolvi": "VIII",
+      "nimi": "Arja Anita",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1959-08-23",
+      "vanhempi_id": "VII-6",
+      "syntymapaikka": "Luumäki"
+    },
+    {
+      "id": "VIII-18",
+      "sukupolvi": "VIII",
+      "nimi": "Arto Veli Juhani",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1966-03-09",
+      "vanhempi_id": "VII-6",
+      "syntymapaikka": "Luumäki"
+    },
+    {
+      "id": "VIII-19",
+      "sukupolvi": "VIII",
+      "nimi": "Raija Kaarina Hirvonen",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1954-09-27",
+      "vanhempi_id": "VII-7",
+      "lapset_ids": [
+        "IX-1"
+      ]
+    },
+    {
+      "id": "VIII-20",
+      "sukupolvi": "VIII",
+      "nimi": "Pirjo Anneli Hirvonen",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1956-04-26",
+      "vanhempi_id": "VII-7",
+      "vihitty": "1975-03-14",
+      "puoliso": "Juhani From, s. 1953-11-02 Raisio",
+      "lapset_ids": [
+        "IX-2",
+        "IX-3"
+      ]
+    },
+    {
+      "id": "VIII-21",
+      "sukupolvi": "VIII",
+      "nimi": "Juha Matias Hirvonen",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1964-10-19",
+      "vanhempi_id": "VII-7",
+      "syntymapaikka": "Raisio"
+    },
+    {
+      "id": "VIII-22",
+      "sukupolvi": "VIII",
+      "nimi": "Jari Kalevi",
+      "lahde": "lohko_r08_c3.jpg",
+      "syntyma": "1970-12-19",
+      "vanhempi_id": "VII-8",
+      "syntymapaikka": "Turku"
+    },
+    {
+      "id": "VIII-23",
+      "sukupolvi": "VIII",
+      "nimi": "Marianne Johanna",
+      "lahde": "lohko_r08_c3.jpg",
+      "syntyma": "1979-04-21",
+      "vanhempi_id": "VII-8",
+      "syntymapaikka": "Turku"
+    },
+    {
+      "id": "VIII-24",
+      "sukupolvi": "VIII",
+      "nimi": "Matti Armas Santtila",
+      "lahde": "lohko_r08_c3.jpg",
+      "syntyma": "1962-04-21",
+      "vanhempi_id": "VII-9",
+      "syntymapaikka": "Ruovesi"
+    },
+    {
+      "id": "VIII-25",
+      "sukupolvi": "VIII",
+      "nimi": "Riitta Sinikka Santtila",
+      "lahde": "lohko_r08_c3.jpg",
+      "syntyma": "1963-11-10",
+      "vanhempi_id": "VII-9",
+      "syntymapaikka": "Laihia"
+    },
+    {
+      "id": "VIII-26",
+      "sukupolvi": "VIII",
+      "nimi": "Mikko Juhani Santtila",
+      "lahde": "lohko_r08_c3.jpg",
+      "syntyma": "1969-10-12",
+      "vanhempi_id": "VII-9",
+      "syntymapaikka": "Ruovesi"
+    },
+    {
+      "id": "VIII-27",
+      "sukupolvi": "VIII",
+      "nimi": "Timo Forsbacka",
+      "lahde": "lohko_r08_c3.jpg",
+      "syntyma": "1964-12-29",
+      "vanhempi_id": "VII-10"
+    },
+    {
+      "id": "VIII-28",
+      "sukupolvi": "VIII",
+      "nimi": "Gunnar Ensio Poutanen",
+      "syntyma": "1929-06-27",
+      "vihitty": "1950-06-11",
+      "puoliso": "I av. Elina s. Peukku, s. 1928-08-05 Hiitola; II av. 26.03.1977 Maija Kyllikki s. Huupponen, s. 1953-08-09 Rantasalmi",
+      "huomiot": "Eronneet 20.03.1972",
+      "vanhempi_id": "VII-11",
+      "lahde": "lohko_r07_c3(2).jpg",
+      "lapset_ids": [
+        "IX-12",
+        "IX-13"
+      ]
+    },
+    {
+      "id": "VIII-29",
+      "sukupolvi": "VIII",
+      "nimi": "Paavo Johannes Poutanen",
+      "syntyma": "1937-10-20",
+      "vihitty": "1958-11-02",
+      "puoliso": "Anja Liisa s. Kosonen, s. 1937-11-03",
+      "vanhempi_id": "VII-11",
+      "lahde": "lohko_r07_c3(2).jpg",
+      "lapset_ids": [
+        "IX-14"
+      ]
+    },
+    {
+      "id": "VIII-30",
+      "sukupolvi": "VIII",
+      "nimi": "Maire Ester Poutanen",
+      "syntyma": "1939-03-17",
+      "kuolema": "1940-06-22",
+      "vanhempi_id": "VII-11",
+      "lahde": "lohko_r07_c3(2).jpg"
+    },
+    {
+      "id": "VIII-31",
+      "sukupolvi": "VIII",
+      "nimi": "Marja-Liisa Poutanen",
+      "syntyma": "1945-09-30",
+      "vihitty": "1964-03-29",
+      "puoliso": "Tuomo Ilmari Melaskoski, s. 1943-02-12",
+      "huomiot": "Avioero 12.10.1972",
+      "vanhempi_id": "VII-11",
+      "lahde": "lohko_r07_c3(2).jpg",
+      "lapset_ids": [
+        "IX-15",
+        "IX-16"
+      ]
+    },
+    {
+      "id": "VIII-32",
+      "sukupolvi": "VIII",
+      "nimi": "Eila Anneli Harmanen",
+      "syntyma": "1944-02-08",
+      "vihitty": "1965-06-06",
+      "puoliso": "Esko Juhani Heikkilä, s. 1942-11-23 Simpele",
+      "vanhempi_id": "VII-17",
+      "lahde": "lohko_r07_c3(2).jpg",
+      "lapset_ids": [
+        "IX-17",
+        "IX-18",
+        "IX-19"
+      ]
+    },
+    {
+      "id": "VIII-33",
+      "sukupolvi": "VIII",
+      "nimi": "Eeva Kaarina Harmanen",
+      "syntyma": "1945-12-25",
+      "vihitty": "1971-07-04",
+      "puoliso": "Timo Sakari Fischer, s. 1945-09-02 H:ki",
+      "paikat": "Muutti H:ki Roihuvuoren srk 07.07.1971",
+      "vanhempi_id": "VII-17",
+      "lahde": "lohko_r07_c3(2).jpg",
+      "lapset_ids": [
+        "IX-20"
+      ]
+    },
+    {
+      "id": "VIII-34",
+      "sukupolvi": "VIII",
+      "nimi": "Elvi Maria Harmanen",
+      "syntyma": "1947-07-18",
+      "vihitty": "1964-10-11",
+      "puoliso": "Laakko Tapani Heikkilä, s. 1944-07-30",
+      "paikat": "Muutti Imatralle 06.09.1965",
+      "vanhempi_id": "VII-17",
+      "lahde": "lohko_r07_c3(2).jpg",
+      "lapset_ids": [
+        "IX-21",
+        "IX-22",
+        "IX-23"
+      ]
+    },
+    {
+      "id": "VIII-35",
+      "sukupolvi": "VIII",
+      "nimi": "Lahja Inkeri Anttonen",
+      "syntyma": "1942-08-28",
+      "syntymapaikka": "H:ki",
+      "vihitty": "1968-08-25",
+      "puoliso": "Juhani Sakari Reingoldt, s. 1939-10-03 Kotka",
+      "vanhempi_id": "VII-18",
+      "lahde": "lohko_r07_c3(2).jpg",
+      "lapset_ids": [
+        "IX-24",
+        "IX-25"
+      ]
+    },
+    {
+      "id": "VIII-42",
+      "sukupolvi": "VIII",
+      "nimi": "Jina Tiina",
+      "syntyma": "1958-10-11",
+      "syntymapaikka": "Joutseno",
+      "vanhempi_id": "VII-35",
+      "lahde": "lohko_r04_c3.jpg"
+    },
+    {
+      "id": "VIII-43",
+      "sukupolvi": "VIII",
+      "nimi": "Irina Satu-Sisko",
+      "syntyma": "1968-03-24",
+      "syntymapaikka": "Joutseno",
+      "vanhempi_id": "VII-35",
+      "lahde": "lohko_r04_c3.jpg"
+    },
+    {
+      "id": "VIII-44",
+      "sukupolvi": "VIII",
+      "nimi": "Eija Anneli",
+      "syntyma": "1953-07-17",
+      "syntymapaikka": "Ruokolahti",
+      "vihitty": "1972-10-08",
+      "puoliso": "I av. Veikko Juhani Lankinen, s. 1950-06-24 Imatra; avioero 21.01.1976. II av. 14.05.1976 Reijo Kalevi Flyktman, s. 1951-06-09 Laukaa.",
+      "paikat": "Muutti Imatralle 21.11.1972; muuttivat Imatralle 19.09.1978",
+      "huomiot": "Avioerossa vaimolle tyttönimi",
+      "vanhempi_id": "VII-38",
+      "lahde": "lohko_r04_c3.jpg",
+      "lapset_ids": [
+        "IX-33",
+        "IX-34"
+      ]
+    },
+    {
+      "id": "VIII-45",
+      "sukupolvi": "VIII",
+      "nimi": "Veli Matti",
+      "syntyma": "1960-05-25",
+      "syntymapaikka": "Ruokolahti",
+      "paikat": "Muutti 17.09.1973 naimattomana Imatralle",
+      "vanhempi_id": "VII-38",
+      "lahde": "lohko_r04_c3.jpg"
+    },
+    {
+      "id": "VIII-46",
+      "sukupolvi": "VIII",
+      "nimi": "Teija Maritta",
+      "syntyma": "1964-01-06",
+      "syntymapaikka": "Ruokolahti",
+      "paikat": "Muutti 17.09.1973 naimattomana Imatralle",
+      "vanhempi_id": "VII-38",
+      "lahde": "lohko_r04_c3.jpg"
+    },
+    {
+      "id": "VIII-47",
+      "sukupolvi": "VIII",
+      "nimi": "Sari Tuulia Ruottinen",
+      "syntyma": "1964-12-21",
+      "syntymapaikka": "Ruokolahti",
+      "vanhempi_id": "VII-40",
+      "lahde": "lohko_r04_c3.jpg"
+    },
+    {
+      "id": "VIII-48",
+      "sukupolvi": "VIII",
+      "nimi": "Pasi Veli Kalevi Ruottinen",
+      "syntyma": "1970-08-31",
+      "syntymapaikka": "Ruokolahti",
+      "vanhempi_id": "VII-40",
+      "lahde": "lohko_r04_c3.jpg"
+    },
+    {
+      "id": "VIII-49",
+      "sukupolvi": "VIII",
+      "nimi": "Ilkka Martti Juhani",
+      "syntyma": "1962-02-11",
+      "syntymapaikka": "Ruokolahti",
+      "vanhempi_id": "VII-41",
+      "lahde": "lohko_r04_c3.jpg"
+    },
+    {
+      "id": "VIII-50",
+      "sukupolvi": "VIII",
+      "nimi": "Jukka Kaleva",
+      "syntyma": "1964-04-15",
+      "syntymapaikka": "Ruokolahti",
+      "vanhempi_id": "VII-41",
+      "lahde": "lohko_r04_c3.jpg"
+    },
+    {
+      "id": "VIII-51",
+      "sukupolvi": "VIII",
+      "nimi": "Pekka Ilari",
+      "syntyma": "1964-04-15",
+      "syntymapaikka": "Ruokolahti",
+      "vanhempi_id": "VII-41",
+      "lahde": "lohko_r04_c3.jpg"
+    },
+    {
+      "id": "VIII-52",
+      "sukupolvi": "VIII",
+      "nimi": "Anni Kaisa Helena Miettinen",
+      "syntyma": "1959-01-07",
+      "syntymapaikka": "Ruokolahti",
+      "vanhempi_id": "VII-42",
+      "lahde": "lohko_r04_c3.jpg"
+    },
+    {
+      "id": "VIII-53",
+      "sukupolvi": "VIII",
+      "nimi": "Visa Veli Sakari Miettinen",
+      "syntyma": "1961-01-22",
+      "syntymapaikka": "Ruokolahti",
+      "vanhempi_id": "VII-42",
+      "lahde": "lohko_r04_c3.jpg"
+    },
+    {
+      "id": "VIII-54",
+      "sukupolvi": "VIII",
+      "nimi": "Petri Veikko Tapani Miettinen",
+      "syntyma": "1963-09-01",
+      "syntymapaikka": "Ruokolahti",
+      "huomiot": "Laatikko jatkuu lohkossa r04_c3 – tarkista ja täydennä vanhempi",
+      "lahde": "lohko_r04_c3.jpg",
+      "vanhempi_id": "VII-42"
+    },
+    {
+      "id": "VIII-55",
+      "sukupolvi": "VIII",
+      "nimi": "Tommi Markus Akkanen",
+      "syntyma": "1966-10-17",
+      "syntymapaikka": "L:ranta",
+      "vanhempi_id": "VII-43",
+      "lahde": "lohko_r03_c3.jpg"
+    },
+    {
+      "id": "VIII-56",
+      "sukupolvi": "VIII",
+      "nimi": "Susanna Annukka Akkanen",
+      "syntyma": "1972-03-11",
+      "syntymapaikka": "L:ranta",
+      "vanhempi_id": "VII-43",
+      "lahde": "lohko_r03_c3.jpg"
+    },
+    {
+      "id": "VIII-57",
+      "sukupolvi": "VIII",
+      "nimi": "Kirsi Marja Anneli",
+      "syntyma": "1947-10-01",
+      "syntymapaikka": "Simpele",
+      "vihitty": "1968-09-21",
+      "puoliso": "Hannu Antero Lehtiö, s. 1945-08-22 Hämeenlinna",
+      "vanhempi_id": "VII-48",
+      "lahde": "lohko_r03_c3.jpg",
+      "lapset_ids": [
+        "IX-35"
+      ]
+    },
+    {
+      "id": "VIII-58",
+      "sukupolvi": "VIII",
+      "nimi": "Eija Sisko Marketta",
+      "syntyma": "1949-06-13",
+      "syntymapaikka": "Simpele",
+      "vihitty": "1975-07-17",
+      "puoliso": "Lars Buch Olsen, s. 1950-07-06 Kööpenhamina, Tanska",
+      "vanhempi_id": "VII-48",
+      "lahde": "lohko_r03_c3.jpg"
+    },
+    {
+      "id": "VIII-59",
+      "sukupolvi": "VIII",
+      "nimi": "Tarja Maria",
+      "syntyma": "1959-06-29",
+      "syntymapaikka": "Hämeenlinna",
+      "vanhempi_id": "VII-48",
+      "lahde": "lohko_r03_c3.jpg"
+    },
+    {
+      "id": "VIII-60",
+      "sukupolvi": "VIII",
+      "nimi": "Reima Juhani Sairanen",
+      "syntyma": "1955-06-06",
+      "vanhempi_id": "VII-49",
+      "lahde": "lohko_r03_c3.jpg"
+    },
+    {
+      "id": "VIII-61",
+      "sukupolvi": "VIII",
+      "nimi": "Risto Sakari Sairanen",
+      "syntyma": "1956-08-18",
+      "syntymapaikka": "H:ki",
+      "vanhempi_id": "VII-49",
+      "lahde": "lohko_r03_c3.jpg"
+    },
+    {
+      "id": "VIII-62",
+      "sukupolvi": "VIII",
+      "nimi": "Arto Kalevi Sairanen",
+      "syntyma": "1958-06-17",
+      "syntymapaikka": "H:ki",
+      "vanhempi_id": "VII-49",
+      "lahde": "lohko_r03_c3.jpg"
+    },
+    {
+      "id": "VIII-63",
+      "sukupolvi": "VIII",
+      "nimi": "Sointu Helena Susanne Sairanen",
+      "syntyma": "1962-10-25",
+      "syntymapaikka": "Espoo",
+      "vanhempi_id": "VII-49",
+      "lahde": "lohko_r03_c3.jpg"
+    },
+    {
+      "id": "VIII-64",
+      "sukupolvi": "VIII",
+      "nimi": "Ari Juhani Kuvaja",
+      "syntyma": "1959-01-31",
+      "syntymapaikka": "Savonlinna",
+      "vanhempi_id": "VII-50",
+      "huomiot": "Muutti naimatt. Kotkaan 30.05.1984",
+      "lahde": "lohko_r03_c3.jpg"
+    },
+    {
+      "id": "VIII-65",
+      "sukupolvi": "VIII",
+      "nimi": "Merja Anneli Tuovinen",
+      "syntyma": "1969-12-02",
+      "syntymapaikka": "Pieksämäki",
+      "vanhempi_id": "VII-52",
+      "lahde": "lohko_r03_c3.jpg"
+    },
+    {
+      "id": "VIII-65b",
+      "sukupolvi": "VIII",
+      "nimi": "Jarmo Antero Tuovinen",
+      "syntyma": "1976-01-05",
+      "syntymapaikka": "Kerava",
+      "vanhempi_id": "VII-52",
+      "huomiot": "Laatikon numero epäselvä (kartassa 65 kahdesti?) – tarkista",
+      "lahde": "lohko_r02_c3.jpg"
+    },
+    {
+      "id": "VIII-66",
+      "sukupolvi": "VIII",
+      "nimi": "Jouko Olavi Varis",
+      "syntyma": "1957-12-17",
+      "syntymapaikka": "Rovaniemi",
+      "vanhempi_id": "VII-54",
+      "lahde": "lohko_r02_c3.jpg"
+    },
+    {
+      "id": "VIII-67",
+      "sukupolvi": "VIII",
+      "nimi": "Seija Katriina Varis",
+      "syntyma": "1961-05-07",
+      "syntymapaikka": "Rovaniemi",
+      "vanhempi_id": "VII-54",
+      "lahde": "lohko_r02_c3.jpg"
+    },
+    {
+      "id": "VIII-68",
+      "sukupolvi": "VIII",
+      "nimi": "Heimo Juhani Varis",
+      "syntyma": "1962-08-24",
+      "syntymapaikka": "Rovaniemi",
+      "vanhempi_id": "VII-54",
+      "lahde": "lohko_r02_c3.jpg"
+    },
+    {
+      "id": "VIII-69",
+      "sukupolvi": "VIII",
+      "nimi": "Raisa Aulikki Vellonen",
+      "syntyma": "1959-08-05",
+      "syntymapaikka": "Simpele",
+      "vanhempi_id": "VII-55",
+      "lahde": "lohko_r02_c3.jpg"
+    },
+    {
+      "id": "VIII-70",
+      "sukupolvi": "VIII",
+      "nimi": "Olli Pekka Vellonen",
+      "syntyma": "1961-08-07",
+      "syntymapaikka": "Simpele",
+      "vanhempi_id": "VII-55",
+      "lahde": "lohko_r02_c3.jpg"
+    },
+    {
+      "id": "VIII-71",
+      "sukupolvi": "VIII",
+      "nimi": "Ranja Hannele Vellonen",
+      "syntyma": "1968-10-12",
+      "syntymapaikka": "Simpele",
+      "vanhempi_id": "VII-55",
+      "lahde": "lohko_r02_c3.jpg"
+    },
+    {
+      "id": "VIII-72",
+      "sukupolvi": "VIII",
+      "nimi": "Riina Johanna Vellonen",
+      "syntyma": "1971-12-24",
+      "syntymapaikka": "Simpele",
+      "vanhempi_id": "VII-55",
+      "lahde": "lohko_r02_c3.jpg"
+    },
+    {
+      "id": "VIII-73",
+      "sukupolvi": "VIII",
+      "nimi": "Jussi Tapani Kokko",
+      "syntyma": "1962-10-07",
+      "syntymapaikka": "Sippola",
+      "vanhempi_id": "VII-56",
+      "huomiot": "Siirtyi srk-jaossa Inkeroisiin",
+      "lahde": "lohko_r02_c3.jpg"
+    },
+    {
+      "id": "VIII-74",
+      "sukupolvi": "VIII",
+      "nimi": "Jukka Petteri Hassinen",
+      "syntyma": "1966-11-06",
+      "syntymapaikka": "Säyneinen",
+      "vanhempi_id": "VII-57",
+      "lahde": "lohko_r02_c3.jpg"
+    },
+    {
+      "id": "VIII-75",
+      "sukupolvi": "VIII",
+      "nimi": "Liisu Johanna Hassinen",
+      "syntyma": "1968-07-15",
+      "syntymapaikka": "Rääkkylä",
+      "vanhempi_id": "VII-57",
+      "huomiot": "Etunimi mahd. Liisa – tarkista",
+      "lahde": "lohko_r02_c3.jpg"
+    },
+    {
+      "id": "VIII-76",
+      "sukupolvi": "VIII",
+      "nimi": "Anna Maria Hassinen",
+      "syntyma": "1978-05-25",
+      "syntymapaikka": "Rääkkylä",
+      "vanhempi_id": "VII-57",
+      "lahde": "lohko_r02_c3.jpg"
+    },
+    {
+      "id": "VIII-77",
+      "sukupolvi": "VIII",
+      "nimi": "Pia Susanna Elovaara",
+      "syntyma": "1962-10-07",
+      "syntymapaikka": "H:ki",
+      "vanhempi_id": "VII-58",
+      "lahde": "lohko_r01_c3.jpg"
+    },
+    {
+      "id": "VIII-78",
+      "sukupolvi": "VIII",
+      "nimi": "Mari Annukka Elovaara",
+      "syntyma": "1965-02-21",
+      "syntymapaikka": "Pielavesi",
+      "vanhempi_id": "VII-58",
+      "lahde": "lohko_r01_c3.jpg"
+    },
+    {
+      "id": "VIII-79",
+      "sukupolvi": "VIII",
+      "nimi": "Mikko Kustaa Elovaara",
+      "syntyma": "1969-04-02",
+      "syntymapaikka": "Kalajoki",
+      "vanhempi_id": "VII-58",
+      "lahde": "lohko_r01_c3.jpg"
+    },
+    {
+      "id": "VIII-80",
+      "sukupolvi": "VIII",
+      "nimi": "Marko Matti Ensio Järvinen",
+      "syntyma": "1970-09-25",
+      "syntymapaikka": "Göteborg",
+      "vanhempi_id": "VII-59",
+      "huomiot": "Muutti Kurikkaan 02.07.1975",
+      "lahde": "lohko_r01_c3.jpg"
+    },
+    {
+      "id": "VIII-81",
+      "sukupolvi": "VIII",
+      "nimi": "Thomas Tomi Mikael Järvinen",
+      "syntyma": "1972-08-29",
+      "syntymapaikka": "Göteborg",
+      "vanhempi_id": "VII-59",
+      "huomiot": "Muutti 02.07.1975 Kurikkaan",
+      "lahde": "lohko_r01_c3.jpg"
+    },
+    {
+      "id": "VIII-82",
+      "sukupolvi": "VIII",
+      "nimi": "Teemu Juhani Vellonen",
+      "syntyma": "1979-06-16",
+      "syntymapaikka": "S:linna",
+      "vanhempi_id": "VII-60",
+      "lahde": "lohko_r01_c3.jpg"
+    },
+    {
+      "id": "VIII-83",
+      "sukupolvi": "VIII",
+      "nimi": "Riikka Liisa Helena Vellonen",
+      "syntyma": "1981-08-21",
+      "syntymapaikka": "S:linna",
+      "vanhempi_id": "VII-60",
+      "lahde": "lohko_r01_c3.jpg"
+    },
+    {
+      "id": "IX-1",
+      "sukupolvi": "IX",
+      "nimi": "Sami Petteri Hirvonen",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1987-06-16",
+      "vanhempi_id": "VIII-19",
+      "syntymapaikka": "Ruotsi",
+      "lapset_ids": [
+        "X-1",
+        "X-2"
+      ]
+    },
+    {
+      "id": "IX-2",
+      "sukupolvi": "IX",
+      "nimi": "Juha Petteri From",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1976-04-08",
+      "vanhempi_id": "VIII-20",
+      "syntymapaikka": "Raisio"
+    },
+    {
+      "id": "IX-3",
+      "sukupolvi": "IX",
+      "nimi": "Jussi Matias From",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1977-08-17",
+      "vanhempi_id": "VIII-20",
+      "syntymapaikka": "Raisio"
+    },
+    {
+      "id": "IX-4",
+      "sukupolvi": "IX",
+      "nimi": "Timo Väinö Tapio Raikko",
+      "lahde": "lohko_r10_c3.jpg",
+      "syntyma": "1955-03-29",
+      "vanhempi_id": "VIII-9",
+      "syntymapaikka": "Karinainen",
+      "vihitty": "1976-07-17",
+      "puoliso": "Paula Kaarina s. Uotila, s. 1956-02-09 Loimaa",
+      "lapset_ids": [
+        "X-3",
+        "X-4",
+        "X-5",
+        "X-6"
+      ]
+    },
+    {
+      "id": "IX-5",
+      "sukupolvi": "IX",
+      "nimi": "Merja Terttu Anneli Raikko",
+      "lahde": "lohko_r10_c3.jpg",
+      "syntyma": "1959-10-21",
+      "vanhempi_id": "VIII-9",
+      "syntymapaikka": "Karinainen",
+      "paikat": "Muutti 02.10.1984 Paimioon"
+    },
+    {
+      "id": "IX-6",
+      "sukupolvi": "IX",
+      "nimi": "Pekka Matias Pietarinen",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1983-02-04",
+      "vanhempi_id": "VIII-10",
+      "syntymapaikka": "H:ki"
+    },
+    {
+      "id": "IX-7",
+      "sukupolvi": "IX",
+      "nimi": "Olli Juhani Pietarinen",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1985-10-11",
+      "vanhempi_id": "VIII-10",
+      "syntymapaikka": "H:ki"
+    },
+    {
+      "id": "IX-8",
+      "sukupolvi": "IX",
+      "nimi": "Vesa Pekka Antero Pietarinen",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1972-02-08",
+      "vanhempi_id": "VIII-11",
+      "syntymapaikka": "Savonlinna"
+    },
+    {
+      "id": "IX-9",
+      "sukupolvi": "IX",
+      "nimi": "Leena Johanna Pietarinen",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1975-05-06",
+      "vanhempi_id": "VIII-11",
+      "syntymapaikka": "Savonlinna"
+    },
+    {
+      "id": "IX-10",
+      "sukupolvi": "IX",
+      "nimi": "Mikko Olavi",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1980-03-03",
+      "vanhempi_id": "VIII-16",
+      "syntymapaikka": "S:linna"
+    },
+    {
+      "id": "IX-11",
+      "sukupolvi": "IX",
+      "nimi": "Tony Eerik",
+      "lahde": "lohko_r09_c3.jpg",
+      "syntyma": "1987-09-06",
+      "vanhempi_id": "VIII-16",
+      "syntymapaikka": "S:linna"
+    },
+    {
+      "id": "IX-12",
+      "sukupolvi": "IX",
+      "nimi": "Raija Tuula Anneli Poutanen",
+      "syntyma": "1951-06-23",
+      "syntymapaikka": "Rantasalmi",
+      "vihitty": "1979-07-14",
+      "puoliso": "Risto Tapani Pennanen, s. 1935-03-26 Kerimäki",
+      "vanhempi_id": "VIII-28",
+      "lahde": "lohko_r07_c3(2).jpg",
+      "lapset_ids": [
+        "X-7",
+        "X-8"
+      ]
+    },
+    {
+      "id": "IX-13",
+      "sukupolvi": "IX",
+      "nimi": "Markku Antero Poutanen",
+      "syntyma": "1954-03-04",
+      "syntymapaikka": "Rantasalmi",
+      "vihitty": "1977-05-21",
+      "puoliso": "Eija-Riitta Marjukka Mikkonen, s. 1954-11-24 Rantasalmi",
+      "vanhempi_id": "VIII-28",
+      "lahde": "lohko_r07_c3(2).jpg",
+      "lapset_ids": [
+        "X-9",
+        "X-10"
+      ]
+    },
+    {
+      "id": "IX-14",
+      "sukupolvi": "IX",
+      "nimi": "Armi Eija Kaarina Poutanen",
+      "syntyma": "1960-10-03",
+      "syntymapaikka": "Juva",
+      "vihitty": "1981-10-30",
+      "puoliso": "Martti Kalevi Oksa, s. 1957-04-24",
+      "vanhempi_id": "VIII-29",
+      "lahde": "lohko_r07_c3(2).jpg",
+      "lapset_ids": [
+        "X-11",
+        "X-12"
+      ]
+    },
+    {
+      "id": "IX-15",
+      "sukupolvi": "IX",
+      "nimi": "Jouko Ari Tapio Melaskoski",
+      "syntyma": "1965-01-28",
+      "syntymapaikka": "H:ki",
+      "vanhempi_id": "VIII-31",
+      "lahde": "lohko_r07_c3(2).jpg"
+    },
+    {
+      "id": "IX-16",
+      "sukupolvi": "IX",
+      "nimi": "Jouni Kari Juhani Melaskoski",
+      "syntyma": "1966-01-24",
+      "syntymapaikka": "H:ki",
+      "vanhempi_id": "VIII-31",
+      "lahde": "lohko_r07_c3(2).jpg"
+    },
+    {
+      "id": "IX-17",
+      "sukupolvi": "IX",
+      "nimi": "Tarja Tuulikki Heikkilä",
+      "syntyma": "1967-06-18",
+      "vanhempi_id": "VIII-32",
+      "lahde": "lohko_r07_c3(2).jpg"
+    },
+    {
+      "id": "IX-18",
+      "sukupolvi": "IX",
+      "nimi": "Anne Maarit Heikkilä",
+      "syntyma": "1970-06-04",
+      "vanhempi_id": "VIII-32",
+      "lahde": "lohko_r07_c3(2).jpg"
+    },
+    {
+      "id": "IX-19",
+      "sukupolvi": "IX",
+      "nimi": "Juha Pekka Heikkilä",
+      "syntyma": "1975-06-08",
+      "vanhempi_id": "VIII-32",
+      "lahde": "lohko_r07_c3(2).jpg"
+    },
+    {
+      "id": "IX-20",
+      "sukupolvi": "IX",
+      "nimi": "Siru Johanna Fischer",
+      "syntyma": "1973-01-14",
+      "syntymapaikka": "H:ki",
+      "vanhempi_id": "VIII-33",
+      "lahde": "lohko_r07_c3(2).jpg"
+    },
+    {
+      "id": "IX-21",
+      "sukupolvi": "IX",
+      "nimi": "Jaana Marita Heikkilä",
+      "syntyma": "1964-11-08",
+      "vanhempi_id": "VIII-34",
+      "lahde": "lohko_r07_c3(2).jpg"
+    },
+    {
+      "id": "IX-22",
+      "sukupolvi": "IX",
+      "nimi": "Tiina Helena Heikkilä",
+      "syntyma": "1965-10-29",
+      "syntymapaikka": "Imatra",
+      "vanhempi_id": "VIII-34",
+      "lahde": "lohko_r07_c3(2).jpg"
+    },
+    {
+      "id": "IX-23",
+      "sukupolvi": "IX",
+      "nimi": "Minna Kristiina Heikkilä",
+      "syntyma": "1969-02-28",
+      "syntymapaikka": "Imatra",
+      "vanhempi_id": "VIII-34",
+      "lahde": "lohko_r07_c3(2).jpg"
+    },
+    {
+      "id": "IX-24",
+      "sukupolvi": "IX",
+      "nimi": "Tero Juhani Reingoldt",
+      "syntyma": "1969-03-10",
+      "syntymapaikka": "H:ki",
+      "vanhempi_id": "VIII-35",
+      "lahde": "lohko_r07_c3(2).jpg"
+    },
+    {
+      "id": "IX-25",
+      "sukupolvi": "IX",
+      "nimi": "Teemu Petteri Reingoldt",
+      "syntyma": "1974-06-25",
+      "syntymapaikka": "Kotka",
+      "vanhempi_id": "VIII-35",
+      "lahde": "lohko_r07_c3(2).jpg"
+    },
+    {
+      "id": "IX-33",
+      "sukupolvi": "IX",
+      "nimi": "Toni Kalevi Flyktman",
+      "syntyma": "1976-03-15",
+      "syntymapaikka": "Ruokolahti",
+      "vanhempi_id": "VIII-44",
+      "lahde": "lohko_r04_c3.jpg"
+    },
+    {
+      "id": "IX-34",
+      "sukupolvi": "IX",
+      "nimi": "Janne Kristian Flyktman",
+      "syntyma": "1984-01-09",
+      "syntymapaikka": "Imatra",
+      "vanhempi_id": "VIII-44",
+      "lahde": "lohko_r04_c3.jpg"
+    },
+    {
+      "id": "IX-35",
+      "sukupolvi": "IX",
+      "nimi": "Kati Annukka Lehtiö",
+      "syntyma": "1972-10-25",
+      "syntymapaikka": "Hämeenlinna",
+      "vanhempi_id": "VIII-57",
+      "lahde": "lohko_r03_c3.jpg"
+    },
+    {
+      "id": "X-1",
+      "sukupolvi": "X",
+      "nimi": "Reijo Tapani Kangas",
+      "lahde": "lohko_r10_c4(2).jpg",
+      "syntyma": "1966-12-01",
+      "vanhempi_id": "IX-1",
+      "syntymapaikka": "Turku",
+      "paikat": "Muutti 17.07.1985 Liedon srk:taan"
+    },
+    {
+      "id": "X-2",
+      "sukupolvi": "X",
+      "nimi": "Jari Tapio Kangas",
+      "lahde": "lohko_r10_c4(2).jpg",
+      "syntyma": "1969-03-06",
+      "vanhempi_id": "IX-1",
+      "syntymapaikka": "Turku",
+      "paikat": "Muutti Liedon srk:taan 17.07.1985"
+    },
+    {
+      "id": "X-3",
+      "sukupolvi": "X",
+      "nimi": "Eija Kaarina Raikko",
+      "lahde": "lohko_r10_c4(2).jpg",
+      "syntyma": "1976-11-01",
+      "vanhempi_id": "IX-4",
+      "syntymapaikka": "Karinainen"
+    },
+    {
+      "id": "X-4",
+      "sukupolvi": "X",
+      "nimi": "Anne Maria Raikko",
+      "lahde": "lohko_r10_c4(2).jpg",
+      "syntyma": "1981-06-02",
+      "vanhempi_id": "IX-4",
+      "syntymapaikka": "Karinainen"
+    },
+    {
+      "id": "X-5",
+      "sukupolvi": "X",
+      "nimi": "Jussi Jaakko Juhani Raikko",
+      "lahde": "lohko_r10_c4(2).jpg",
+      "syntyma": "1984-02-08",
+      "vanhempi_id": "IX-4",
+      "syntymapaikka": "Karinainen"
+    },
+    {
+      "id": "X-6",
+      "sukupolvi": "X",
+      "nimi": "Janne Väinö Tapio Raikko",
+      "lahde": "lohko_r10_c4(2).jpg",
+      "syntyma": "1984-02-08",
+      "vanhempi_id": "IX-4",
+      "syntymapaikka": "Karinainen"
+    },
+    {
+      "id": "X-7",
+      "sukupolvi": "X",
+      "nimi": "Henri Joona Samuli Pennanen",
+      "syntyma": "1980-02-14",
+      "syntymapaikka": "Savonlinna",
+      "vanhempi_id": "IX-12",
+      "lahde": "lohko_r07_c4(2).jpg"
+    },
+    {
+      "id": "X-8",
+      "sukupolvi": "X",
+      "nimi": "Joonas Heikki Sakari Pennanen",
+      "syntyma": "1983-04-05",
+      "syntymapaikka": "Kerimäki",
+      "vanhempi_id": "IX-12",
+      "lahde": "lohko_r07_c4(2).jpg"
+    },
+    {
+      "id": "X-9",
+      "sukupolvi": "X",
+      "nimi": "Jouni Samuli Poutanen",
+      "syntyma": "1976-09-03",
+      "syntymapaikka": "Savonlinna",
+      "vanhempi_id": "IX-13",
+      "lahde": "lohko_r07_c4(2).jpg"
+    },
+    {
+      "id": "X-10",
+      "sukupolvi": "X",
+      "nimi": "Johanna Maria Poutanen",
+      "syntyma": "1981-02-26",
+      "syntymapaikka": "Sulkava",
+      "vanhempi_id": "IX-13",
+      "lahde": "lohko_r07_c4(2).jpg"
+    },
+    {
+      "id": "X-11",
+      "sukupolvi": "X",
+      "nimi": "Martti Olavi Oksa",
+      "syntyma": "1983-07-29",
+      "vanhempi_id": "IX-14",
+      "lahde": "lohko_r07_c4(2).jpg"
+    },
+    {
+      "id": "X-12",
+      "sukupolvi": "X",
+      "nimi": "Marja-Liisa Aulikki Oksa",
+      "syntyma": "1985-07-30",
+      "vanhempi_id": "IX-14",
+      "lahde": "lohko_r07_c4(2).jpg"
+    }
+  ]
+}
