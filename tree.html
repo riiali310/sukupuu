@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="fi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Riialin sukupuu | Puunäkymä</title>
+  <link rel="stylesheet" href="tree.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <h1>Riialin sukupuu</h1>
+      <p class="muted">Interaktiivinen puunäkymä tiedostosta <code>henkilot.json</code></p>
+    </div>
+    <nav class="navlinks">
+      <a href="index.html">Zoomattava kartta</a>
+      <a href="editor.html">Editoriin</a>
+      <a href="henkilot.json">JSON</a>
+    </nav>
+  </header>
+
+  <main class="layout">
+    <aside class="panel controls">
+      <label for="search">Haku</label>
+      <input id="search" type="search" placeholder="Nimi, ID, puoliso, paikka..." autocomplete="off" />
+
+      <label for="generationFilter">Sukupolvi</label>
+      <select id="generationFilter">
+        <option value="">Kaikki</option>
+      </select>
+
+      <label for="rootSelect">Aloituskohta</label>
+      <select id="rootSelect">
+        <option value="">Kaikki juuret</option>
+      </select>
+
+      <div class="buttonGrid">
+        <button id="expandAll" type="button">Avaa kaikki</button>
+        <button id="collapseAll" type="button">Sulje kaikki</button>
+        <button id="showIssues" type="button">Näytä tarkistettavat</button>
+        <button id="reset" type="button">Nollaa</button>
+      </div>
+
+      <section class="stats" id="stats"></section>
+      <section class="help">
+        <h2>Käyttö</h2>
+        <p>Klikkaa henkilön nimeä avataksesi tiedot. Nuoli avaa tai sulkee lapset.</p>
+        <p>Hakutulos avaa automaattisesti osumien polun puussa. Pidä tämä simppelinä, niin data pysyy komentajan otteessa.</p>
+      </section>
+    </aside>
+
+    <section class="panel treePanel">
+      <div id="loading" class="loading">Ladataan sukupuuta...</div>
+      <div id="tree" class="tree" aria-live="polite"></div>
+    </section>
+
+    <aside class="panel details" id="details">
+      <h2>Henkilön tiedot</h2>
+      <p class="muted">Valitse henkilö puusta.</p>
+    </aside>
+  </main>
+
+  <script src="tree.js"></script>
+</body>
+</html>
