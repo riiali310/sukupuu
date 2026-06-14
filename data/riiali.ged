@@ -1,0 +1,3630 @@
+0 HEAD
+1 SOUR RiialiJSON
+2 NAME Riiali JSON to GEDCOM exporter
+2 VERS 0.1.0
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 DATE 14 JUN 2026
+1 SUBM @SUBM1@
+0 @SUBM1@ SUBM
+1 NAME Riiali sukupuu JSON export
+0 @S1@ SOUR
+1 TITL Sukututkimus osasta Riialin sukua, joka on asunut Parikkalan kunnan Joukion kylässä talossa N:o 23; kartoittaja Heikki Pirinen 1985-1987
+1 NOTE {
+2 CONT   "lahde": "Sukututkimus osasta Riialin sukua, joka on asunut Parikkalan kunnan Joukion kylässä talossa N:o 23; kartoittaja Heikki Pirinen 1985-1987",
+2 CONT   "litteroitu": "2026-06-12, lohkot r01-r11 (r08-r11 lisätty viimeisessä päivityksessä)",
+2 CONT   "konventiot": "id = sukupolvi-laatikkonumero. Sukunimi mainittu kartassa vain muista kuin Riiali-suvun jäsenistä. Päivämäärät ISO-muodossa; pelkkä vuosi kun kartassa ei muuta. vanhempi_id = Riialin sukuhaaran vanhempi.",
+2 CONT   "kesken": [
+2 CONT     "VIII-65/65b numerointi tarkistettava",
+2 CONT     "r04_c3 alareuna jatkuu todennäköisesti seuraavassa lohkossa: VII-35:n mahdolliset lisälapset tarkistettava",
+2 CONT     "r05–r07: muutama käsialaltaan epäselvä kohta merkitty huomiot-kenttään",
+2 CONT     "r05–r07: oikeasta reunasta leikkautuvat jatkohaarat tarkistettava seuraavista lohkoista",
+2 CONT     "r08-r11: muutama käsialakohta jäi epävarmaksi ja on merkitty huomiot- tai paikat-kenttään; erityisesti Punkaharjun muuttopäivä ja Nikupaa/Nikupaavo-nimen tarkka kirjoitusasu kannattaa tarkistaa alkuperäisestä."
+2 CONT   ],
+2 CONT   "selitelma": "Sukunimi on mainittu vain niistä, jotka ovat muita kuin Riiali. Syntymäpaikka on mainittu vain, jos se on muu kuin Parikkala. Sukupolvet on numeroitu I-X ja sukupolven jäsenet 1:stä edelleen."
+2 CONT }
+0 @II_1@ INDI
+1 NAME Martti Riiali (Mårten Rijal)
+1 BIRT
+2 DATE 1715
+1 DEAT
+2 DATE 26 MAY 1790
+1 FAMS @FI_1@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: I-1
+2 CONT sukupolvi: I
+2 CONT puoliso: Elin s. Joronen, s. 1723, k. 1788-02-01
+2 CONT lahde: lohko_r08_c1.jpg
+2 CONT huomiot: Talollinen
+0 @III_1@ INDI
+1 NAME Simo Martinp. (Riiali)
+1 BIRT
+2 DATE 1754
+1 DEAT
+2 DATE 9 MAY 1803
+1 FAMC @FI_1@
+1 FAMS @FII_1@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: II-1
+2 CONT sukupolvi: II
+2 CONT puoliso: Anna s. Huotilainen, s. 1755, k. 1810-06-22
+2 CONT paikat: Asuivat Joukion kylän talossa N:o 18
+2 CONT lahde: lohko_r08_c1.jpg
+0 @III_2@ INDI
+1 NAME Tahvo (Stephan)
+1 BIRT
+2 DATE 1765
+1 FAMC @FI_1@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: II-2
+2 CONT sukupolvi: II
+2 CONT lahde: lohko_r03_c1.jpg
+0 @III_3@ INDI
+1 NAME Pauli (Paul)
+1 BIRT
+2 DATE 1768
+1 FAMC @FI_1@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: II-3
+2 CONT sukupolvi: II
+2 CONT lahde: lohko_r03_c1.jpg
+0 @IIII_1@ INDI
+1 NAME Elin
+1 BIRT
+2 DATE 12 MAR 1777
+1 FAMC @FII_1@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: III-1
+2 CONT sukupolvi: III
+2 CONT huomiot: Kuoli lapsena
+2 CONT lahde: lohko_r08_c1.jpg
+0 @IIII_2@ INDI
+1 NAME Simo Simonp.
+1 BIRT
+2 DATE 1780
+1 DEAT
+2 DATE 29 JUN 1850
+1 FAMC @FII_1@
+1 FAMS @FIII_2@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: III-2
+2 CONT sukupolvi: III
+2 CONT puoliso: Helena s. Nokelainen, s. 1785, k. 1856-09-27
+2 CONT lahde: lohko_r08_c1.jpg
+0 @IIII_3@ INDI
+1 NAME Anna Simontr.
+1 BIRT
+2 DATE 3 JAN 1783
+1 DEAT
+2 DATE 1 OCT 1851
+1 FAMC @FII_1@
+1 FAMS @FIII_3@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: III-3
+2 CONT sukupolvi: III
+2 CONT vihitty: 1818-02-15
+2 CONT puoliso: Tuomas Matinp. Terävä, s. 1785-04-21
+2 CONT huomiot: Kuoli Viipurissa
+2 CONT lahde: lohko_r08_c1.jpg
+0 @IIII_4@ INDI
+1 NAME Antti (Anders)
+1 BIRT
+2 DATE 29 JUN 1785
+1 FAMC @FII_1@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: III-4
+2 CONT sukupolvi: III
+2 CONT lahde: lohko_r08_c1.jpg
+0 @IIII_5@ INDI
+1 NAME Mikko Simonp.
+1 BIRT
+2 DATE 1787
+1 DEAT
+2 DATE 3 MAR 1827
+1 FAMC @FII_1@
+1 FAMS @FIII_5@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: III-5
+2 CONT sukupolvi: III
+2 CONT puoliso: Anna s. Litmanen, s. 1793, oli elossa 1855
+2 CONT lahde: lohko_r08_c1.jpg
+0 @IIII_6@ INDI
+1 NAME Elin
+1 BIRT
+2 DATE 24 NOV 1788
+1 FAMC @FII_1@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: III-6
+2 CONT sukupolvi: III
+2 CONT lahde: lohko_r08_c1.jpg
+0 @IIV_1@ INDI
+1 NAME Simo
+1 BIRT
+2 DATE 1809
+1 DEAT
+2 DATE 22 DEC 1826
+1 FAMC @FIII_2@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IV-1
+2 CONT sukupolvi: IV
+2 CONT lahde: lohko_r08_c2(2).jpg
+0 @IIV_2@ INDI
+1 NAME Elin
+1 BIRT
+2 DATE 29 APR 1813
+1 DEAT
+2 DATE 22 FEB 1815
+1 FAMC @FIII_2@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IV-2
+2 CONT sukupolvi: IV
+2 CONT lahde: lohko_r08_c2(2).jpg
+0 @IIV_3@ INDI
+1 NAME Helena
+1 BIRT
+2 DATE 9 DEC 1814
+1 DEAT
+2 DATE 22 FEB 1815
+1 FAMC @FIII_2@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IV-3
+2 CONT sukupolvi: IV
+2 CONT lahde: lohko_r08_c2(2).jpg
+0 @IIV_4@ INDI
+1 NAME Maria
+1 BIRT
+2 DATE 4 NOV 1816
+1 DEAT
+2 DATE 22 APR 1887
+1 FAMC @FIII_2@
+1 FAMS @FIV_4@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IV-4
+2 CONT sukupolvi: IV
+2 CONT huomiot: Jatkuu alempana; kuvassa myös muodossa Maria Simontr., syntymävuosi 1815 tai 1816
+2 CONT lahde: lohko_r08_c2(2).jpg
+0 @IIV_5@ INDI
+1 NAME Katarina
+1 BIRT
+2 DATE 6 SEP 1818
+1 DEAT
+2 DATE 1 DEC 1826
+1 FAMC @FIII_2@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IV-5
+2 CONT sukupolvi: IV
+2 CONT lahde: lohko_r08_c2(2).jpg
+0 @IIV_6@ INDI
+1 NAME Liisa (Elisabeth)
+1 BIRT
+2 DATE 6 MAY 1821
+1 FAMC @FIII_2@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IV-6
+2 CONT sukupolvi: IV
+2 CONT paikat: Muutti 1840 Kurkijoelle
+2 CONT lahde: lohko_r08_c2(2).jpg
+2 CONT huomiot: Muutti 1840 Kurkijoelle
+0 @IIV_7@ INDI
+1 NAME Anna
+1 BIRT
+2 DATE 2 MAY 1826
+1 DEAT
+2 DATE 4 MAR 1829
+1 FAMC @FIII_2@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IV-7
+2 CONT sukupolvi: IV
+2 CONT lahde: lohko_r08_c2(2).jpg
+0 @IIV_8@ INDI
+1 NAME Juhana Simonp.
+1 BIRT
+2 DATE 5 FEB 1829
+1 DEAT
+2 DATE 12 JAN 1878
+1 FAMC @FIII_2@
+1 FAMS @FIV_8@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IV-8
+2 CONT sukupolvi: IV
+2 CONT vihitty: 1855-06-14
+2 CONT puoliso: Maria Kristianintr. Harmanen, s. 1830-06-06, k. 1920-06-16
+2 CONT huomiot: Vih. 14.06.1855; puoliso Maria Kristianintr. Harmanen, s. 1830-06-06, k. 1920-06-16
+2 CONT lahde: lohko_r08_c2(2).jpg
+0 @IIV_9@ INDI
+1 NAME Matti
+1 BIRT
+2 DATE 23 SEP 1831
+1 DEAT
+2 DATE 6 APR 1887
+1 FAMC @FIII_2@
+1 FAMS @FIV_9@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IV-9
+2 CONT sukupolvi: IV
+2 CONT vihitty: 1857-10-11
+2 CONT puoliso: II av. Anna Maria s. Nokelainen, s. 1839-04-12, k. 1878-06-12; III av. Agneta (Auno?) s. Terävä, s. 1834-01-21, k. 1890-05-22
+2 CONT huomiot: Oli naimaton 1855; jatkuu ylempänä
+2 CONT lahde: lohko_r08_c2(2).jpg
+0 @IIV_10@ INDI
+1 NAME Pauli (Paul) Terävä
+1 BIRT
+2 DATE 11 DEC 1825
+1 DEAT
+2 DATE 27 JUL 1826
+1 FAMC @FIII_3@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IV-10
+2 CONT sukupolvi: IV
+2 CONT lahde: lohko_r08_c2(2).jpg
+0 @IIV_11@ INDI
+1 NAME Juho (Johan)
+1 BIRT
+2 DATE 13 JAN 1814
+1 DEAT
+2 DATE 15 FEB 1815
+1 FAMC @FIII_5@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IV-11
+2 CONT sukupolvi: IV
+2 CONT lahde: lohko_r03_c2.jpg
+0 @IIV_12@ INDI
+1 NAME Simo
+1 BIRT
+2 DATE 22 JUL 1816
+1 DEAT
+2 DATE 8 APR 1818
+1 FAMC @FIII_5@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IV-12
+2 CONT sukupolvi: IV
+2 CONT lahde: lohko_r03_c2.jpg
+0 @IIV_13@ INDI
+1 NAME Anna
+1 BIRT
+2 DATE 18 MAR 1819
+1 FAMC @FIII_5@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IV-13
+2 CONT sukupolvi: IV
+2 CONT lahde: lohko_r03_c2.jpg
+0 @IIV_14@ INDI
+1 NAME Mikko
+1 BIRT
+2 DATE 20 MAR 1821
+1 FAMC @FIII_5@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IV-14
+2 CONT sukupolvi: IV
+2 CONT huomiot: Mainitaan olleen Pietarissa
+2 CONT lahde: lohko_r03_c2.jpg
+0 @IIV_15@ INDI
+1 NAME Eeva
+1 BIRT
+2 DATE 14 MAY 1824
+1 DEAT
+2 DATE 4 DEC 1826
+1 FAMC @FIII_5@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IV-15
+2 CONT sukupolvi: IV
+2 CONT lahde: lohko_r03_c2.jpg
+0 @IIV_16@ INDI
+1 NAME Kaarina (Catharina)
+1 BIRT
+2 DATE 24 JUL 1826
+1 DEAT
+2 DATE 24 JUN 1829
+1 FAMC @FIII_5@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IV-16
+2 CONT sukupolvi: IV
+2 CONT lahde: lohko_r03_c2.jpg
+0 @IV_1@ INDI
+1 NAME Eeva Mariantr.
+1 BIRT
+2 DATE 6 APR 1845
+1 DEAT
+2 DATE 28 AUG 1873
+1 FAMC @FIV_4@
+1 FAMS @FV_1@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: V-1
+2 CONT sukupolvi: V
+2 CONT lahde: lohko_r10_c2.jpg
+2 CONT vihitty: 1867-06-02
+2 CONT puoliso: Henrik (Heikki) Antinp. Laukkanen, s. 1838-01-29
+2 CONT paikat: Mantilankumpu, Kangaskylä N:o 7; muuttivat 1885 Sääminkiin
+2 CONT huomiot: Miehen II avioliitto 07.06.1874 Anna Kaisa Rinkisen kanssa
+0 @IV_2@ INDI
+1 NAME Lena (Leena)
+1 BIRT
+2 DATE 19 APR 1856
+1 DEAT
+2 DATE 25 JAN 1858
+1 FAMC @FIV_8@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: V-2
+2 CONT sukupolvi: V
+2 CONT lahde: lohko_r09_c2(2).jpg
+0 @IV_3@ INDI
+1 NAME Juhana Juhananp.
+1 BIRT
+2 DATE 5 OCT 1863
+1 DEAT
+2 DATE 11 SEP 1923
+1 FAMC @FIV_8@
+1 FAMS @FV_3@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: V-3
+2 CONT sukupolvi: V
+2 CONT lahde: lohko_r09_c2(2).jpg
+2 CONT vihitty: 1887-06-26
+2 CONT puoliso: Karoliina Martintr. Heinonen, s. 1866-08-05, k. 1937-07-29
+0 @IV_4@ INDI
+1 NAME Simo Simonp.
+1 BIRT
+2 DATE 14 JUN 1866
+1 DEAT
+2 DATE 22 JUL 1941
+1 FAMS @FV_4@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: V-4
+2 CONT sukupolvi: V
+2 CONT lahde: lohko_r08_c2(2).jpg
+2 CONT vihitty: 1894-05-27
+2 CONT puoliso: Ida Matintr. Harmanen, s. 1873-12-12, k. 1940-07-28
+0 @IV_5@ INDI
+1 NAME Ida
+1 BIRT
+2 DATE 23 JUN 1870
+1 DEAT
+2 DATE 10 AUG 1954
+1 FAMS @FV_5@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: V-5
+2 CONT sukupolvi: V
+2 CONT lahde: lohko_r08_c2(2).jpg
+2 CONT vihitty: 1894-05-27
+2 CONT puoliso: Aleksanteri Martinp. Heinonen, s. 1870-10-22, k. 1931-04-25
+2 CONT huomiot: Kartassa maininta: lastenlapsia ei ole
+0 @IV_6@ INDI
+1 NAME Anna Lena (Leena)
+1 BIRT
+2 DATE 13 AUG 1858
+1 DEAT
+2 DATE 20 OCT 1927
+1 FAMC @FIV_8@
+1 FAMS @FV_6@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: V-6
+2 CONT sukupolvi: V
+2 CONT vihitty: 1878-12-01
+2 CONT puoliso: Joukio 9 lampuoti Johan (Juhana) Jakobinp. Rita, s. 1850 Rautjärvi, k. 1907-08-22
+2 CONT huomiot: Mies jäi junan alle; paikkamerkintä osin epäselvä
+2 CONT lahde: lohko_r06_c2(2).jpg
+0 @IV_7@ INDI
+1 NAME Henrik (Heikki) Matinp.
+1 BIRT
+2 DATE 11 JAN 1864
+1 DEAT
+2 DATE 5 SEP 1903
+1 FAMC @FIV_8@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: V-7
+2 CONT sukupolvi: V
+2 CONT vihitty: 1893
+2 CONT puoliso: Anna Briitta s. Valkeapää, s. 1860-11-05; vih. II av. 1904 Heikki Poutasen kanssa
+2 CONT paikat: Meni vaimon kotiin Savikumpu 7:ään 1894
+2 CONT huomiot: Kuoli sala-ampujan toimesta. Heikki Riialilla ei lapsia.
+2 CONT lahde: lohko_r06_c2(2).jpg
+0 @IV_8@ INDI
+1 NAME Matti Matinp.
+1 BIRT
+2 DATE 17 MAR 1866
+1 FAMC @FIV_8@
+1 FAMS @FV_8@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: V-8
+2 CONT sukupolvi: V
+2 CONT vihitty: 1888-11-03
+2 CONT puoliso: I av. Brita Ahokas, s. 1868-07-22 Kurkijoki, k. 1891-06-23; II av. 02.10.1892 Ester Ahokas, s. 1862-09-22 Kurkijoki, k. 1922-01-14; III av. 06.08.1922 Helena Nisonen, s. Astikainen, s. 1876-03-02
+2 CONT paikat: Muuttivat Kurkijoelle 06.10.1889; vaimo muutti Laukaaseen 31.12.1949
+2 CONT huomiot: Matti k. 03.10.1933. III aviosta ei lapsia.
+2 CONT lahde: lohko_r05_c2(2).jpg
+0 @IV_9@ INDI
+1 NAME Miina (Mina) Matintr.
+1 BIRT
+2 DATE 1 APR 1870
+1 DEAT
+2 DATE 21 JAN 1939
+1 FAMC @FIV_9@
+1 FAMS @FV_9@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: V-9
+2 CONT sukupolvi: V
+2 CONT huomiot: Kuoli naimattomana
+2 CONT lahde: lohko_r04_c2.jpg
+0 @IV_10@ INDI
+1 NAME Aleksandra
+1 BIRT
+2 DATE 24 SEP 1871
+1 DEAT
+2 DATE 27 MAY 1931
+1 FAMS @FV_10@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: V-10
+2 CONT sukupolvi: V
+2 CONT vihitty: 1896
+2 CONT puoliso: Paavo Vellonen, s. 1870-08-06, k. 1945-12-19
+2 CONT lahde: lohko_r02_c2.jpg
+0 @IV_11@ INDI
+1 NAME Mikko
+1 BIRT
+2 DATE 2 JUN 1874
+1 DEAT
+2 DATE 13 JAN 1948
+1 FAMS @FV_11@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: V-11
+2 CONT sukupolvi: V
+2 CONT vihitty: 1924-03-16
+2 CONT puoliso: Aino s. Poutanen, s. 1891-11-26, k. 1972-05-24, muutti Sääminkiin 23.09.1949
+2 CONT lahde: lohko_r01_c2.jpg
+0 @IV_12@ INDI
+1 NAME Katrina
+1 BIRT
+2 DATE 2 JUN 1874
+1 SOUR @S1@
+1 NOTE Alkuperainen id: V-12
+2 CONT sukupolvi: V
+2 CONT paikat: Muutti naimatt. 31.10.1892 Käkisalmeen, 17.05.1896 Jääskestä Lappeelle, 04.12.1898 Viipuriin
+2 CONT huomiot: Ei lapsia
+2 CONT lahde: lohko_r01_c2.jpg
+0 @IV_13@ INDI
+1 NAME Ida
+1 BIRT
+2 DATE 18 MAY 1878
+1 DEAT
+2 DATE 30 AUG 1878
+1 SOUR @S1@
+1 NOTE Alkuperainen id: V-13
+2 CONT sukupolvi: V
+2 CONT lahde: lohko_r01_c2.jpg
+0 @IV_14@ INDI
+1 NAME Henrika
+1 BIRT
+2 DATE 18 MAY 1878
+1 DEAT
+2 DATE 8 SEP 1878
+1 SOUR @S1@
+1 NOTE Alkuperainen id: V-14
+2 CONT sukupolvi: V
+2 CONT lahde: lohko_r01_c2.jpg
+0 @IVI_1@ INDI
+1 NAME Maria Lovisa Laukkanen
+1 BIRT
+2 DATE 30 JUN 1867
+1 DEAT
+2 DATE 28 FEB 1940
+1 FAMC @FV_1@
+1 FAMS @FVI_1@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-1
+2 CONT sukupolvi: VI
+2 CONT lahde: lohko_r10_c2.jpg
+2 CONT vihitty: 1892
+2 CONT puoliso: Antti Martinp. Peippo, s. 1856-12-07, k. 1943-08-16
+0 @IVI_2@ INDI
+1 NAME Anna Leena Laukkanen
+1 BIRT
+2 DATE 28 NOV 1870
+1 FAMC @FV_1@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-2
+2 CONT sukupolvi: VI
+2 CONT lahde: lohko_r10_c2.jpg
+2 CONT paikat: Muutti Sääminkiin 1885
+0 @IVI_3@ INDI
+1 NAME Vilhelmiina Laukkanen
+1 BIRT
+2 DATE 3 JUL 1873
+1 DEAT
+2 DATE 26 NOV 1873
+1 FAMC @FV_1@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-3
+2 CONT sukupolvi: VI
+2 CONT lahde: lohko_r09_c2(2).jpg
+0 @IVI_4@ INDI
+1 NAME Juhana
+1 BIRT
+2 DATE 6 MAR 1889
+1 DEAT
+2 DATE 7 JUL 1889
+1 FAMC @FV_3@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-4
+2 CONT sukupolvi: VI
+2 CONT lahde: lohko_r09_c2(2).jpg
+0 @IVI_5@ INDI
+1 NAME Aina (Aino)
+1 BIRT
+2 DATE 17 DEC 1891
+1 DEAT
+2 DATE 14 MAY 1973
+1 FAMC @FV_3@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-5
+2 CONT sukupolvi: VI
+2 CONT lahde: lohko_r09_c2(2).jpg
+2 CONT paikat: Muutti naimattomana Punkaharjulle 21.06.19??, takaisin P:laan 25.10.1967
+2 CONT huomiot: Kuoli naimattomana; ei lapsia
+0 @IVI_6@ INDI
+1 NAME Johannes
+1 BIRT
+2 DATE 5 FEB 1895
+1 DEAT
+2 DATE 13 SEP 1965
+1 FAMC @FV_3@
+1 FAMS @FVI_6@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-6
+2 CONT sukupolvi: VI
+2 CONT lahde: lohko_r09_c2(2).jpg
+2 CONT vihitty: 1922-06-11
+2 CONT puoliso: Hanna Lovisa Innanen, s. 1904-08-06, k. 1980-03-27
+0 @IVI_7@ INDI
+1 NAME Tyyni Hilma
+1 BIRT
+2 DATE 17 APR 1898
+1 FAMC @FV_4@
+1 FAMS @FVI_7@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-7
+2 CONT sukupolvi: VI
+2 CONT lahde: lohko_r08_c2(2).jpg
+2 CONT vihitty: 1922-06-11
+2 CONT puoliso: Ilmari Albert Forsbacka, s. 1898-02-21, k. 1970-06-23
+0 @IVI_8@ INDI
+1 NAME Tauno
+1 BIRT
+2 DATE 26 JAN 1901
+1 DEAT
+2 DATE 4 MAR 1966
+1 FAMC @FV_4@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-8
+2 CONT sukupolvi: VI
+2 CONT lahde: lohko_r08_c2(2).jpg
+2 CONT vihitty: 1932-07-03
+2 CONT puoliso: Impi Lyyli s. Sikiö, s. 1905-06-03
+2 CONT huomiot: Heillä ei lapsia
+0 @IVI_9@ INDI
+1 NAME Eero
+1 BIRT
+2 DATE 18 AUG 1904
+1 DEAT
+2 DATE 20 MAR 1980
+1 FAMC @FV_4@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-9
+2 CONT sukupolvi: VI
+2 CONT lahde: lohko_r08_c2(2).jpg
+2 CONT huomiot: Kuoli naimattomana; ei lapsia
+0 @IVI_10@ INDI
+1 NAME Johannes Heinonen
+1 BIRT
+2 DATE 25 JUL 1895
+1 FAMC @FV_5@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-10
+2 CONT sukupolvi: VI
+2 CONT lahde: lohko_r08_c2(2).jpg
+2 CONT huomiot: Naimaton
+0 @IVI_11@ INDI
+1 NAME Matti Heinonen
+1 BIRT
+2 DATE 1 JAN 1897
+1 DEAT
+2 DATE 29 JUN 1971
+1 FAMC @FV_5@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-11
+2 CONT sukupolvi: VI
+2 CONT lahde: lohko_r08_c2(2).jpg
+2 CONT huomiot: Kuoli naimattomana
+0 @IVI_12@ INDI
+1 NAME Helmi Lyydia Heinonen
+1 BIRT
+2 DATE 5 JUL 1899
+1 DEAT
+2 DATE 24 JUL 1967
+1 FAMC @FV_5@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-12
+2 CONT sukupolvi: VI
+2 CONT lahde: lohko_r08_c2(2).jpg
+2 CONT huomiot: Kuoli naimattomana
+0 @IVI_13@ INDI
+1 NAME Eino Heinonen
+1 BIRT
+2 DATE 26 JUL 1902
+1 DEAT
+2 DATE 17 NOV 1924
+1 FAMC @FV_5@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-13
+2 CONT sukupolvi: VI
+2 CONT lahde: lohko_r08_c2(2).jpg
+2 CONT huomiot: Kuoli naimattomana
+0 @IVI_14@ INDI
+1 NAME Aina Adolfina Heinonen
+1 BIRT
+2 DATE 8 JUL 1904
+1 DEAT
+2 DATE 16 SEP 1928
+1 FAMC @FV_5@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-14
+2 CONT sukupolvi: VI
+2 CONT lahde: lohko_r08_c2(2).jpg
+2 CONT huomiot: Kuoli naimattomana
+0 @IVI_15@ INDI
+1 NAME Toini Maria Heinonen
+1 BIRT
+2 DATE 2 JUN 1906
+1 DEAT
+2 DATE 17 AUG 1906
+1 FAMC @FV_5@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-15
+2 CONT sukupolvi: VI
+2 CONT lahde: lohko_r08_c2(2).jpg
+0 @IVI_18@ INDI
+1 NAME Ida Maria Rita
+1 BIRT
+2 DATE 16 NOV 1883
+1 FAMC @FV_6@
+1 FAMS @FVI_18@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-18
+2 CONT sukupolvi: VI
+2 CONT paikat: Muutti naimattomana Antreaan 09.11.1911
+2 CONT huomiot: Syntymävuosi epäselvä kuvassa
+2 CONT lahde: lohko_r07_c2.jpg
+0 @IVI_19@ INDI
+1 NAME Matti Rita
+1 BIRT
+2 DATE 25 SEP 1884
+1 DEAT
+2 DATE 5 JUN 1948
+1 FAMC @FV_6@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-19
+2 CONT sukupolvi: VI
+2 CONT huomiot: Kuoli naimattomana, ei lapsia
+2 CONT lahde: lohko_r07_c2.jpg
+0 @IVI_20@ INDI
+1 NAME Emma Eliina Rita
+1 BIRT
+2 DATE 14 SEP 1887
+1 DEAT
+2 DATE 28 MAR 1930
+1 FAMC @FV_6@
+1 FAMS @FVI_20@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-20
+2 CONT sukupolvi: VI
+2 CONT vihitty: 1910-11-20
+2 CONT puoliso: Johan (Juhana) Kopra, s. 1878-08-05 Kirvu, k. 1952-06-08
+2 CONT paikat: Muutti P:laan 25.04.1912
+2 CONT lahde: lohko_r07_c2.jpg
+0 @IVI_21@ INDI
+1 NAME Helmi Katriina Rita
+1 BIRT
+2 DATE 20 DEC 1889
+1 DEAT
+2 DATE 10 SEP 1971
+1 FAMC @FV_6@
+1 FAMS @FVI_21@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-21
+2 CONT sukupolvi: VI
+2 CONT vihitty: 1913-08-24
+2 CONT puoliso: Edvard Harmanen, s. 1889-01-02, k. 1961-09-30
+2 CONT lahde: lohko_r06_c3(2).jpg
+0 @IVI_22@ INDI
+1 NAME Juhana Rita
+1 BIRT
+2 DATE 30 SEP 1892
+1 DEAT
+2 DATE 8 APR 1917
+1 FAMC @FV_6@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-22
+2 CONT sukupolvi: VI
+2 CONT huomiot: Kuoli naimattomana, ei lapsia
+2 CONT lahde: lohko_r06_c3(2).jpg
+0 @IVI_23@ INDI
+1 NAME Aleksandra
+1 BIRT
+2 DATE 13 SEP 1889
+1 FAMC @FV_8@
+1 FAMS @FVI_23@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-23
+2 CONT sukupolvi: VI
+2 CONT vihitty: 1912-07-14
+2 CONT puoliso: Juhana Astikainen, s. 1880-04-01 Kurkijoki, k. 1941-07-09
+2 CONT paikat: Muuttivat 10.06.1940 Keuruulle; vaimo muutti 11.09.1943 Kurkijoelle ja 14.12.1949 Äänekoskelle
+2 CONT huomiot: Matin I:stä avioliitosta
+2 CONT lahde: lohko_r06_c2(2).jpg
+0 @IVI_24@ INDI
+1 NAME Heikki
+1 BIRT
+2 DATE 20 OCT 1892
+2 PLAC Kurkijoki
+1 DEAT
+2 DATE 30 DEC 1924
+1 FAMC @FV_8@
+1 FAMS @FVI_24@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-24
+2 CONT sukupolvi: VI
+2 CONT syntymapaikka: Kurkijoki
+2 CONT vihitty: 1917-11-18
+2 CONT puoliso: Helmi s. Sonni, s. 1893-02-10; vaimo vih. II av. Pekka Lemmetyisen kanssa
+2 CONT huomiot: Matin II:stä avioliitosta; lapset I:stä aviosta
+2 CONT lahde: lohko_r05_c2(2).jpg
+0 @IVI_25@ INDI
+1 NAME Juhana
+1 BIRT
+2 DATE 15 FEB 1895
+2 PLAC Kurkijoki
+1 FAMC @FV_8@
+1 FAMS @FVI_25@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-25
+2 CONT sukupolvi: VI
+2 CONT syntymapaikka: Kurkijoki
+2 CONT vihitty: 1920-05-02
+2 CONT puoliso: Hilma Katri Hopia, s. 1891-08-17 Jaakkima
+2 CONT paikat: Talollisia Mikrilä N:o 1:ssä; muuttivat Lappeen srk:n 14.06.1949
+2 CONT lahde: lohko_r05_c2(2).jpg
+0 @IVI_26@ INDI
+1 NAME Matti
+1 BIRT
+2 DATE 18 FEB 1897
+2 PLAC Kurkijoki
+1 DEAT
+2 DATE 6 AUG 1919
+1 FAMC @FV_8@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-26
+2 CONT sukupolvi: VI
+2 CONT syntymapaikka: Kurkijoki
+2 CONT huomiot: Kuoli naimattomana
+2 CONT lahde: lohko_r05_c2(2).jpg
+0 @IVI_27@ INDI
+1 NAME Katrina Loviisa
+1 BIRT
+2 DATE 11 MAR 1901
+2 PLAC Kurkijoki
+1 FAMC @FV_8@
+1 FAMS @FVI_27@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-27
+2 CONT sukupolvi: VI
+2 CONT syntymapaikka: Kurkijoki
+2 CONT vihitty: 1926-08-01
+2 CONT puoliso: Matti Kosonen, s. 1887-08-22, k. 1947-01-13
+2 CONT paikat: Vaimo muutti 21.02.1950 Laukaan srk
+2 CONT huomiot: Tästä aviosta ei ole lapsia
+2 CONT lahde: lohko_r05_c2(2).jpg
+0 @IVI_28@ INDI
+1 NAME Ida Maria
+1 BIRT
+2 DATE 27 APR 1904
+2 PLAC Kurkijoki
+1 FAMC @FV_8@
+1 FAMS @FVI_28@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-28
+2 CONT sukupolvi: VI
+2 CONT syntymapaikka: Kurkijoki
+2 CONT vihitty: 1927-06-05
+2 CONT puoliso: Vilho Lappalainen, s. 1904-11-13, k. 1944-03-18
+2 CONT paikat: Muutti 22.01.1927 Viipurin maasrk; vaimo muutti 14.12.1948 Jyväskylän maasrk
+2 CONT lahde: lohko_r05_c2(2).jpg
+0 @IVI_29@ INDI
+1 NAME Adolf Miinanp.
+1 BIRT
+2 DATE 20 MAY 1895
+1 DEAT
+2 DATE 23 JUL 1955
+1 FAMC @FV_9@
+1 FAMS @FVI_29@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-29
+2 CONT sukupolvi: VI
+2 CONT vihitty: 1920-09-26
+2 CONT puoliso: Selma Matintr. s. Lattu, s. 1899-02-26 Rautjärvi, k. 1980-03-15
+2 CONT paikat: Muuttivat P:lasta Rautjärvelle 30.09.1921
+2 CONT huomiot: Adolf kuoli Ruokolahdella
+2 CONT lahde: lohko_r04_c2.jpg
+0 @IVI_30@ INDI
+1 NAME Ida Miinantr.
+1 BIRT
+2 DATE 22 APR 1898
+1 DEAT
+2 DATE 29 FEB 1980
+1 FAMC @FV_9@
+1 FAMS @FVI_30@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-30
+2 CONT sukupolvi: VI
+2 CONT vihitty: 1935-06-02
+2 CONT puoliso: Eero Johannes Repo, s. 1903 (30.04. tai 30.07.), k. 1978-05-06
+2 CONT huomiot: Avioliitosta ei lapsia; lapset Idan (VII-44...47)
+2 CONT lahde: lohko_r03_c2.jpg
+0 @IVI_31@ INDI
+1 NAME Emma Miinantr.
+1 BIRT
+2 DATE 23 JAN 1901
+1 DEAT
+2 DATE 9 OCT 1983
+1 FAMC @FV_9@
+1 FAMS @FVI_31@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-31
+2 CONT sukupolvi: VI
+2 CONT paikat: Muutti naimatt. 05.04.1946 Simpeleelle
+2 CONT huomiot: Kuoli naimattomana Simpeleellä
+2 CONT lahde: lohko_r03_c2.jpg
+0 @IVI_32@ INDI
+1 NAME Hanna Maria Vellonen
+1 BIRT
+2 DATE 8 JAN 1897
+1 DEAT
+2 DATE 17 SEP 1901
+1 FAMC @FV_10@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-32
+2 CONT sukupolvi: VI
+2 CONT huomiot: Kuoli Sortavalassa
+2 CONT lahde: lohko_r03_c2.jpg
+0 @IVI_33@ INDI
+1 NAME Ida Vellonen
+1 BIRT
+2 DATE 8 AUG 1898
+1 DEAT
+2 DATE 21 NOV 1948
+1 FAMC @FV_10@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-33
+2 CONT sukupolvi: VI
+2 CONT huomiot: Kuoli naimattomana, ei lapsia
+2 CONT lahde: lohko_r03_c2.jpg
+0 @IVI_34@ INDI
+1 NAME Aina Hilja Vellonen
+1 BIRT
+2 DATE 6 AUG 1900
+1 DEAT
+2 DATE 20 MAY 1978
+1 FAMC @FV_10@
+1 FAMS @FVI_34@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-34
+2 CONT sukupolvi: VI
+2 CONT vihitty: 1928-03-18
+2 CONT puoliso: Juhana Valkeapää, s. 1902-11-12, k. 1977-06-11
+2 CONT lahde: lohko_r03_c2.jpg
+0 @IVI_35@ INDI
+1 NAME Lauri Johannes Vellonen
+1 BIRT
+2 DATE 26 AUG 1902
+1 DEAT
+2 DATE 11 SEP 1906
+1 FAMC @FV_10@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-35
+2 CONT sukupolvi: VI
+2 CONT lahde: lohko_r02_c2.jpg
+0 @IVI_36@ INDI
+1 NAME Anna Vellonen
+1 BIRT
+2 DATE 24 SEP 1903
+1 DEAT
+2 DATE 10 FEB 1964
+1 FAMC @FV_10@
+1 FAMS @FVI_36@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-36
+2 CONT sukupolvi: VI
+2 CONT puoliso: August Manninen, k. 1926-07-19
+2 CONT paikat: Muutti P:lasta leskenä 18.01.1950 Simpeleelle
+2 CONT huomiot: Vihkimispäivä ja miehen syntymäaika tyhjiä kartassa; kuolinvuosi 1964 vai 1967 – tarkista zoomiversiosta
+2 CONT lahde: lohko_r02_c2.jpg
+0 @IVI_37@ INDI
+1 NAME Johannes Vellonen
+1 BIRT
+2 DATE 8 FEB 1906
+1 DEAT
+2 DATE 29 JUL 1941
+1 FAMC @FV_10@
+1 FAMS @FVI_37@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-37
+2 CONT sukupolvi: VI
+2 CONT vihitty: 1931-05-24
+2 CONT puoliso: Saimi Anni Edit s. Saukkonen, s. 1909-08-27 Sortavala, siirt. srk-jaossa Simpeleelle 1922, k. 1984-12-18
+2 CONT paikat: Muutti Simpeleelle 19.02.1931
+2 CONT huomiot: Kaatui sodassa
+2 CONT lahde: lohko_r02_c2.jpg
+0 @IVI_38@ INDI
+1 NAME Matti Vellonen
+1 BIRT
+2 DATE 21 DEC 1908
+1 FAMC @FV_10@
+1 FAMS @FVI_38@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-38
+2 CONT sukupolvi: VI
+2 CONT vihitty: 1936-09-13
+2 CONT puoliso: Aino s. Peuhkuri, s. 1909-12-01, muutti Simpeleelle 25.04.1935
+2 CONT paikat: Muutti Simpeleelle 19.02.1931
+2 CONT lahde: lohko_r01_c2.jpg
+0 @IVI_39@ INDI
+1 NAME Aleksanteri Vellonen
+1 BIRT
+2 DATE 11 NOV 1911
+1 DEAT
+2 DATE 29 DEC 1935
+1 FAMC @FV_10@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-39
+2 CONT sukupolvi: VI
+2 CONT huomiot: Kuoli naimattomana, ei lapsia
+2 CONT lahde: lohko_r01_c2.jpg
+0 @IVI_40@ INDI
+1 NAME Yrjö Oskari
+1 BIRT
+2 DATE 1 DEC 1924
+1 FAMC @FV_11@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-40
+2 CONT sukupolvi: VI
+2 CONT vihitty: 1960-01-01
+2 CONT puoliso: Sisko Katri Andersin, s. 1917-05-29
+2 CONT paikat: Muutti S:linnaan 01.09.1960
+2 CONT lahde: lohko_r01_c2.jpg
+0 @IVI_41@ INDI
+1 NAME Veikko Olavi
+1 BIRT
+2 DATE 22 OCT 1926
+1 FAMC @FV_11@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VI-41
+2 CONT sukupolvi: VI
+2 CONT paikat: Muutti Savonlinnaan naimattomana 23.09.1945
+2 CONT lahde: lohko_r01_c2.jpg
+0 @IVII_1@ INDI
+1 NAME Kustaa Adolf Antinp. Peippo
+1 BIRT
+2 DATE 5 NOV 1895
+1 FAMC @FVI_1@
+1 FAMS @FVII_1@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-1
+2 CONT sukupolvi: VII
+2 CONT lahde: lohko_r10_c3.jpg
+2 CONT vihitty: 1919-10-20
+2 CONT puoliso: Anna Maria Antintr. Sormunen, s. 1898-05-22 Impilahti, k. 1938-09-16
+2 CONT paikat: Tuli 20.02.1931 Simpeleeltä Impilahdelle; muutti 02.05.1950 Leppävirran srk
+2 CONT huomiot: Muuttivat 23.03.1936 Saarimäen, palasivat takaisin 28.12.1937
+0 @IVII_2@ INDI
+1 NAME Anna Sofia Peippo
+1 BIRT
+2 DATE 25 JUL 1901
+1 DEAT
+2 DATE 4 MAR 1982
+1 FAMC @FVI_1@
+1 FAMS @FVII_2@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-2
+2 CONT sukupolvi: VII
+2 CONT lahde: lohko_r10_c3.jpg
+2 CONT vihitty: 1923-07-15
+2 CONT puoliso: Aleksanteri Kyheröinen, s. 1899-08-30, k. 1966-01-13
+2 CONT paikat: Muuttivat Karinaisiin 11.02.1947
+0 @IVII_3@ INDI
+1 NAME Toivo
+1 BIRT
+2 DATE 6 APR 1924
+1 DEAT
+2 DATE 16 DEC 1943
+1 FAMC @FVI_6@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-3
+2 CONT sukupolvi: VII
+2 CONT lahde: lohko_r09_c3.jpg
+2 CONT huomiot: Kaatui sodassa
+0 @IVII_4@ INDI
+1 NAME Laina Ilona
+1 BIRT
+2 DATE 11 OCT 1925
+1 FAMC @FVI_6@
+1 FAMS @FVII_4@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-4
+2 CONT sukupolvi: VII
+2 CONT lahde: lohko_r09_c3.jpg
+2 CONT vihitty: 1946-08-25
+2 CONT puoliso: Toivo Armas Pietarinen, s. 1919-03-12 Nurmes
+0 @IVII_5@ INDI
+1 NAME Irja Karoliina
+1 BIRT
+2 DATE 20 NOV 1928
+1 FAMC @FVI_6@
+1 FAMS @FVII_5@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-5
+2 CONT sukupolvi: VII
+2 CONT lahde: lohko_r09_c3.jpg
+2 CONT vihitty: 1964-08-30
+2 CONT puoliso: Olavi Sirviö, s. 1924-12-18 Padasjoki
+0 @IVII_6@ INDI
+1 NAME Eino Olavi
+1 BIRT
+2 DATE 28 DEC 1930
+1 FAMC @FVI_6@
+1 FAMS @FVII_6@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-6
+2 CONT sukupolvi: VII
+2 CONT lahde: lohko_r09_c3.jpg
+2 CONT vihitty: 1957-08-18
+2 CONT puoliso: Laila Anita s. Väinö, s. 1934-02-05 Joensuu
+0 @IVII_7@ INDI
+1 NAME Meeri Ellen
+1 BIRT
+2 DATE 13 OCT 1933
+1 FAMC @FVI_7@
+1 FAMS @FVII_7@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-7
+2 CONT sukupolvi: VII
+2 CONT lahde: lohko_r09_c3.jpg
+2 CONT vihitty: 1954-04-19
+2 CONT puoliso: Pertti Matias Hirvonen, s. 1931-10-25 Lumivaara
+2 CONT huomiot: Eronneet
+0 @IVII_8@ INDI
+1 NAME Yrjö Kalevi
+1 BIRT
+2 DATE 17 FEB 1936
+1 FAMC @FVI_7@
+1 FAMS @FVII_8@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-8
+2 CONT sukupolvi: VII
+2 CONT lahde: lohko_r08_c3.jpg
+2 CONT vihitty: 1969-10-30
+2 CONT puoliso: Pirkko Maria s. Haaristo, s. 1939-12-11
+0 @IVII_9@ INDI
+1 NAME Vieno Sinikka
+1 BIRT
+2 DATE 8 FEB 1938
+1 FAMC @FVI_7@
+1 FAMS @FVII_9@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-9
+2 CONT sukupolvi: VII
+2 CONT lahde: lohko_r08_c3.jpg
+2 CONT vihitty: 1961-06-21
+2 CONT puoliso: Eino Armas Santtila, s. 1939-09-11 Jurva
+0 @IVII_10@ INDI
+1 NAME Onni Akseli Forsbacka
+1 BIRT
+2 DATE 26 FEB 1931
+1 FAMC @FVI_7@
+1 FAMS @FVII_10@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-10
+2 CONT sukupolvi: VII
+2 CONT lahde: lohko_r08_c3.jpg
+2 CONT vihitty: 1961-08-28
+2 CONT puoliso: Eine Elina Takkinen, s. 1933-03-04 Juva
+2 CONT paikat: Muutti naimattomana Sääminkiin
+0 @IVII_11@ INDI
+1 NAME Eeva Maria Rita
+1 BIRT
+2 DATE 28 MAR 1905
+1 DEAT
+2 DATE 16 OCT 1980
+1 FAMC @FVI_18@
+1 FAMS @FVII_11@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-11
+2 CONT sukupolvi: VII
+2 CONT vihitty: 1926-07-11
+2 CONT puoliso: Onni Poutanen, s. 1904-07-14, k. 1985-03-19
+2 CONT paikat: Muuttivat Rantasalmelle 08.12.1947
+2 CONT lahde: lohko_r07_c2.jpg
+0 @IVII_12@ INDI
+1 NAME Anton Johannes Rita
+1 BIRT
+2 DATE 8 AUG 1910
+1 FAMC @FVI_18@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-12
+2 CONT sukupolvi: VII
+2 CONT paikat: Muutti 13.10.1911 Antreaan; muutti 31.12.1949 naimattomana Hausjärven srk
+2 CONT lahde: lohko_r07_c2.jpg
+0 @IVII_13@ INDI
+1 NAME Aarne Anterus Kopra
+1 BIRT
+2 DATE 28 MAR 1912
+1 FAMC @FVI_20@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-13
+2 CONT sukupolvi: VII
+2 CONT paikat: Siirt. siviilirekisteriin 18.12.1961
+2 CONT lahde: lohko_r07_c2.jpg
+0 @IVII_14@ INDI
+1 NAME Väinö Artturi Kopra
+1 BIRT
+2 DATE 28 JUN 1916
+1 DEAT
+2 DATE 11 DEC 1934
+1 FAMC @FVI_20@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-14
+2 CONT sukupolvi: VII
+2 CONT huomiot: Kuoli naimattomana
+2 CONT lahde: lohko_r07_c2.jpg
+0 @IVII_15@ INDI
+1 NAME Aino (Aino) Esteri Kopra
+1 BIRT
+2 DATE 12 MAY 1920
+1 DEAT
+2 DATE 2 NOV 1987
+1 FAMC @FVI_20@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-15
+2 CONT sukupolvi: VII
+2 CONT vihitty: 1951-12-12
+2 CONT puoliso: Tuomas Taponen, s. 1912-09-27 Kirvu, k. 1974-10-22
+2 CONT lahde: lohko_r07_c2.jpg
+0 @IVII_16@ INDI
+1 NAME Kaari Helena Kopra
+1 BIRT
+2 DATE 23 FEB 1922
+1 DEAT
+2 DATE 27 APR 1922
+1 FAMC @FVI_20@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-16
+2 CONT sukupolvi: VII
+2 CONT lahde: lohko_r07_c2.jpg
+0 @IVII_17@ INDI
+1 NAME Oiva Ilmari Harmanen
+1 BIRT
+2 DATE 27 MAY 1914
+1 DEAT
+2 DATE 13 NOV 1982
+1 FAMC @FVI_21@
+1 FAMS @FVII_17@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-17
+2 CONT sukupolvi: VII
+2 CONT vihitty: 1943-07-04
+2 CONT puoliso: Hilja s. Jääskeläinen, s. 1914-02-03
+2 CONT lahde: lohko_r07_c2.jpg
+0 @IVII_18@ INDI
+1 NAME Anna Onerva Harmanen
+1 BIRT
+2 DATE 10 DEC 1916
+1 FAMC @FVI_21@
+1 FAMS @FVII_18@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-18
+2 CONT sukupolvi: VII
+2 CONT vihitty: 1941-06-23
+2 CONT puoliso: Väinö Eino Anttonen, s. 1911-03-31, k. 1970-05-29
+2 CONT paikat: Muutti naimattomana 01.10.1934 Viipurin Tnk.srk
+2 CONT huomiot: Eronneet
+2 CONT lahde: lohko_r07_c2.jpg
+0 @IVII_19@ INDI
+1 NAME Toini Marjatta Harmanen
+1 BIRT
+2 DATE 26 JUL 1920
+1 DEAT
+2 DATE 1 DEC 1927
+1 FAMC @FVI_21@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-19
+2 CONT sukupolvi: VII
+2 CONT lahde: lohko_r07_c2.jpg
+0 @IVII_20@ INDI
+1 NAME Anna Saima Aleksandrantr. Astikainen
+1 BIRT
+2 DATE 18 FEB 1909
+2 PLAC Kurkijoki
+1 FAMC @FVI_23@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-20
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Kurkijoki
+2 CONT vihitty: 1925-02-01
+2 CONT puoliso: Nikolai Keuramo, ent. Kamenski, s. 1898-05-02
+2 CONT paikat: Muuttivat 19.12.1940 Jyväskylään
+2 CONT lahde: lohko_r06_c3(2).jpg
+0 @IVII_21@ INDI
+1 NAME Hilja Maria Astikainen
+1 BIRT
+2 DATE 10 MAR 1913
+2 PLAC Kurkijoki
+1 DEAT
+2 DATE 14 MAR 1928
+1 FAMC @FVI_23@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-21
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Kurkijoki
+2 CONT huomiot: Kuoli naimattomana
+2 CONT lahde: lohko_r06_c3(2).jpg
+0 @IVII_22@ INDI
+1 NAME Valmari Johannes Astikainen
+1 BIRT
+2 DATE 20 NOV 1923
+2 PLAC Kurkijoki
+1 DEAT
+2 DATE 21 SEP 1924
+1 FAMC @FVI_23@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-22
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Kurkijoki
+2 CONT lahde: lohko_r06_c3(2).jpg
+0 @IVII_23@ INDI
+1 NAME Tyyne Siviä Astikainen
+1 BIRT
+2 DATE 24 NOV 1926
+2 PLAC Kurkijoki
+1 FAMC @FVI_23@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-23
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Kurkijoki
+2 CONT paikat: Muutti 27.07.1945 Äänekoskelle
+2 CONT lahde: lohko_r06_c3(2).jpg
+0 @IVII_24@ INDI
+1 NAME Meeri Mirjami Astikainen
+1 BIRT
+2 DATE 3 FEB 1929
+2 PLAC Kurkijoki
+1 FAMC @FVI_23@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-24
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Kurkijoki
+2 CONT paikat: Muutti 14.12.1949 Äänekoskelle
+2 CONT lahde: lohko_r06_c3(2).jpg
+0 @IVII_25@ INDI
+1 NAME Aili Ester
+1 BIRT
+2 DATE 3 SEP 1918
+2 PLAC Kurkijoki
+1 FAMC @FVI_24@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-25
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Kurkijoki
+2 CONT paikat: Muutti 18.07.1940 Helsingin Sörnäisten suom. srk:aan naimattomana
+2 CONT lahde: lohko_r05_c3.jpg
+0 @IVII_26@ INDI
+1 NAME Arvo
+1 BIRT
+2 DATE 4 JUL 1921
+1 DEAT
+2 DATE 22 FEB 1929
+1 FAMC @FVI_24@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-26
+2 CONT sukupolvi: VII
+2 CONT lahde: lohko_r05_c3.jpg
+0 @IVII_27@ INDI
+1 NAME Vilho Matti
+1 BIRT
+2 DATE 24 MAR 1924
+2 PLAC Kurkijoki
+1 DEAT
+2 DATE 8 JUL 1924
+1 FAMC @FVI_24@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-27
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Kurkijoki
+2 CONT lahde: lohko_r05_c3.jpg
+0 @IVII_28@ INDI
+1 NAME Viljo Johannes
+1 BIRT
+2 DATE 25 SEP 1922
+2 PLAC Kurkijoki
+1 DEAT
+2 DATE 30 SEP 1922
+1 FAMC @FVI_25@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-28
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Kurkijoki
+2 CONT lahde: lohko_r05_c3.jpg
+0 @IVII_29@ INDI
+1 NAME Toivo Johannes
+1 BIRT
+2 DATE 6 OCT 1923
+2 PLAC Kurkijoki
+1 FAMC @FVI_25@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-29
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Kurkijoki
+2 CONT vihitty: 1948-10-24
+2 CONT puoliso: Kerttu Karjalainen L:rannasta
+2 CONT paikat: Muutti L:rantaan 30.03.1949
+2 CONT lahde: lohko_r05_c3.jpg
+0 @IVII_30@ INDI
+1 NAME Agda Elina
+1 BIRT
+2 DATE 5 FEB 1926
+2 PLAC Kurkijoki
+1 FAMC @FVI_27@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-30
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Kurkijoki
+2 CONT paikat: Muutti 28.01.1949 Kaarinan srk:taan naimattomana
+2 CONT lahde: lohko_r05_c3.jpg
+0 @IVII_31@ INDI
+1 NAME Sirkka Maria
+1 BIRT
+2 DATE 24 MAR 1928
+2 PLAC Kurkijoki
+1 DEAT
+2 DATE 29 OCT 1942
+1 FAMC @FVI_27@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-31
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Kurkijoki
+2 CONT lahde: lohko_r05_c3.jpg
+0 @IVII_32@ INDI
+1 NAME Sinikka Lappalainen
+1 BIRT
+2 DATE 11 JUN 1928
+2 PLAC Kurkijoki
+1 FAMC @FVI_28@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-32
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Kurkijoki
+2 CONT vihitty: 1948-05-16
+2 CONT puoliso: Kauko Olavi Göös Muuramesta
+2 CONT paikat: Sinikka muutti 14.12.1948 Jyväskylän maasrk:n
+2 CONT lahde: lohko_r05_c3.jpg
+0 @IVII_33@ INDI
+1 NAME Erkki Ensio Lappalainen
+1 BIRT
+2 DATE 6 JUN 1929
+2 PLAC Kurkijoki
+1 FAMC @FVI_28@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-33
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Kurkijoki
+2 CONT vihitty: 1946-11-02
+2 CONT puoliso: Kirsti Helena Pihl
+2 CONT paikat: Jyväskylästä, jonne Erkki muutti 30.12.1946
+2 CONT lahde: lohko_r05_c3.jpg
+0 @IVII_35@ INDI
+1 NAME Väinö
+1 BIRT
+2 DATE 26 JUN 1923
+2 PLAC Rautjärvi
+1 FAMC @FVI_29@
+1 FAMS @FVII_35@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-35
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Rautjärvi
+2 CONT vihitty: 1952-08-03
+2 CONT puoliso: Hilkka Tellervo s. Myllyrinen, s. 1932-02-26 Joutseno
+2 CONT huomiot: Avioero 07.02.1985
+2 CONT lahde: lohko_r04_c3.jpg
+0 @IVII_36@ INDI
+1 NAME Vilho Olavi
+1 BIRT
+2 DATE 1 OCT 1925
+2 PLAC Rautjärvi
+1 FAMC @FVI_29@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-36
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Rautjärvi
+2 CONT paikat: Muutti 15.12.1971 naimattomana Joutsenoon
+2 CONT huomiot: Ei lapsia
+2 CONT lahde: lohko_r04_c3.jpg
+0 @IVII_37@ INDI
+1 NAME Matti
+1 BIRT
+2 DATE 19 NOV 1927
+2 PLAC Rautjärvi
+1 DEAT
+2 DATE 20 JAN 1957
+1 FAMC @FVI_29@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-37
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Rautjärvi
+2 CONT huomiot: Kuoli Ruokolahdella. Sicillä ei lapsia.
+2 CONT lahde: lohko_r04_c3.jpg
+0 @IVII_38@ INDI
+1 NAME Yrjö Kalevi
+1 BIRT
+2 DATE 2 JUN 1930
+2 PLAC Rautjärvi
+1 DEAT
+2 DATE 2 JAN 1982
+1 FAMC @FVI_29@
+1 FAMS @FVII_38@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-38
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Rautjärvi
+2 CONT vihitty: 1952-08-03
+2 CONT puoliso: Kanerva Kyllikki s. Kitunen, s. 1932-01-13 Puumala
+2 CONT paikat: Muuttivat 17.09.1973 Imatralle
+2 CONT lahde: lohko_r04_c3.jpg
+0 @IVII_39@ INDI
+1 NAME Anja Annikki
+1 BIRT
+2 DATE 23 APR 1932
+2 PLAC Ruokolahti
+1 FAMC @FVI_29@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-39
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Ruokolahti
+2 CONT paikat: Muutti 26.02.1966 naimattomana Joutsenoon
+2 CONT lahde: lohko_r04_c3.jpg
+0 @IVII_40@ INDI
+1 NAME Eeva Anelma
+1 BIRT
+2 DATE 29 APR 1934
+2 PLAC Rautjärvi
+1 FAMC @FVI_29@
+1 FAMS @FVII_40@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-40
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Rautjärvi
+2 CONT vihitty: 1960-06-12
+2 CONT puoliso: Tarmo Olavi Ruottinen, s. 1935-09-15 Sulkava
+2 CONT paikat: Perhe muutti 16.01.1976 Imatralle ja 09.10.1978 Puumalaan
+2 CONT lahde: lohko_r04_c3.jpg
+0 @IVII_41@ INDI
+1 NAME Martti Vilhelm
+1 BIRT
+2 DATE 12 MAY 1936
+2 PLAC Rautjärvi
+1 FAMC @FVI_29@
+1 FAMS @FVII_41@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-41
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Rautjärvi
+2 CONT vihitty: 1960-10-02
+2 CONT puoliso: Lea Tellervo s. Kitunen, s. 1939-12-07 Puumala
+2 CONT paikat: Perhe muutti 30.10.1965 Joutsenoon
+2 CONT lahde: lohko_r04_c3.jpg
+0 @IVII_42@ INDI
+1 NAME Aili Tuulikki
+1 BIRT
+2 DATE 26 AUG 1938
+2 PLAC Rautjärvi
+1 FAMC @FVI_29@
+1 FAMS @FVII_42@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-42
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Rautjärvi
+2 CONT vihitty: 1958-07-06
+2 CONT puoliso: Veikko Alfred Miettinen, s. 1931-02-10 Ruokolahti
+2 CONT lahde: lohko_r04_c3.jpg
+0 @IVII_43@ INDI
+1 NAME Hilkka Liisa
+1 BIRT
+2 DATE 15 SEP 1940
+2 PLAC Rautjärvi
+1 FAMC @FVI_29@
+1 FAMS @FVII_43@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-43
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Rautjärvi
+2 CONT vihitty: 1965-01-03
+2 CONT puoliso: Aimo Antti Akkanen, s. 1939-07-28 Ruokolahti
+2 CONT paikat: Muutti L:rantaan 24.11.1964
+2 CONT huomiot: Vanhempi alempana kartassa – täydennä vanhempi_id riviltä r04
+2 CONT lahde: lohko_r04_c3.jpg
+0 @IVII_44@ INDI
+1 NAME Oiva Antero Idanp.
+1 BIRT
+2 DATE 14 JUL 1917
+1 DEAT
+2 DATE 15 MAY 1987
+1 FAMC @FVI_30@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-44
+2 CONT sukupolvi: VII
+2 CONT lahde: lohko_r03_c3.jpg
+0 @IVII_45@ INDI
+1 NAME Eino Idanp.
+1 BIRT
+2 DATE 1 JUL 1919
+1 DEAT
+2 DATE 3 FEB 1923
+1 FAMC @FVI_30@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-45
+2 CONT sukupolvi: VII
+2 CONT lahde: lohko_r03_c3.jpg
+0 @IVII_46@ INDI
+1 NAME Eino Idanp.
+1 BIRT
+2 DATE 20 SEP 1923
+1 DEAT
+2 DATE 11 JAN 1924
+1 FAMC @FVI_30@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-46
+2 CONT sukupolvi: VII
+2 CONT lahde: lohko_r03_c3.jpg
+0 @IVII_47@ INDI
+1 NAME Sylvi Sanelma Idantr.
+1 BIRT
+2 DATE 1 JAN 1926
+1 FAMC @FVI_30@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-47
+2 CONT sukupolvi: VII
+2 CONT paikat: Muutti naimatt. 25.01.1947 Ruokolahdelle
+2 CONT lahde: lohko_r03_c3.jpg
+0 @IVII_48@ INDI
+1 NAME Esko Ensio Emmanp.
+1 BIRT
+2 DATE 9 APR 1923
+1 FAMC @FVI_31@
+1 FAMS @FVII_48@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-48
+2 CONT sukupolvi: VII
+2 CONT vihitty: 1947-04-07
+2 CONT puoliso: Toini Tellervo s. Kapanen, s. 1926-06-18 Kerimäki
+2 CONT paikat: Muuttaneet 13.07.1956 Hämeenlinnaan
+2 CONT lahde: lohko_r03_c3.jpg
+0 @IVII_49@ INDI
+1 NAME Sirkka Liisa Valkeapää
+1 BIRT
+2 DATE 2 JUL 1929
+1 FAMC @FVI_34@
+1 FAMS @FVII_49@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-49
+2 CONT sukupolvi: VII
+2 CONT vihitty: 1954-05-02
+2 CONT puoliso: Reino Johannes Sairanen, s. 1927-02-10 Äyräpää
+2 CONT paikat: Perhe muutti 29.12.1960 H:gistä Espooseen, 1967 Kirkkonummen srk
+2 CONT lahde: lohko_r03_c3.jpg
+0 @IVII_50@ INDI
+1 NAME Hilkka Sisko Valkeapää
+1 BIRT
+2 DATE 28 NOV 1932
+1 FAMC @FVI_34@
+1 FAMS @FVII_50@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-50
+2 CONT sukupolvi: VII
+2 CONT vihitty: 1958-07-12
+2 CONT puoliso: Arvo Aulis Kuvaja, s. 1930-01-05 Viipuri
+2 CONT paikat: Muutti 12.10.1955
+2 CONT lahde: lohko_r03_c3.jpg
+0 @IVII_51@ INDI
+1 NAME Eero Sakari Valkeapää
+1 BIRT
+2 DATE 12 JAN 1936
+1 FAMC @FVI_34@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-51
+2 CONT sukupolvi: VII
+2 CONT puoliso: Enni Inkeri Partanen
+2 CONT huomiot: Vihkimispäivä ja vaimon syntymäaika tyhjiä kartassa
+2 CONT lahde: lohko_r03_c3.jpg
+0 @IVII_52@ INDI
+1 NAME Sinikka Marjatta Valkeapää
+1 BIRT
+2 DATE 17 FEB 1940
+1 DEAT
+2 DATE 19 MAY 1985
+1 FAMC @FVI_34@
+1 FAMS @FVII_52@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-52
+2 CONT sukupolvi: VII
+2 CONT vihitty: 1969-05-25
+2 CONT puoliso: Yrjö Antero Tuovinen, s. 1938-07-09 Joroinen
+2 CONT paikat: Muuttivat Pieksämäeltä Keravalle 21.09.1970
+2 CONT lahde: lohko_r02_c3.jpg
+0 @IVII_53@ INDI
+1 NAME Toivo August (Augusti) Manninen
+1 BIRT
+2 DATE 12 MAY 1925
+2 PLAC Pohj. Pirkkala
+1 FAMC @FVI_36@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-53
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Pohj. Pirkkala
+2 CONT huomiot: Asuu Ruotsissa
+2 CONT lahde: lohko_r02_c3.jpg
+0 @IVII_54@ INDI
+1 NAME Anja Eevi Kaarin Vellonen
+1 BIRT
+2 DATE 28 JUL 1932
+2 PLAC Simpele
+1 FAMC @FVI_37@
+1 FAMS @FVII_54@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-54
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Simpele
+2 CONT vihitty: 1954-11-14
+2 CONT puoliso: Väinö Olavi Varis, s. 1923-06-20, k. 1972-02-07
+2 CONT lahde: lohko_r02_c3.jpg
+0 @IVII_55@ INDI
+1 NAME Uolevi Johannes Vellonen
+1 BIRT
+2 DATE 16 MAR 1934
+2 PLAC Simpele
+1 FAMC @FVI_37@
+1 FAMS @FVII_55@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-55
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Simpele
+2 CONT vihitty: 1957-11-16
+2 CONT puoliso: Anja Laura Onerva s. Lankinen, s. 1939-02-28 Rautjärvi
+2 CONT lahde: lohko_r02_c3.jpg
+0 @IVII_56@ INDI
+1 NAME Aila Saimi Marjatta Vellonen
+1 BIRT
+2 DATE 16 JAN 1936
+2 PLAC Simpele
+1 FAMC @FVI_37@
+1 FAMS @FVII_56@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-56
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Simpele
+2 CONT vihitty: 1960-12-26
+2 CONT puoliso: Martti Juhani Kokko, s. 1932-12-23 H:ki Töölö
+2 CONT paikat: Muutti 09.07.1958 Uukuniemelle
+2 CONT lahde: lohko_r02_c3.jpg
+0 @IVII_57@ INDI
+1 NAME Terttu Annikki Vellonen
+1 BIRT
+2 DATE 14 SEP 1938
+2 PLAC Viipuri
+1 FAMC @FVI_37@
+1 FAMS @FVII_57@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-57
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Viipuri
+2 CONT vihitty: 1965-12-23
+2 CONT puoliso: Veikko Henrik Hassinen, s. 1929-07-07 Ilomantsi
+2 CONT paikat: Muutti Simpeleelle 15.08.1963, Säyneisiin 10.12.1964
+2 CONT lahde: lohko_r02_c3.jpg
+0 @IVII_58@ INDI
+1 NAME Leena Marketta Vellonen
+1 BIRT
+2 DATE 30 SEP 1941
+2 PLAC Simpele
+1 FAMC @FVI_38@
+1 FAMS @FVII_58@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-58
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Simpele
+2 CONT vihitty: 1961-12-03
+2 CONT puoliso: Martti Kustaa Elovaara, s. 1937-03-24 Nivala, muutti Pielavedelle 25.03.1963; vaimo muutti P:vedelle 05.02.1963 H:gistä
+2 CONT lahde: lohko_r01_c3.jpg
+0 @IVII_59@ INDI
+1 NAME Eira Anneli Vellonen
+1 BIRT
+2 DATE 18 JUL 1945
+2 PLAC Simpele
+1 FAMC @FVI_38@
+1 FAMS @FVII_59@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-59
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Simpele
+2 CONT vihitty: 1969-12-27
+2 CONT puoliso: Seppo Jorma Juhani Järvinen, s. 1944-08-08 Kemi
+2 CONT paikat: Muutti Ruotsiin 02.01.1969; muuttivat Kurikkaan 02.07.1975
+2 CONT lahde: lohko_r01_c3.jpg
+0 @IVII_60@ INDI
+1 NAME Paavo Juhani Vellonen
+1 BIRT
+2 DATE 11 JUL 1950
+2 PLAC Simpele
+1 FAMC @FVI_38@
+1 FAMS @FVII_60@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VII-60
+2 CONT sukupolvi: VII
+2 CONT syntymapaikka: Simpele
+2 CONT vihitty: 1978-02-04
+2 CONT puoliso: Raija Liisa Helena s. Tynkkynen, s. 1953-11-29 Sääminki
+2 CONT paikat: Muutti S:linnaan 13.08.1976
+2 CONT lahde: lohko_r01_c3.jpg
+0 @IVIII_1@ INDI
+1 NAME Aili Siviä Peippo
+1 BIRT
+2 DATE 1 SEP 1920
+1 FAMC @FVII_1@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-1
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r10_c3.jpg
+2 CONT paikat: Muutti 17.09.1945 naimattomana Säämingin srk
+0 @IVIII_2@ INDI
+1 NAME Väinö Johannes Peippo
+1 BIRT
+2 DATE 22 JUN 1922
+1 FAMC @FVII_1@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-2
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r10_c3.jpg
+2 CONT vihitty: 1946-08-24
+2 CONT puoliso: Anna Esteri Laitinen, Leppävirta
+2 CONT paikat: Muutti 16.11.1948 Leppävirran srk
+0 @IVIII_3@ INDI
+1 NAME Eino Olavi Heikki Peippo
+1 BIRT
+2 DATE 11 NOV 1923
+1 FAMC @FVII_1@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-3
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r10_c3.jpg
+2 CONT paikat: Muutti 28.12.1950 naimattomana Rantasalmelle
+0 @IVIII_4@ INDI
+1 NAME Teuvo Kalevi Peippo
+1 BIRT
+2 DATE 19 FEB 1928
+1 FAMC @FVII_1@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-4
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r10_c3.jpg
+2 CONT paikat: Muutti 14.11.1958 naimattomana Alaviron srk
+0 @IVIII_5@ INDI
+1 NAME Keijo Kalevi Peippo
+1 BIRT
+2 DATE 8 FEB 1932
+1 FAMC @FVII_1@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-5
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r10_c3.jpg
+2 CONT paikat: Muutti 05.09.1955 naimattomana Seinäjoelle
+0 @IVIII_6@ INDI
+1 NAME Toini Kaarina Peippo
+1 BIRT
+2 DATE 12 JAN 1934
+1 FAMC @FVII_1@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-6
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r10_c3.jpg
+2 CONT paikat: Muutti 02.10.1950 Leppävirran srk
+0 @IVIII_7@ INDI
+1 NAME Hilja Esteri Peippo
+1 BIRT
+2 DATE 5 SEP 1938
+2 PLAC Impilahti
+1 FAMC @FVII_1@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-7
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r10_c3.jpg
+2 CONT syntymapaikka: Impilahti
+2 CONT paikat: Muutti 10.02.1949 Varkauteen
+0 @IVIII_8@ INDI
+1 NAME Enni Siviä Kyheröinen
+1 BIRT
+2 DATE 18 FEB 1925
+2 PLAC Simpele
+1 FAMC @FVII_2@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-8
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r10_c3.jpg
+2 CONT syntymapaikka: Simpele
+2 CONT vihitty: 1945-04-01
+2 CONT puoliso: Eino Olavi Terävä, s. 1917-07-05, k. 1966-08-16
+2 CONT paikat: Muutti Karinaisiin 02.09.1948, edelleen Kiikkaan 03.09.1953
+0 @IVIII_9@ INDI
+1 NAME Aune Mirjam Kyheröinen
+1 BIRT
+2 DATE 14 JUN 1933
+2 PLAC Simpele
+1 FAMC @FVII_2@
+1 FAMS @FVIII_9@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-9
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r10_c3.jpg
+2 CONT syntymapaikka: Simpele
+2 CONT vihitty: 1953-08-29
+2 CONT puoliso: Osmo Väinö Sakari Raikko, s. 1928-10-23 Marttila
+2 CONT paikat: Muutti 11.02.1947 Karinaisiin
+0 @IVIII_10@ INDI
+1 NAME Markku Pekka Juhani Pietarinen
+1 BIRT
+2 DATE 17 FEB 1947
+2 PLAC Sääminki
+1 FAMC @FVII_4@
+1 FAMS @FVIII_10@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-10
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r09_c3.jpg
+2 CONT syntymapaikka: Sääminki
+2 CONT vihitty: 1980-12-22
+2 CONT puoliso: Anu s. Rantanen, s. 1951-03-10 H:ki
+0 @IVIII_11@ INDI
+1 NAME Erkki Armas Pietarinen
+1 BIRT
+2 DATE 15 APR 1949
+2 PLAC Sääminki
+1 FAMC @FVII_4@
+1 FAMS @FVIII_11@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-11
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r09_c3.jpg
+2 CONT syntymapaikka: Sääminki
+2 CONT vihitty: 1971-06-26
+2 CONT puoliso: Liisa Katriina s. Kohonen, s. 1946-11-09 Savonlinna
+0 @IVIII_12@ INDI
+1 NAME Pirkko Liisa Johanna Pietarinen
+1 BIRT
+2 DATE 5 JUL 1950
+2 PLAC Sääminki
+1 FAMC @FVII_4@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-12
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r09_c3.jpg
+2 CONT syntymapaikka: Sääminki
+2 CONT vihitty: 1980-02-27
+2 CONT puoliso: Lothar Georg Johannes Masermann, s. 1925-08-08 Saksassa
+0 @IVIII_13@ INDI
+1 NAME Martti Veli Olavi Pietarinen
+1 BIRT
+2 DATE 12 OCT 1953
+2 PLAC Sääminki
+1 FAMC @FVII_4@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-13
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r09_c3.jpg
+2 CONT syntymapaikka: Sääminki
+2 CONT vihitty: 1986-08-23
+2 CONT puoliso: Seija s. Matinen, s. 1952-04-20 S:linna
+0 @IVIII_14@ INDI
+1 NAME Mirkku Riitta Helena Pietarinen
+1 BIRT
+2 DATE 20 JUL 1955
+2 PLAC S:linna
+1 FAMC @FVII_4@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-14
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r09_c3.jpg
+2 CONT syntymapaikka: S:linna
+0 @IVIII_15@ INDI
+1 NAME Sari Sinikka Sirviö
+1 BIRT
+2 DATE 16 JUN 1965
+2 PLAC Savonranta
+1 FAMC @FVII_5@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-15
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r09_c3.jpg
+2 CONT syntymapaikka: Savonranta
+0 @IVIII_16@ INDI
+1 NAME Jarmo Olavi
+1 BIRT
+2 DATE 17 JUN 1958
+1 FAMC @FVII_6@
+1 FAMS @FVIII_16@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-16
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r09_c3.jpg
+2 CONT vihitty: 1980-05-03
+2 CONT puoliso: Kirsti Annika s. Nikupaa, s. 1959-11-21 S:linna
+0 @IVIII_17@ INDI
+1 NAME Arja Anita
+1 BIRT
+2 DATE 23 AUG 1959
+2 PLAC Luumäki
+1 FAMC @FVII_6@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-17
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r09_c3.jpg
+2 CONT syntymapaikka: Luumäki
+0 @IVIII_18@ INDI
+1 NAME Arto Veli Juhani
+1 BIRT
+2 DATE 9 MAR 1966
+2 PLAC Luumäki
+1 FAMC @FVII_6@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-18
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r09_c3.jpg
+2 CONT syntymapaikka: Luumäki
+0 @IVIII_19@ INDI
+1 NAME Raija Kaarina Hirvonen
+1 BIRT
+2 DATE 27 SEP 1954
+1 FAMC @FVII_7@
+1 FAMS @FVIII_19@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-19
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r09_c3.jpg
+0 @IVIII_20@ INDI
+1 NAME Pirjo Anneli Hirvonen
+1 BIRT
+2 DATE 26 APR 1956
+1 FAMC @FVII_7@
+1 FAMS @FVIII_20@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-20
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r09_c3.jpg
+2 CONT vihitty: 1975-03-14
+2 CONT puoliso: Juhani From, s. 1953-11-02 Raisio
+0 @IVIII_21@ INDI
+1 NAME Juha Matias Hirvonen
+1 BIRT
+2 DATE 19 OCT 1964
+2 PLAC Raisio
+1 FAMC @FVII_7@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-21
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r09_c3.jpg
+2 CONT syntymapaikka: Raisio
+0 @IVIII_22@ INDI
+1 NAME Jari Kalevi
+1 BIRT
+2 DATE 19 DEC 1970
+2 PLAC Turku
+1 FAMC @FVII_8@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-22
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r08_c3.jpg
+2 CONT syntymapaikka: Turku
+0 @IVIII_23@ INDI
+1 NAME Marianne Johanna
+1 BIRT
+2 DATE 21 APR 1979
+2 PLAC Turku
+1 FAMC @FVII_8@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-23
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r08_c3.jpg
+2 CONT syntymapaikka: Turku
+0 @IVIII_24@ INDI
+1 NAME Matti Armas Santtila
+1 BIRT
+2 DATE 21 APR 1962
+2 PLAC Ruovesi
+1 FAMC @FVII_9@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-24
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r08_c3.jpg
+2 CONT syntymapaikka: Ruovesi
+0 @IVIII_25@ INDI
+1 NAME Riitta Sinikka Santtila
+1 BIRT
+2 DATE 10 NOV 1963
+2 PLAC Laihia
+1 FAMC @FVII_9@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-25
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r08_c3.jpg
+2 CONT syntymapaikka: Laihia
+0 @IVIII_26@ INDI
+1 NAME Mikko Juhani Santtila
+1 BIRT
+2 DATE 12 OCT 1969
+2 PLAC Ruovesi
+1 FAMC @FVII_9@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-26
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r08_c3.jpg
+2 CONT syntymapaikka: Ruovesi
+0 @IVIII_27@ INDI
+1 NAME Timo Forsbacka
+1 BIRT
+2 DATE 29 DEC 1964
+1 FAMC @FVII_10@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-27
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r08_c3.jpg
+0 @IVIII_28@ INDI
+1 NAME Gunnar Ensio Poutanen
+1 BIRT
+2 DATE 27 JUN 1929
+1 FAMC @FVII_11@
+1 FAMS @FVIII_28@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-28
+2 CONT sukupolvi: VIII
+2 CONT vihitty: 1950-06-11
+2 CONT puoliso: I av. Elina s. Peukku, s. 1928-08-05 Hiitola; II av. 26.03.1977 Maija Kyllikki s. Huupponen, s. 1953-08-09 Rantasalmi
+2 CONT huomiot: Eronneet 20.03.1972
+2 CONT lahde: lohko_r07_c3(2).jpg
+0 @IVIII_29@ INDI
+1 NAME Paavo Johannes Poutanen
+1 BIRT
+2 DATE 20 OCT 1937
+1 FAMC @FVII_11@
+1 FAMS @FVIII_29@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-29
+2 CONT sukupolvi: VIII
+2 CONT vihitty: 1958-11-02
+2 CONT puoliso: Anja Liisa s. Kosonen, s. 1937-11-03
+2 CONT lahde: lohko_r07_c3(2).jpg
+0 @IVIII_30@ INDI
+1 NAME Maire Ester Poutanen
+1 BIRT
+2 DATE 17 MAR 1939
+1 DEAT
+2 DATE 22 JUN 1940
+1 FAMC @FVII_11@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-30
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r07_c3(2).jpg
+0 @IVIII_31@ INDI
+1 NAME Marja-Liisa Poutanen
+1 BIRT
+2 DATE 30 SEP 1945
+1 FAMC @FVII_11@
+1 FAMS @FVIII_31@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-31
+2 CONT sukupolvi: VIII
+2 CONT vihitty: 1964-03-29
+2 CONT puoliso: Tuomo Ilmari Melaskoski, s. 1943-02-12
+2 CONT huomiot: Avioero 12.10.1972
+2 CONT lahde: lohko_r07_c3(2).jpg
+0 @IVIII_32@ INDI
+1 NAME Eila Anneli Harmanen
+1 BIRT
+2 DATE 8 FEB 1944
+1 FAMC @FVII_17@
+1 FAMS @FVIII_32@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-32
+2 CONT sukupolvi: VIII
+2 CONT vihitty: 1965-06-06
+2 CONT puoliso: Esko Juhani Heikkilä, s. 1942-11-23 Simpele
+2 CONT lahde: lohko_r07_c3(2).jpg
+0 @IVIII_33@ INDI
+1 NAME Eeva Kaarina Harmanen
+1 BIRT
+2 DATE 25 DEC 1945
+1 FAMC @FVII_17@
+1 FAMS @FVIII_33@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-33
+2 CONT sukupolvi: VIII
+2 CONT vihitty: 1971-07-04
+2 CONT puoliso: Timo Sakari Fischer, s. 1945-09-02 H:ki
+2 CONT paikat: Muutti H:ki Roihuvuoren srk 07.07.1971
+2 CONT lahde: lohko_r07_c3(2).jpg
+0 @IVIII_34@ INDI
+1 NAME Elvi Maria Harmanen
+1 BIRT
+2 DATE 18 JUL 1947
+1 FAMC @FVII_17@
+1 FAMS @FVIII_34@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-34
+2 CONT sukupolvi: VIII
+2 CONT vihitty: 1964-10-11
+2 CONT puoliso: Laakko Tapani Heikkilä, s. 1944-07-30
+2 CONT paikat: Muutti Imatralle 06.09.1965
+2 CONT lahde: lohko_r07_c3(2).jpg
+0 @IVIII_35@ INDI
+1 NAME Lahja Inkeri Anttonen
+1 BIRT
+2 DATE 28 AUG 1942
+2 PLAC H:ki
+1 FAMC @FVII_18@
+1 FAMS @FVIII_35@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-35
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: H:ki
+2 CONT vihitty: 1968-08-25
+2 CONT puoliso: Juhani Sakari Reingoldt, s. 1939-10-03 Kotka
+2 CONT lahde: lohko_r07_c3(2).jpg
+0 @IVIII_42@ INDI
+1 NAME Jina Tiina
+1 BIRT
+2 DATE 11 OCT 1958
+2 PLAC Joutseno
+1 FAMC @FVII_35@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-42
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Joutseno
+2 CONT lahde: lohko_r04_c3.jpg
+0 @IVIII_43@ INDI
+1 NAME Irina Satu-Sisko
+1 BIRT
+2 DATE 24 MAR 1968
+2 PLAC Joutseno
+1 FAMC @FVII_35@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-43
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Joutseno
+2 CONT lahde: lohko_r04_c3.jpg
+0 @IVIII_44@ INDI
+1 NAME Eija Anneli
+1 BIRT
+2 DATE 17 JUL 1953
+2 PLAC Ruokolahti
+1 FAMC @FVII_38@
+1 FAMS @FVIII_44@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-44
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Ruokolahti
+2 CONT vihitty: 1972-10-08
+2 CONT puoliso: I av. Veikko Juhani Lankinen, s. 1950-06-24 Imatra; avioero 21.01.1976. II av. 14.05.1976 Reijo Kalevi Flyktman, s. 1951-06-09 Laukaa.
+2 CONT paikat: Muutti Imatralle 21.11.1972; muuttivat Imatralle 19.09.1978
+2 CONT huomiot: Avioerossa vaimolle tyttönimi
+2 CONT lahde: lohko_r04_c3.jpg
+0 @IVIII_45@ INDI
+1 NAME Veli Matti
+1 BIRT
+2 DATE 25 MAY 1960
+2 PLAC Ruokolahti
+1 FAMC @FVII_38@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-45
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Ruokolahti
+2 CONT paikat: Muutti 17.09.1973 naimattomana Imatralle
+2 CONT lahde: lohko_r04_c3.jpg
+0 @IVIII_46@ INDI
+1 NAME Teija Maritta
+1 BIRT
+2 DATE 6 JAN 1964
+2 PLAC Ruokolahti
+1 FAMC @FVII_38@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-46
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Ruokolahti
+2 CONT paikat: Muutti 17.09.1973 naimattomana Imatralle
+2 CONT lahde: lohko_r04_c3.jpg
+0 @IVIII_47@ INDI
+1 NAME Sari Tuulia Ruottinen
+1 BIRT
+2 DATE 21 DEC 1964
+2 PLAC Ruokolahti
+1 FAMC @FVII_40@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-47
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Ruokolahti
+2 CONT lahde: lohko_r04_c3.jpg
+0 @IVIII_48@ INDI
+1 NAME Pasi Veli Kalevi Ruottinen
+1 BIRT
+2 DATE 31 AUG 1970
+2 PLAC Ruokolahti
+1 FAMC @FVII_40@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-48
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Ruokolahti
+2 CONT lahde: lohko_r04_c3.jpg
+0 @IVIII_49@ INDI
+1 NAME Ilkka Martti Juhani
+1 BIRT
+2 DATE 11 FEB 1962
+2 PLAC Ruokolahti
+1 FAMC @FVII_41@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-49
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Ruokolahti
+2 CONT lahde: lohko_r04_c3.jpg
+0 @IVIII_50@ INDI
+1 NAME Jukka Kaleva
+1 BIRT
+2 DATE 15 APR 1964
+2 PLAC Ruokolahti
+1 FAMC @FVII_41@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-50
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Ruokolahti
+2 CONT lahde: lohko_r04_c3.jpg
+0 @IVIII_51@ INDI
+1 NAME Pekka Ilari
+1 BIRT
+2 DATE 15 APR 1964
+2 PLAC Ruokolahti
+1 FAMC @FVII_41@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-51
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Ruokolahti
+2 CONT lahde: lohko_r04_c3.jpg
+0 @IVIII_52@ INDI
+1 NAME Anni Kaisa Helena Miettinen
+1 BIRT
+2 DATE 7 JAN 1959
+2 PLAC Ruokolahti
+1 FAMC @FVII_42@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-52
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Ruokolahti
+2 CONT lahde: lohko_r04_c3.jpg
+0 @IVIII_53@ INDI
+1 NAME Visa Veli Sakari Miettinen
+1 BIRT
+2 DATE 22 JAN 1961
+2 PLAC Ruokolahti
+1 FAMC @FVII_42@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-53
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Ruokolahti
+2 CONT lahde: lohko_r04_c3.jpg
+0 @IVIII_54@ INDI
+1 NAME Petri Veikko Tapani Miettinen
+1 BIRT
+2 DATE 1 SEP 1963
+2 PLAC Ruokolahti
+1 FAMC @FVII_42@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-54
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Ruokolahti
+2 CONT huomiot: Laatikko jatkuu lohkossa r04_c3 – tarkista ja täydennä vanhempi
+2 CONT lahde: lohko_r04_c3.jpg
+0 @IVIII_55@ INDI
+1 NAME Tommi Markus Akkanen
+1 BIRT
+2 DATE 17 OCT 1966
+2 PLAC L:ranta
+1 FAMC @FVII_43@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-55
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: L:ranta
+2 CONT lahde: lohko_r03_c3.jpg
+0 @IVIII_56@ INDI
+1 NAME Susanna Annukka Akkanen
+1 BIRT
+2 DATE 11 MAR 1972
+2 PLAC L:ranta
+1 FAMC @FVII_43@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-56
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: L:ranta
+2 CONT lahde: lohko_r03_c3.jpg
+0 @IVIII_57@ INDI
+1 NAME Kirsi Marja Anneli
+1 BIRT
+2 DATE 1 OCT 1947
+2 PLAC Simpele
+1 FAMC @FVII_48@
+1 FAMS @FVIII_57@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-57
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Simpele
+2 CONT vihitty: 1968-09-21
+2 CONT puoliso: Hannu Antero Lehtiö, s. 1945-08-22 Hämeenlinna
+2 CONT lahde: lohko_r03_c3.jpg
+0 @IVIII_58@ INDI
+1 NAME Eija Sisko Marketta
+1 BIRT
+2 DATE 13 JUN 1949
+2 PLAC Simpele
+1 FAMC @FVII_48@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-58
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Simpele
+2 CONT vihitty: 1975-07-17
+2 CONT puoliso: Lars Buch Olsen, s. 1950-07-06 Kööpenhamina, Tanska
+2 CONT lahde: lohko_r03_c3.jpg
+0 @IVIII_59@ INDI
+1 NAME Tarja Maria
+1 BIRT
+2 DATE 29 JUN 1959
+2 PLAC Hämeenlinna
+1 FAMC @FVII_48@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-59
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Hämeenlinna
+2 CONT lahde: lohko_r03_c3.jpg
+0 @IVIII_60@ INDI
+1 NAME Reima Juhani Sairanen
+1 BIRT
+2 DATE 6 JUN 1955
+1 FAMC @FVII_49@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-60
+2 CONT sukupolvi: VIII
+2 CONT lahde: lohko_r03_c3.jpg
+0 @IVIII_61@ INDI
+1 NAME Risto Sakari Sairanen
+1 BIRT
+2 DATE 18 AUG 1956
+2 PLAC H:ki
+1 FAMC @FVII_49@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-61
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: H:ki
+2 CONT lahde: lohko_r03_c3.jpg
+0 @IVIII_62@ INDI
+1 NAME Arto Kalevi Sairanen
+1 BIRT
+2 DATE 17 JUN 1958
+2 PLAC H:ki
+1 FAMC @FVII_49@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-62
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: H:ki
+2 CONT lahde: lohko_r03_c3.jpg
+0 @IVIII_63@ INDI
+1 NAME Sointu Helena Susanne Sairanen
+1 BIRT
+2 DATE 25 OCT 1962
+2 PLAC Espoo
+1 FAMC @FVII_49@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-63
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Espoo
+2 CONT lahde: lohko_r03_c3.jpg
+0 @IVIII_64@ INDI
+1 NAME Ari Juhani Kuvaja
+1 BIRT
+2 DATE 31 JAN 1959
+2 PLAC Savonlinna
+1 FAMC @FVII_50@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-64
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Savonlinna
+2 CONT huomiot: Muutti naimatt. Kotkaan 30.05.1984
+2 CONT lahde: lohko_r03_c3.jpg
+0 @IVIII_65@ INDI
+1 NAME Merja Anneli Tuovinen
+1 BIRT
+2 DATE 2 DEC 1969
+2 PLAC Pieksämäki
+1 FAMC @FVII_52@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-65
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Pieksämäki
+2 CONT lahde: lohko_r03_c3.jpg
+0 @IVIII_65b@ INDI
+1 NAME Jarmo Antero Tuovinen
+1 BIRT
+2 DATE 5 JAN 1976
+2 PLAC Kerava
+1 FAMC @FVII_52@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-65b
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Kerava
+2 CONT huomiot: Laatikon numero epäselvä (kartassa 65 kahdesti?) – tarkista
+2 CONT lahde: lohko_r02_c3.jpg
+0 @IVIII_66@ INDI
+1 NAME Jouko Olavi Varis
+1 BIRT
+2 DATE 17 DEC 1957
+2 PLAC Rovaniemi
+1 FAMC @FVII_54@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-66
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Rovaniemi
+2 CONT lahde: lohko_r02_c3.jpg
+0 @IVIII_67@ INDI
+1 NAME Seija Katriina Varis
+1 BIRT
+2 DATE 7 MAY 1961
+2 PLAC Rovaniemi
+1 FAMC @FVII_54@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-67
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Rovaniemi
+2 CONT lahde: lohko_r02_c3.jpg
+0 @IVIII_68@ INDI
+1 NAME Heimo Juhani Varis
+1 BIRT
+2 DATE 24 AUG 1962
+2 PLAC Rovaniemi
+1 FAMC @FVII_54@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-68
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Rovaniemi
+2 CONT lahde: lohko_r02_c3.jpg
+0 @IVIII_69@ INDI
+1 NAME Raisa Aulikki Vellonen
+1 BIRT
+2 DATE 5 AUG 1959
+2 PLAC Simpele
+1 FAMC @FVII_55@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-69
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Simpele
+2 CONT lahde: lohko_r02_c3.jpg
+0 @IVIII_70@ INDI
+1 NAME Olli Pekka Vellonen
+1 BIRT
+2 DATE 7 AUG 1961
+2 PLAC Simpele
+1 FAMC @FVII_55@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-70
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Simpele
+2 CONT lahde: lohko_r02_c3.jpg
+0 @IVIII_71@ INDI
+1 NAME Ranja Hannele Vellonen
+1 BIRT
+2 DATE 12 OCT 1968
+2 PLAC Simpele
+1 FAMC @FVII_55@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-71
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Simpele
+2 CONT lahde: lohko_r02_c3.jpg
+0 @IVIII_72@ INDI
+1 NAME Riina Johanna Vellonen
+1 BIRT
+2 DATE 24 DEC 1971
+2 PLAC Simpele
+1 FAMC @FVII_55@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-72
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Simpele
+2 CONT lahde: lohko_r02_c3.jpg
+0 @IVIII_73@ INDI
+1 NAME Jussi Tapani Kokko
+1 BIRT
+2 DATE 7 OCT 1962
+2 PLAC Sippola
+1 FAMC @FVII_56@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-73
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Sippola
+2 CONT huomiot: Siirtyi srk-jaossa Inkeroisiin
+2 CONT lahde: lohko_r02_c3.jpg
+0 @IVIII_74@ INDI
+1 NAME Jukka Petteri Hassinen
+1 BIRT
+2 DATE 6 NOV 1966
+2 PLAC Säyneinen
+1 FAMC @FVII_57@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-74
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Säyneinen
+2 CONT lahde: lohko_r02_c3.jpg
+0 @IVIII_75@ INDI
+1 NAME Liisu Johanna Hassinen
+1 BIRT
+2 DATE 15 JUL 1968
+2 PLAC Rääkkylä
+1 FAMC @FVII_57@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-75
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Rääkkylä
+2 CONT huomiot: Etunimi mahd. Liisa – tarkista
+2 CONT lahde: lohko_r02_c3.jpg
+0 @IVIII_76@ INDI
+1 NAME Anna Maria Hassinen
+1 BIRT
+2 DATE 25 MAY 1978
+2 PLAC Rääkkylä
+1 FAMC @FVII_57@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-76
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Rääkkylä
+2 CONT lahde: lohko_r02_c3.jpg
+0 @IVIII_77@ INDI
+1 NAME Pia Susanna Elovaara
+1 BIRT
+2 DATE 7 OCT 1962
+2 PLAC H:ki
+1 FAMC @FVII_58@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-77
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: H:ki
+2 CONT lahde: lohko_r01_c3.jpg
+0 @IVIII_78@ INDI
+1 NAME Mari Annukka Elovaara
+1 BIRT
+2 DATE 21 FEB 1965
+2 PLAC Pielavesi
+1 FAMC @FVII_58@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-78
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Pielavesi
+2 CONT lahde: lohko_r01_c3.jpg
+0 @IVIII_79@ INDI
+1 NAME Mikko Kustaa Elovaara
+1 BIRT
+2 DATE 2 APR 1969
+2 PLAC Kalajoki
+1 FAMC @FVII_58@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-79
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Kalajoki
+2 CONT lahde: lohko_r01_c3.jpg
+0 @IVIII_80@ INDI
+1 NAME Marko Matti Ensio Järvinen
+1 BIRT
+2 DATE 25 SEP 1970
+2 PLAC Göteborg
+1 FAMC @FVII_59@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-80
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Göteborg
+2 CONT huomiot: Muutti Kurikkaan 02.07.1975
+2 CONT lahde: lohko_r01_c3.jpg
+0 @IVIII_81@ INDI
+1 NAME Thomas Tomi Mikael Järvinen
+1 BIRT
+2 DATE 29 AUG 1972
+2 PLAC Göteborg
+1 FAMC @FVII_59@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-81
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: Göteborg
+2 CONT huomiot: Muutti 02.07.1975 Kurikkaan
+2 CONT lahde: lohko_r01_c3.jpg
+0 @IVIII_82@ INDI
+1 NAME Teemu Juhani Vellonen
+1 BIRT
+2 DATE 16 JUN 1979
+2 PLAC S:linna
+1 FAMC @FVII_60@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-82
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: S:linna
+2 CONT lahde: lohko_r01_c3.jpg
+0 @IVIII_83@ INDI
+1 NAME Riikka Liisa Helena Vellonen
+1 BIRT
+2 DATE 21 AUG 1981
+2 PLAC S:linna
+1 FAMC @FVII_60@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: VIII-83
+2 CONT sukupolvi: VIII
+2 CONT syntymapaikka: S:linna
+2 CONT lahde: lohko_r01_c3.jpg
+0 @IIX_1@ INDI
+1 NAME Sami Petteri Hirvonen
+1 BIRT
+2 DATE 16 JUN 1987
+2 PLAC Ruotsi
+1 FAMC @FVIII_19@
+1 FAMS @FIX_1@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-1
+2 CONT sukupolvi: IX
+2 CONT lahde: lohko_r09_c3.jpg
+2 CONT syntymapaikka: Ruotsi
+0 @IIX_2@ INDI
+1 NAME Juha Petteri From
+1 BIRT
+2 DATE 8 APR 1976
+2 PLAC Raisio
+1 FAMC @FVIII_20@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-2
+2 CONT sukupolvi: IX
+2 CONT lahde: lohko_r09_c3.jpg
+2 CONT syntymapaikka: Raisio
+0 @IIX_3@ INDI
+1 NAME Jussi Matias From
+1 BIRT
+2 DATE 17 AUG 1977
+2 PLAC Raisio
+1 FAMC @FVIII_20@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-3
+2 CONT sukupolvi: IX
+2 CONT lahde: lohko_r09_c3.jpg
+2 CONT syntymapaikka: Raisio
+0 @IIX_4@ INDI
+1 NAME Timo Väinö Tapio Raikko
+1 BIRT
+2 DATE 29 MAR 1955
+2 PLAC Karinainen
+1 FAMC @FVIII_9@
+1 FAMS @FIX_4@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-4
+2 CONT sukupolvi: IX
+2 CONT lahde: lohko_r10_c3.jpg
+2 CONT syntymapaikka: Karinainen
+2 CONT vihitty: 1976-07-17
+2 CONT puoliso: Paula Kaarina s. Uotila, s. 1956-02-09 Loimaa
+0 @IIX_5@ INDI
+1 NAME Merja Terttu Anneli Raikko
+1 BIRT
+2 DATE 21 OCT 1959
+2 PLAC Karinainen
+1 FAMC @FVIII_9@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-5
+2 CONT sukupolvi: IX
+2 CONT lahde: lohko_r10_c3.jpg
+2 CONT syntymapaikka: Karinainen
+2 CONT paikat: Muutti 02.10.1984 Paimioon
+0 @IIX_6@ INDI
+1 NAME Pekka Matias Pietarinen
+1 BIRT
+2 DATE 4 FEB 1983
+2 PLAC H:ki
+1 FAMC @FVIII_10@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-6
+2 CONT sukupolvi: IX
+2 CONT lahde: lohko_r09_c3.jpg
+2 CONT syntymapaikka: H:ki
+0 @IIX_7@ INDI
+1 NAME Olli Juhani Pietarinen
+1 BIRT
+2 DATE 11 OCT 1985
+2 PLAC H:ki
+1 FAMC @FVIII_10@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-7
+2 CONT sukupolvi: IX
+2 CONT lahde: lohko_r09_c3.jpg
+2 CONT syntymapaikka: H:ki
+0 @IIX_8@ INDI
+1 NAME Vesa Pekka Antero Pietarinen
+1 BIRT
+2 DATE 8 FEB 1972
+2 PLAC Savonlinna
+1 FAMC @FVIII_11@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-8
+2 CONT sukupolvi: IX
+2 CONT lahde: lohko_r09_c3.jpg
+2 CONT syntymapaikka: Savonlinna
+0 @IIX_9@ INDI
+1 NAME Leena Johanna Pietarinen
+1 BIRT
+2 DATE 6 MAY 1975
+2 PLAC Savonlinna
+1 FAMC @FVIII_11@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-9
+2 CONT sukupolvi: IX
+2 CONT lahde: lohko_r09_c3.jpg
+2 CONT syntymapaikka: Savonlinna
+0 @IIX_10@ INDI
+1 NAME Mikko Olavi
+1 BIRT
+2 DATE 3 MAR 1980
+2 PLAC S:linna
+1 FAMC @FVIII_16@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-10
+2 CONT sukupolvi: IX
+2 CONT lahde: lohko_r09_c3.jpg
+2 CONT syntymapaikka: S:linna
+0 @IIX_11@ INDI
+1 NAME Tony Eerik
+1 BIRT
+2 DATE 6 SEP 1987
+2 PLAC S:linna
+1 FAMC @FVIII_16@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-11
+2 CONT sukupolvi: IX
+2 CONT lahde: lohko_r09_c3.jpg
+2 CONT syntymapaikka: S:linna
+0 @IIX_12@ INDI
+1 NAME Raija Tuula Anneli Poutanen
+1 BIRT
+2 DATE 23 JUN 1951
+2 PLAC Rantasalmi
+1 FAMC @FVIII_28@
+1 FAMS @FIX_12@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-12
+2 CONT sukupolvi: IX
+2 CONT syntymapaikka: Rantasalmi
+2 CONT vihitty: 1979-07-14
+2 CONT puoliso: Risto Tapani Pennanen, s. 1935-03-26 Kerimäki
+2 CONT lahde: lohko_r07_c3(2).jpg
+0 @IIX_13@ INDI
+1 NAME Markku Antero Poutanen
+1 BIRT
+2 DATE 4 MAR 1954
+2 PLAC Rantasalmi
+1 FAMC @FVIII_28@
+1 FAMS @FIX_13@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-13
+2 CONT sukupolvi: IX
+2 CONT syntymapaikka: Rantasalmi
+2 CONT vihitty: 1977-05-21
+2 CONT puoliso: Eija-Riitta Marjukka Mikkonen, s. 1954-11-24 Rantasalmi
+2 CONT lahde: lohko_r07_c3(2).jpg
+0 @IIX_14@ INDI
+1 NAME Armi Eija Kaarina Poutanen
+1 BIRT
+2 DATE 3 OCT 1960
+2 PLAC Juva
+1 FAMC @FVIII_29@
+1 FAMS @FIX_14@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-14
+2 CONT sukupolvi: IX
+2 CONT syntymapaikka: Juva
+2 CONT vihitty: 1981-10-30
+2 CONT puoliso: Martti Kalevi Oksa, s. 1957-04-24
+2 CONT lahde: lohko_r07_c3(2).jpg
+0 @IIX_15@ INDI
+1 NAME Jouko Ari Tapio Melaskoski
+1 BIRT
+2 DATE 28 JAN 1965
+2 PLAC H:ki
+1 FAMC @FVIII_31@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-15
+2 CONT sukupolvi: IX
+2 CONT syntymapaikka: H:ki
+2 CONT lahde: lohko_r07_c3(2).jpg
+0 @IIX_16@ INDI
+1 NAME Jouni Kari Juhani Melaskoski
+1 BIRT
+2 DATE 24 JAN 1966
+2 PLAC H:ki
+1 FAMC @FVIII_31@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-16
+2 CONT sukupolvi: IX
+2 CONT syntymapaikka: H:ki
+2 CONT lahde: lohko_r07_c3(2).jpg
+0 @IIX_17@ INDI
+1 NAME Tarja Tuulikki Heikkilä
+1 BIRT
+2 DATE 18 JUN 1967
+1 FAMC @FVIII_32@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-17
+2 CONT sukupolvi: IX
+2 CONT lahde: lohko_r07_c3(2).jpg
+0 @IIX_18@ INDI
+1 NAME Anne Maarit Heikkilä
+1 BIRT
+2 DATE 4 JUN 1970
+1 FAMC @FVIII_32@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-18
+2 CONT sukupolvi: IX
+2 CONT lahde: lohko_r07_c3(2).jpg
+0 @IIX_19@ INDI
+1 NAME Juha Pekka Heikkilä
+1 BIRT
+2 DATE 8 JUN 1975
+1 FAMC @FVIII_32@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-19
+2 CONT sukupolvi: IX
+2 CONT lahde: lohko_r07_c3(2).jpg
+0 @IIX_20@ INDI
+1 NAME Siru Johanna Fischer
+1 BIRT
+2 DATE 14 JAN 1973
+2 PLAC H:ki
+1 FAMC @FVIII_33@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-20
+2 CONT sukupolvi: IX
+2 CONT syntymapaikka: H:ki
+2 CONT lahde: lohko_r07_c3(2).jpg
+0 @IIX_21@ INDI
+1 NAME Jaana Marita Heikkilä
+1 BIRT
+2 DATE 8 NOV 1964
+1 FAMC @FVIII_34@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-21
+2 CONT sukupolvi: IX
+2 CONT lahde: lohko_r07_c3(2).jpg
+0 @IIX_22@ INDI
+1 NAME Tiina Helena Heikkilä
+1 BIRT
+2 DATE 29 OCT 1965
+2 PLAC Imatra
+1 FAMC @FVIII_34@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-22
+2 CONT sukupolvi: IX
+2 CONT syntymapaikka: Imatra
+2 CONT lahde: lohko_r07_c3(2).jpg
+0 @IIX_23@ INDI
+1 NAME Minna Kristiina Heikkilä
+1 BIRT
+2 DATE 28 FEB 1969
+2 PLAC Imatra
+1 FAMC @FVIII_34@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-23
+2 CONT sukupolvi: IX
+2 CONT syntymapaikka: Imatra
+2 CONT lahde: lohko_r07_c3(2).jpg
+0 @IIX_24@ INDI
+1 NAME Tero Juhani Reingoldt
+1 BIRT
+2 DATE 10 MAR 1969
+2 PLAC H:ki
+1 FAMC @FVIII_35@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-24
+2 CONT sukupolvi: IX
+2 CONT syntymapaikka: H:ki
+2 CONT lahde: lohko_r07_c3(2).jpg
+0 @IIX_25@ INDI
+1 NAME Teemu Petteri Reingoldt
+1 BIRT
+2 DATE 25 JUN 1974
+2 PLAC Kotka
+1 FAMC @FVIII_35@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-25
+2 CONT sukupolvi: IX
+2 CONT syntymapaikka: Kotka
+2 CONT lahde: lohko_r07_c3(2).jpg
+0 @IIX_33@ INDI
+1 NAME Toni Kalevi Flyktman
+1 BIRT
+2 DATE 15 MAR 1976
+2 PLAC Ruokolahti
+1 FAMC @FVIII_44@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-33
+2 CONT sukupolvi: IX
+2 CONT syntymapaikka: Ruokolahti
+2 CONT lahde: lohko_r04_c3.jpg
+0 @IIX_34@ INDI
+1 NAME Janne Kristian Flyktman
+1 BIRT
+2 DATE 9 JAN 1984
+2 PLAC Imatra
+1 FAMC @FVIII_44@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-34
+2 CONT sukupolvi: IX
+2 CONT syntymapaikka: Imatra
+2 CONT lahde: lohko_r04_c3.jpg
+0 @IIX_35@ INDI
+1 NAME Kati Annukka Lehtiö
+1 BIRT
+2 DATE 25 OCT 1972
+2 PLAC Hämeenlinna
+1 FAMC @FVIII_57@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: IX-35
+2 CONT sukupolvi: IX
+2 CONT syntymapaikka: Hämeenlinna
+2 CONT lahde: lohko_r03_c3.jpg
+0 @IX_1@ INDI
+1 NAME Reijo Tapani Kangas
+1 BIRT
+2 DATE 1 DEC 1966
+2 PLAC Turku
+1 FAMC @FIX_1@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: X-1
+2 CONT sukupolvi: X
+2 CONT lahde: lohko_r10_c4(2).jpg
+2 CONT syntymapaikka: Turku
+2 CONT paikat: Muutti 17.07.1985 Liedon srk:taan
+0 @IX_2@ INDI
+1 NAME Jari Tapio Kangas
+1 BIRT
+2 DATE 6 MAR 1969
+2 PLAC Turku
+1 FAMC @FIX_1@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: X-2
+2 CONT sukupolvi: X
+2 CONT lahde: lohko_r10_c4(2).jpg
+2 CONT syntymapaikka: Turku
+2 CONT paikat: Muutti Liedon srk:taan 17.07.1985
+0 @IX_3@ INDI
+1 NAME Eija Kaarina Raikko
+1 BIRT
+2 DATE 1 NOV 1976
+2 PLAC Karinainen
+1 FAMC @FIX_4@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: X-3
+2 CONT sukupolvi: X
+2 CONT lahde: lohko_r10_c4(2).jpg
+2 CONT syntymapaikka: Karinainen
+0 @IX_4@ INDI
+1 NAME Anne Maria Raikko
+1 BIRT
+2 DATE 2 JUN 1981
+2 PLAC Karinainen
+1 FAMC @FIX_4@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: X-4
+2 CONT sukupolvi: X
+2 CONT lahde: lohko_r10_c4(2).jpg
+2 CONT syntymapaikka: Karinainen
+0 @IX_5@ INDI
+1 NAME Jussi Jaakko Juhani Raikko
+1 BIRT
+2 DATE 8 FEB 1984
+2 PLAC Karinainen
+1 FAMC @FIX_4@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: X-5
+2 CONT sukupolvi: X
+2 CONT lahde: lohko_r10_c4(2).jpg
+2 CONT syntymapaikka: Karinainen
+0 @IX_6@ INDI
+1 NAME Janne Väinö Tapio Raikko
+1 BIRT
+2 DATE 8 FEB 1984
+2 PLAC Karinainen
+1 FAMC @FIX_4@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: X-6
+2 CONT sukupolvi: X
+2 CONT lahde: lohko_r10_c4(2).jpg
+2 CONT syntymapaikka: Karinainen
+0 @IX_7@ INDI
+1 NAME Henri Joona Samuli Pennanen
+1 BIRT
+2 DATE 14 FEB 1980
+2 PLAC Savonlinna
+1 FAMC @FIX_12@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: X-7
+2 CONT sukupolvi: X
+2 CONT syntymapaikka: Savonlinna
+2 CONT lahde: lohko_r07_c4(2).jpg
+0 @IX_8@ INDI
+1 NAME Joonas Heikki Sakari Pennanen
+1 BIRT
+2 DATE 5 APR 1983
+2 PLAC Kerimäki
+1 FAMC @FIX_12@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: X-8
+2 CONT sukupolvi: X
+2 CONT syntymapaikka: Kerimäki
+2 CONT lahde: lohko_r07_c4(2).jpg
+0 @IX_9@ INDI
+1 NAME Jouni Samuli Poutanen
+1 BIRT
+2 DATE 3 SEP 1976
+2 PLAC Savonlinna
+1 FAMC @FIX_13@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: X-9
+2 CONT sukupolvi: X
+2 CONT syntymapaikka: Savonlinna
+2 CONT lahde: lohko_r07_c4(2).jpg
+0 @IX_10@ INDI
+1 NAME Johanna Maria Poutanen
+1 BIRT
+2 DATE 26 FEB 1981
+2 PLAC Sulkava
+1 FAMC @FIX_13@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: X-10
+2 CONT sukupolvi: X
+2 CONT syntymapaikka: Sulkava
+2 CONT lahde: lohko_r07_c4(2).jpg
+0 @IX_11@ INDI
+1 NAME Martti Olavi Oksa
+1 BIRT
+2 DATE 29 JUL 1983
+1 FAMC @FIX_14@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: X-11
+2 CONT sukupolvi: X
+2 CONT lahde: lohko_r07_c4(2).jpg
+0 @IX_12@ INDI
+1 NAME Marja-Liisa Aulikki Oksa
+1 BIRT
+2 DATE 30 JUL 1985
+1 FAMC @FIX_14@
+1 SOUR @S1@
+1 NOTE Alkuperainen id: X-12
+2 CONT sukupolvi: X
+2 CONT lahde: lohko_r07_c4(2).jpg
+0 @FI_1@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: I-1. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @II_1@
+1 CHIL @III_1@
+1 CHIL @III_2@
+1 CHIL @III_3@
+0 @FII_1@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: II-1. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @III_1@
+1 CHIL @IIII_1@
+1 CHIL @IIII_2@
+1 CHIL @IIII_3@
+1 CHIL @IIII_4@
+1 CHIL @IIII_5@
+1 CHIL @IIII_6@
+0 @FIII_2@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: III-2. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IIII_2@
+1 CHIL @IIV_1@
+1 CHIL @IIV_2@
+1 CHIL @IIV_3@
+1 CHIL @IIV_4@
+1 CHIL @IIV_5@
+1 CHIL @IIV_6@
+1 CHIL @IIV_7@
+1 CHIL @IIV_8@
+1 CHIL @IIV_9@
+0 @FIII_3@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: III-3. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IIII_3@
+1 CHIL @IIV_10@
+0 @FIII_5@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: III-5. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IIII_5@
+1 CHIL @IIV_11@
+1 CHIL @IIV_12@
+1 CHIL @IIV_13@
+1 CHIL @IIV_14@
+1 CHIL @IIV_15@
+1 CHIL @IIV_16@
+0 @FIV_4@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: IV-4. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IIV_4@
+1 CHIL @IV_1@
+0 @FIV_8@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: IV-8. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IIV_8@
+1 CHIL @IV_2@
+1 CHIL @IV_3@
+1 CHIL @IV_6@
+1 CHIL @IV_7@
+1 CHIL @IV_8@
+0 @FIV_9@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: IV-9. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IIV_9@
+1 CHIL @IV_9@
+0 @FIX_1@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: IX-1. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IIX_1@
+1 CHIL @IX_1@
+1 CHIL @IX_2@
+0 @FIX_12@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: IX-12. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IIX_12@
+1 CHIL @IX_7@
+1 CHIL @IX_8@
+0 @FIX_13@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: IX-13. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IIX_13@
+1 CHIL @IX_9@
+1 CHIL @IX_10@
+0 @FIX_14@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: IX-14. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IIX_14@
+1 CHIL @IX_11@
+1 CHIL @IX_12@
+0 @FIX_4@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: IX-4. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IIX_4@
+1 CHIL @IX_3@
+1 CHIL @IX_4@
+1 CHIL @IX_5@
+1 CHIL @IX_6@
+0 @FV_1@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: V-1. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IV_1@
+1 CHIL @IVI_1@
+1 CHIL @IVI_2@
+1 CHIL @IVI_3@
+0 @FV_10@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: V-10. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IV_10@
+1 CHIL @IVI_32@
+1 CHIL @IVI_33@
+1 CHIL @IVI_34@
+1 CHIL @IVI_35@
+1 CHIL @IVI_36@
+1 CHIL @IVI_37@
+1 CHIL @IVI_38@
+1 CHIL @IVI_39@
+0 @FV_11@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: V-11. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IV_11@
+1 CHIL @IVI_40@
+1 CHIL @IVI_41@
+0 @FV_3@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: V-3. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IV_3@
+1 CHIL @IVI_4@
+1 CHIL @IVI_5@
+1 CHIL @IVI_6@
+0 @FV_4@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: V-4. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IV_4@
+1 CHIL @IVI_7@
+1 CHIL @IVI_8@
+1 CHIL @IVI_9@
+0 @FV_5@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: V-5. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IV_5@
+1 CHIL @IVI_10@
+1 CHIL @IVI_11@
+1 CHIL @IVI_12@
+1 CHIL @IVI_13@
+1 CHIL @IVI_14@
+1 CHIL @IVI_15@
+0 @FV_6@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: V-6. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IV_6@
+1 CHIL @IVI_18@
+1 CHIL @IVI_19@
+1 CHIL @IVI_20@
+1 CHIL @IVI_21@
+1 CHIL @IVI_22@
+0 @FV_8@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: V-8. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IV_8@
+1 CHIL @IVI_23@
+1 CHIL @IVI_24@
+1 CHIL @IVI_25@
+1 CHIL @IVI_26@
+1 CHIL @IVI_27@
+1 CHIL @IVI_28@
+0 @FV_9@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: V-9. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IV_9@
+1 CHIL @IVI_29@
+1 CHIL @IVI_30@
+1 CHIL @IVI_31@
+0 @FVI_1@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VI-1. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVI_1@
+1 CHIL @IVII_1@
+1 CHIL @IVII_2@
+0 @FVI_18@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VI-18. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVI_18@
+1 CHIL @IVII_11@
+1 CHIL @IVII_12@
+0 @FVI_20@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VI-20. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVI_20@
+1 CHIL @IVII_13@
+1 CHIL @IVII_14@
+1 CHIL @IVII_15@
+1 CHIL @IVII_16@
+0 @FVI_21@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VI-21. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVI_21@
+1 CHIL @IVII_17@
+1 CHIL @IVII_18@
+1 CHIL @IVII_19@
+0 @FVI_23@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VI-23. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVI_23@
+1 CHIL @IVII_20@
+1 CHIL @IVII_21@
+1 CHIL @IVII_22@
+1 CHIL @IVII_23@
+1 CHIL @IVII_24@
+0 @FVI_24@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VI-24. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVI_24@
+1 CHIL @IVII_25@
+1 CHIL @IVII_26@
+1 CHIL @IVII_27@
+0 @FVI_25@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VI-25. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVI_25@
+1 CHIL @IVII_28@
+1 CHIL @IVII_29@
+0 @FVI_27@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VI-27. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVI_27@
+1 CHIL @IVII_30@
+1 CHIL @IVII_31@
+0 @FVI_28@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VI-28. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVI_28@
+1 CHIL @IVII_32@
+1 CHIL @IVII_33@
+0 @FVI_29@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VI-29. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVI_29@
+1 CHIL @IVII_35@
+1 CHIL @IVII_36@
+1 CHIL @IVII_37@
+1 CHIL @IVII_38@
+1 CHIL @IVII_39@
+1 CHIL @IVII_40@
+1 CHIL @IVII_41@
+1 CHIL @IVII_42@
+1 CHIL @IVII_43@
+0 @FVI_30@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VI-30. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVI_30@
+1 CHIL @IVII_44@
+1 CHIL @IVII_45@
+1 CHIL @IVII_46@
+1 CHIL @IVII_47@
+0 @FVI_31@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VI-31. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVI_31@
+1 CHIL @IVII_48@
+0 @FVI_34@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VI-34. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVI_34@
+1 CHIL @IVII_49@
+1 CHIL @IVII_50@
+1 CHIL @IVII_51@
+1 CHIL @IVII_52@
+0 @FVI_36@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VI-36. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVI_36@
+1 CHIL @IVII_53@
+0 @FVI_37@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VI-37. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVI_37@
+1 CHIL @IVII_54@
+1 CHIL @IVII_55@
+1 CHIL @IVII_56@
+1 CHIL @IVII_57@
+0 @FVI_38@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VI-38. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVI_38@
+1 CHIL @IVII_58@
+1 CHIL @IVII_59@
+1 CHIL @IVII_60@
+0 @FVI_6@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VI-6. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVI_6@
+1 CHIL @IVII_3@
+1 CHIL @IVII_4@
+1 CHIL @IVII_5@
+1 CHIL @IVII_6@
+0 @FVI_7@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VI-7. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVI_7@
+1 CHIL @IVII_7@
+1 CHIL @IVII_8@
+1 CHIL @IVII_9@
+1 CHIL @IVII_10@
+0 @FVII_1@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-1. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_1@
+1 CHIL @IVIII_1@
+1 CHIL @IVIII_2@
+1 CHIL @IVIII_3@
+1 CHIL @IVIII_4@
+1 CHIL @IVIII_5@
+1 CHIL @IVIII_6@
+1 CHIL @IVIII_7@
+0 @FVII_10@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-10. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_10@
+1 CHIL @IVIII_27@
+0 @FVII_11@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-11. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_11@
+1 CHIL @IVIII_28@
+1 CHIL @IVIII_29@
+1 CHIL @IVIII_30@
+1 CHIL @IVIII_31@
+0 @FVII_17@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-17. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_17@
+1 CHIL @IVIII_32@
+1 CHIL @IVIII_33@
+1 CHIL @IVIII_34@
+0 @FVII_18@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-18. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_18@
+1 CHIL @IVIII_35@
+0 @FVII_2@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-2. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_2@
+1 CHIL @IVIII_8@
+1 CHIL @IVIII_9@
+0 @FVII_35@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-35. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_35@
+1 CHIL @IVIII_42@
+1 CHIL @IVIII_43@
+0 @FVII_38@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-38. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_38@
+1 CHIL @IVIII_44@
+1 CHIL @IVIII_45@
+1 CHIL @IVIII_46@
+0 @FVII_4@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-4. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_4@
+1 CHIL @IVIII_10@
+1 CHIL @IVIII_11@
+1 CHIL @IVIII_12@
+1 CHIL @IVIII_13@
+1 CHIL @IVIII_14@
+0 @FVII_40@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-40. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_40@
+1 CHIL @IVIII_47@
+1 CHIL @IVIII_48@
+0 @FVII_41@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-41. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_41@
+1 CHIL @IVIII_49@
+1 CHIL @IVIII_50@
+1 CHIL @IVIII_51@
+0 @FVII_42@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-42. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_42@
+1 CHIL @IVIII_52@
+1 CHIL @IVIII_53@
+1 CHIL @IVIII_54@
+0 @FVII_43@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-43. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_43@
+1 CHIL @IVIII_55@
+1 CHIL @IVIII_56@
+0 @FVII_48@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-48. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_48@
+1 CHIL @IVIII_57@
+1 CHIL @IVIII_58@
+1 CHIL @IVIII_59@
+0 @FVII_49@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-49. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_49@
+1 CHIL @IVIII_60@
+1 CHIL @IVIII_61@
+1 CHIL @IVIII_62@
+1 CHIL @IVIII_63@
+0 @FVII_5@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-5. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_5@
+1 CHIL @IVIII_15@
+0 @FVII_50@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-50. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_50@
+1 CHIL @IVIII_64@
+0 @FVII_52@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-52. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_52@
+1 CHIL @IVIII_65@
+1 CHIL @IVIII_65b@
+0 @FVII_54@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-54. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_54@
+1 CHIL @IVIII_66@
+1 CHIL @IVIII_67@
+1 CHIL @IVIII_68@
+0 @FVII_55@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-55. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_55@
+1 CHIL @IVIII_69@
+1 CHIL @IVIII_70@
+1 CHIL @IVIII_71@
+1 CHIL @IVIII_72@
+0 @FVII_56@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-56. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_56@
+1 CHIL @IVIII_73@
+0 @FVII_57@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-57. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_57@
+1 CHIL @IVIII_74@
+1 CHIL @IVIII_75@
+1 CHIL @IVIII_76@
+0 @FVII_58@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-58. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_58@
+1 CHIL @IVIII_77@
+1 CHIL @IVIII_78@
+1 CHIL @IVIII_79@
+0 @FVII_59@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-59. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_59@
+1 CHIL @IVIII_80@
+1 CHIL @IVIII_81@
+0 @FVII_6@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-6. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_6@
+1 CHIL @IVIII_16@
+1 CHIL @IVIII_17@
+1 CHIL @IVIII_18@
+0 @FVII_60@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-60. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_60@
+1 CHIL @IVIII_82@
+1 CHIL @IVIII_83@
+0 @FVII_7@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-7. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_7@
+1 CHIL @IVIII_19@
+1 CHIL @IVIII_20@
+1 CHIL @IVIII_21@
+0 @FVII_8@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-8. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_8@
+1 CHIL @IVIII_22@
+1 CHIL @IVIII_23@
+0 @FVII_9@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VII-9. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVII_9@
+1 CHIL @IVIII_24@
+1 CHIL @IVIII_25@
+1 CHIL @IVIII_26@
+0 @FVIII_10@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VIII-10. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVIII_10@
+1 CHIL @IIX_6@
+1 CHIL @IIX_7@
+0 @FVIII_11@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VIII-11. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVIII_11@
+1 CHIL @IIX_8@
+1 CHIL @IIX_9@
+0 @FVIII_16@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VIII-16. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVIII_16@
+1 CHIL @IIX_10@
+1 CHIL @IIX_11@
+0 @FVIII_19@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VIII-19. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVIII_19@
+1 CHIL @IIX_1@
+0 @FVIII_20@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VIII-20. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVIII_20@
+1 CHIL @IIX_2@
+1 CHIL @IIX_3@
+0 @FVIII_28@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VIII-28. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVIII_28@
+1 CHIL @IIX_12@
+1 CHIL @IIX_13@
+0 @FVIII_29@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VIII-29. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVIII_29@
+1 CHIL @IIX_14@
+0 @FVIII_31@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VIII-31. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVIII_31@
+1 CHIL @IIX_15@
+1 CHIL @IIX_16@
+0 @FVIII_32@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VIII-32. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVIII_32@
+1 CHIL @IIX_17@
+1 CHIL @IIX_18@
+1 CHIL @IIX_19@
+0 @FVIII_33@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VIII-33. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVIII_33@
+1 CHIL @IIX_20@
+0 @FVIII_34@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VIII-34. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVIII_34@
+1 CHIL @IIX_21@
+1 CHIL @IIX_22@
+1 CHIL @IIX_23@
+0 @FVIII_35@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VIII-35. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVIII_35@
+1 CHIL @IIX_24@
+1 CHIL @IIX_25@
+0 @FVIII_44@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VIII-44. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVIII_44@
+1 CHIL @IIX_33@
+1 CHIL @IIX_34@
+0 @FVIII_57@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VIII-57. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVIII_57@
+1 CHIL @IIX_35@
+0 @FVIII_9@ FAM
+1 NOTE Perhe generoitu vanhempi_id-kentasta. Vanhempi: VIII-9. Puoliso voi olla vanhemman puoliso-kentassa tekstina.
+1 _PARENT @IVIII_9@
+1 CHIL @IIX_4@
+1 CHIL @IIX_5@
+0 TRLR
