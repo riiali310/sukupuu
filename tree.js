@@ -267,8 +267,16 @@ function updateMatchesAndExpansion() {
 }
 
 function addPathAndDescendants(id) {
-  state.visibleIds.add(id);
-  expandPathTo(id);
+  // Näytä osuma, sen esivanhemmat ja välittömät lapset.
+  // Ilman esivanhempia syvällä oleva tarkistettava henkilö jää kokonaan piiloon,
+  // koska puu renderöidään juurista alaspäin.
+  let current = state.byId.get(id);
+  while (current) {
+    state.visibleIds.add(current.id);
+    state.expanded.add(current.id);
+    current = current.vanhempi_id ? state.byId.get(current.vanhempi_id) : null;
+  }
+
   for (const child of state.childrenByParent.get(id) || []) {
     state.visibleIds.add(child.id);
   }
